@@ -1,0 +1,344 @@
+---
+title: "Data 2020"
+author: "Lynn Chen"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(readxl)
+library(readr)
+
+knitr::opts_chunk$set(
+  fig.width = 6,
+  fig.asp = .6,
+  out.width = "90%"
+)
+
+theme_set(theme_minimal() + theme(legend.position = "bottom"))
+
+options(
+  ggplot2.continuous.colour = "viridis",
+  ggplot2.continuous.fill = "viridis"
+)
+
+scale_colour_discrete = scale_colour_viridis_d
+scale_fill_discrete = scale_fill_viridis_d
+```
+
+
+## Export 
+```{r}
+data = read_excel(".\\data/Export_2020.xls") %>% 
+  janitor::clean_names()
+
+data1 = 
+  excel_sheets(".\\data/Export_2020.xls")
+
+all_Sheets = lapply(data1, function(x) {          
+  as.data.frame(read_excel(".\\data/Export_2020.xls", sheet = x))}) 
+
+result = lapply(all_Sheets,`[`, -c(4:36),)
+results = lapply(result, function(x) {x <- x %>% select(1,2)})
+results1 = lapply(results, function(x) na.omit(x)) %>% 
+  set_names()
+
+
+Export_df = 
+  tibble(
+    sheets = c("September 2019", "October 2019", "November 2019", "December 2019", "January 2020", "February 2020", "March 2020", "April 2020", "May 2020", "June 2020", "July 2020", "August 2020", "September 2020", "October 2020", "November 2020"),
+    norms = results1
+  ) %>% 
+  unnest(norms) %>% 
+  janitor::clean_names() %>% 
+  pivot_longer(
+    sep:aug,
+    names_to = "month",
+    values_to = "Volumes"
+  ) %>% 
+  na.omit() %>% 
+  filter(x1 != "Item") %>% 
+  separate(sheets, c("Month", "Year")) %>% 
+  select(-month) %>% 
+  mutate(Volumes = as.numeric(Volumes)) %>% 
+  rename("Item" = "x1",
+         "Export Volume" = "Volumes")  
+
+write.csv(Export_df, file = "Export Clean.csv", row.names = F)
+
+```
+
+
+## Import
+
+```{r}
+data_import = 
+  excel_sheets(".\\data/Import_2020.xls")
+
+import_all = lapply(data_import, function(x) {          
+  as.data.frame(read_excel(".\\data/Import_2020.xls", sheet = x))}) 
+
+im_1 = lapply(import_all,`[`, -c(3:38),)
+im_2 = lapply(im_1, function(x) {x <- x %>% select(1,2)})
+im_result = lapply(im_2, function(x) na.omit(x)) %>% 
+  set_names()
+
+
+Import_df = 
+  tibble(
+    sheets = c("September 2019", "October 2019", "November 2019", "December 2019", "January 2020", "February 2020", "March 2020", "April 2020", "May 2020", "June 2020", "July 2020", "August 2020", "September 2020", "October 2020", "November 2020"),
+    norms = im_result
+  ) %>% 
+  unnest(norms) %>% 
+  janitor::clean_names() %>% 
+  pivot_longer(
+    sep:aug,
+    names_to = "month",
+    values_to = "Volumes"
+  ) %>% 
+  na.omit() %>% 
+  filter(x1 != "Item") %>% 
+  separate(sheets, c("Month", "Year")) %>% 
+  select(-month) %>% 
+  mutate(Volumes = as.numeric(Volumes)) %>% 
+  rename("Item" = "x1",
+         "Export Volume" = "Volumes")  
+
+write.csv(Import_df, file = "Import Clean.csv", row.names = F)
+```
+
+## Top 10 Exports
+
+```{r}
+data_topexport = 
+  excel_sheets(".\\data/Top10_export_2020.xls")
+
+top_export = lapply(data_topexport, function(x) {          
+  as.data.frame(read_excel(".\\data/Top10_export_2020.xls", sheet = x))}) 
+
+topexps_1 = lapply(top_export,`[`, c(3:15),)
+topexps_2 = lapply(topexps_1, function(x) {x <- x %>% select(1,5)})
+topexps_result = lapply(topexps_2, function(x) na.omit(x)) %>% 
+  set_names()
+
+Topexps_df = 
+  tibble(
+    sheets = c("October 2019", "November 2019", "December 2019", "January 2020", "February 2020", "March 2020", "April 2020", "May 2020", "June 2020", "July 2020", "August 2020", "September 2020", "October 2020", "November 2020", "December 2020"),
+    norms = topexps_result
+  ) %>% 
+  unnest(norms) %>% 
+  janitor::clean_names() %>% 
+  pivot_longer(
+    oct_5:sep_5,
+    names_to = "month",
+    values_to = "values"
+  ) %>% 
+  na.omit() %>% 
+  separate(sheets, c("Month", "Year")) %>% 
+  select(-month) %>% 
+  add_column("Commodity" = "Soybeans") %>%
+  mutate(values = as.numeric(values)) %>% 
+  rename("Export Country" = "x1",
+         "Export Values" = "values")  
+
+
+topexpw_1 = lapply(top_export,`[`, c(16:28),)
+topexpw_2 = lapply(topexpw_1, function(x) {x <- x %>% select(1,5)})
+topexpw_result = lapply(topexpw_2, function(x) na.omit(x)) %>% 
+  set_names()
+
+Topexpw_df = 
+  tibble(
+    sheets = c("October 2019", "November 2019", "December 2019", "January 2020", "February 2020", "March 2020", "April 2020", "May 2020", "June 2020", "July 2020", "August 2020", "September 2020", "October 2020", "November 2020", "December 2020"),
+    norms = topexpw_result
+  ) %>% 
+  unnest(norms) %>% 
+  janitor::clean_names() %>% 
+  pivot_longer(
+    oct_5:sep_5,
+    names_to = "month",
+    values_to = "values"
+  ) %>% 
+  na.omit() %>% 
+  separate(sheets, c("Month", "Year")) %>% 
+  select(-month) %>% 
+  add_column("Commodity" = "Wheat, Unmilled") %>% 
+  mutate(values = as.numeric(values)) %>% 
+  rename("Export Country" = "x1",
+         "Export Values" = "values")  
+
+
+corn_1 = lapply(top_export,`[`, c(29:41),)
+corn_2 = lapply(corn_1, function(x) {x <- x %>% select(1,5)})
+corn_result = lapply(corn_2, function(x) na.omit(x)) %>% 
+  set_names()
+
+corn_df = 
+  tibble(
+    sheets = c("October 2019", "November 2019", "December 2019", "January 2020", "February 2020", "March 2020", "April 2020", "May 2020", "June 2020", "July 2020", "August 2020", "September 2020", "October 2020", "November 2020", "December 2020"),
+    norms = corn_result
+  ) %>% 
+  unnest(norms) %>% 
+  janitor::clean_names() %>% 
+  pivot_longer(
+    oct_5:sep_5,
+    names_to = "month",
+    values_to = "values"
+  ) %>% 
+  na.omit() %>% 
+  separate(sheets, c("Month", "Year")) %>% 
+  select(-month) %>% 
+  add_column("Commodity" = "Corn") %>% 
+  mutate(values = as.numeric(values)) %>% 
+  rename("Export Country" = "x1",
+         "Export Values" = "values") 
+
+
+cotton_1 = lapply(top_export,`[`, c(42:53),)
+cotton_2 = lapply(cotton_1, function(x) {x <- x %>% select(1,5)})
+cotton_result = lapply(cotton_2, function(x) na.omit(x)) %>% 
+  set_names()
+
+Cotton_df = 
+  tibble(
+    sheets = c("October 2019", "November 2019", "December 2019", "January 2020", "February 2020", "March 2020", "April 2020", "May 2020", "June 2020", "July 2020", "August 2020", "September 2020", "October 2020", "November 2020", "December 2020"),
+    norms = cotton_result
+  ) %>% 
+  unnest(norms) %>% 
+  janitor::clean_names() %>% 
+  pivot_longer(
+    oct_5:sep_5,
+    names_to = "month",
+    values_to = "values"
+  ) %>% 
+  na.omit() %>% 
+  separate(sheets, c("Month", "Year")) %>% 
+  select(-month) %>% 
+  add_column("Commodity" = "Cotton, Ex Linters") %>% 
+  mutate(values = as.numeric(values)) %>% 
+  rename("Export Country" = "x1",
+         "Export Values" = "values")  
+
+top_export_df = rbind(Topexps_df, Topexpw_df, corn_df, Cotton_df)
+
+write.csv(top_export_df, file = "Top 10 Export Clean.csv", row.names = F)
+
+```
+
+
+## Top 10 Import
+
+```{r}
+data_topimp = 
+    excel_sheets(".\\data/Top10_imports_2020.xls")
+
+top_import = lapply(data_topimp, function(x) {          
+  as.data.frame(read_excel(".\\data/Top10_imports_2020.xls", sheet = x))}) 
+
+frozen1 = lapply(top_import,`[`, c(3:15),)
+frozen2 = lapply(frozen1, function(x) {x <- x %>% select(1,5)})
+frozen_result = lapply(frozen2, function(x) na.omit(x)) %>% 
+  set_names()
+
+frozen_df = 
+  tibble(
+    sheets = c("October 2019", "November 2019", "December 2019", "January 2020", "February 2020", "March 2020", "April 2020", "May 2020", "June 2020", "July 2020", "August 2020", "September 2020", "October 2020", "November 2020", "December 2020"),
+    norms = frozen_result
+  ) %>% 
+  unnest(norms) %>% 
+  janitor::clean_names() %>% 
+  pivot_longer(
+    oct_5:nov_5_2,
+    names_to = "month",
+    values_to = "values"
+  ) %>% 
+  na.omit() %>% 
+  separate(sheets, c("Month", "Year")) %>% 
+  select(-month) %>% 
+  add_column("Commodity" = "Fruits, fresh or frozen") %>%
+  mutate(values = as.numeric(values)) %>% 
+  rename("Import Country" = "x1",
+         "Import Values" = "values") 
+
+preserved1 = lapply(top_import,`[`, c(16:28),)
+preserved2 = lapply(preserved1, function(x) {x <- x %>% select(1,5)})
+preserved_result = lapply(preserved2, function(x) na.omit(x)) %>% 
+  set_names()
+
+preserved_df = 
+  tibble(
+    sheets = c("October 2019", "November 2019", "December 2019", "January 2020", "February 2020", "March 2020", "April 2020", "May 2020", "June 2020", "July 2020", "August 2020", "September 2020", "October 2020", "November 2020", "December 2020"),
+    norms = preserved_result
+  ) %>% 
+  unnest(norms) %>% 
+  janitor::clean_names() %>% 
+  pivot_longer(
+    oct_5:nov_5_2,
+    names_to = "month",
+    values_to = "values"
+  ) %>% 
+  na.omit() %>% 
+  separate(sheets, c("Month", "Year")) %>% 
+  select(-month) %>% 
+  add_column("Commodity" = "Fruits, prepared or preserved") %>%
+  mutate(values = as.numeric(values)) %>% 
+  rename("Import Country" = "x1",
+         "Import Values" = "values") 
+
+
+veg_frozen1 = lapply(top_import,`[`, c(29:41),)
+veg_frozen2 = lapply(veg_frozen1, function(x) {x <- x %>% select(1,5)})
+veg_frozen_result = lapply(veg_frozen2, function(x) na.omit(x)) %>% 
+  set_names()
+
+veg_frozen_df = 
+  tibble(
+    sheets = c("October 2019", "November 2019", "December 2019", "January 2020", "February 2020", "March 2020", "April 2020", "May 2020", "June 2020", "July 2020", "August 2020", "September 2020", "October 2020", "November 2020", "December 2020"),
+    norms = veg_frozen_result
+  ) %>% 
+  unnest(norms) %>% 
+  janitor::clean_names() %>% 
+  pivot_longer(
+    oct_5:nov_5_2,
+    names_to = "month",
+    values_to = "values"
+  ) %>% 
+  na.omit() %>% 
+  separate(sheets, c("Month", "Year")) %>% 
+  select(-month) %>% 
+  add_column("Commodity" = "Vegetables, fresh or frozen") %>%
+  mutate(values = as.numeric(values)) %>% 
+  rename("Import Country" = "x1",
+         "Import Values" = "values") 
+
+
+veg_preserved1 = lapply(top_import,`[`, c(42:53),)
+veg_preserved2 = lapply(veg_preserved1, function(x) {x <- x %>% select(1,5)})
+veg_preserved_result = lapply(veg_preserved2, function(x) na.omit(x)) %>% 
+  set_names()
+
+veg_preserved_df = 
+  tibble(
+    sheets = c("October 2019", "November 2019", "December 2019", "January 2020", "February 2020", "March 2020", "April 2020", "May 2020", "June 2020", "July 2020", "August 2020", "September 2020", "October 2020", "November 2020", "December 2020"),
+    norms = veg_preserved_result
+  ) %>% 
+  unnest(norms) %>% 
+  janitor::clean_names() %>% 
+  pivot_longer(
+    oct_5:nov_5_2,
+    names_to = "month",
+    values_to = "values"
+  ) %>% 
+  na.omit() %>% 
+  separate(sheets, c("Month", "Year")) %>% 
+  select(-month) %>% 
+  add_column("Commodity" = "Vegetables, prepared or preserved") %>%
+  mutate(values = as.numeric(values)) %>% 
+  rename("Import Country" = "x1",
+         "Import Values" = "values") 
+
+top_import_df = rbind(frozen_df, preserved_df, veg_frozen_df, veg_preserved_df)
+
+write.csv(top_import_df, file = "Top 10 Import Clean.csv", row.names = F)
+```
+
