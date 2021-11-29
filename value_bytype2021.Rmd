@@ -1,0 +1,33 @@
+---
+title: "2019-2021 monthly data"
+author: "Zoey Zhao"
+date: "11/29/2021"
+output: github_document
+---
+```{r echo=FALSE, message=FALSE}
+library(tidyverse)
+```
+
+```{r}
+data2021Jan <-
+  readxl::read_xls("./rawdata/monthly_exports_bytypes_2021.xls", 
+                   sheet = 4,
+                   range = "C11:C40",
+                   col_names = "January")
+
+data2021Feb <-
+  readxl::read_xls("./rawdata/monthly_exports_bytypes_2021.xls", 
+                   sheet = 5,
+                   range = "C11:C40",
+                   col_names = "Feburary")
+
+data2021Mar <-
+  readxl::read_xls("./rawdata/monthly_exports_bytypes_2021.xls", 
+                   sheet = 6,
+                   range = "C11:C40",
+                   col_names = "March")
+```
+
+
+
+
