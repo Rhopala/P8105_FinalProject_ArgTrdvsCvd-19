@@ -1,0 +1,77 @@
+---
+title: "Covid Data Summarize"
+author: "Xuanhe Chen"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(dplyr)
+
+knitr::opts_chunk$set(
+  echo = TRUE,
+  warning = FALSE,
+  fig.width = 8,
+  fig.height = 6,
+  out.width = "90%"
+)
+```
+
+
+```{r, message=FALSE}
+# read each files address
+file_names <- list.files("./data/csse_covid_19_daily_reports_us/", full.names = TRUE)
+
+# map a function binding address and each file together
+file_combined <- purrr::map_df(file_names, function(x) {
+  data <- read_csv(x)
+	cbind(date = x, data)
+	})
+```
+
+```{r}
+# drop unnecessary parts in file names
+file_combined <- 
+  file_combined %>% 
+  mutate(date = str_remove(date, "./data/csse_covid_19_daily_reports_us/")) %>%
+  mutate(date = str_remove(date, ".csv"))
+```
+
+```{r}
+# select wanted columns
+covid_data = file_combined[ , c("date", "Confirmed", "Deaths", "Recovered", "Active", "Incident_Rate")]
+```
+
+```{r}
+# replace NAs with 0
+covid_data[is.na(covid_data)] <- 0
+
+# sum data from all states in each day
+covid_data <-
+  covid_data%>%
+  group_by(date) %>%
+  summarise_each(funs(sum))
+```
+
+```{r}
+# change the format of date
+covid_data_day <-
+  covid_data %>%
+  mutate(date = as.Date(date, "%m-%d-%Y"))
+```
+
+```{r}
+# sum data of each day by month
+covid_data_month <-
+  covid_data_day %>% 
+  mutate(month = format(date, "%m"), year = format(date, "%Y")) %>%
+  group_by(month, year) %>%
+  summarize(Confirmed_of_Month = sum(Confirmed), 
+            Deaths_of_Month = sum(Deaths),
+            Recovered_of_Month = sum(Recovered),
+            Active_of_Month = sum(Active))
+```
+
+```{r}
+write.csv(covid_data_month,"./data/covid_data_monthly.csv", row.names = FALSE)
+```
