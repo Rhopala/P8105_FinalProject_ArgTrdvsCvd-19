@@ -1,529 +1,529 @@
 "product","country","year","month","value"
-"fruits, fresh or frozen","Mexico","2018","january",603.618
-"fruits, fresh or frozen","Chile","2018","january",295.103
-"fruits, fresh or frozen","Peru","2018","january",230.46
-"fruits, fresh or frozen","Guatemala","2018","january",115.992
-"fruits, fresh or frozen","Costa Rica","2018","january",86.922
-"fruits, fresh or frozen","Ecuador","2018","january",47.939
-"fruits, fresh or frozen","Honduras","2018","january",41.594
-"fruits, fresh or frozen","Canada","2018","january",14.287
-"fruits, fresh or frozen","Argentina","2018","january",2.399
-"fruits, fresh or frozen","Colombia","2018","january",13.862
-"fruits, fresh or frozen","World","2018","january",1512.881
-"fruits, fresh or frozen","Mexico","2018","february",589.407
-"fruits, fresh or frozen","Chile","2018","february",338.647
-"fruits, fresh or frozen","Peru","2018","february",124.882
-"fruits, fresh or frozen","Guatemala","2018","february",93.004
-"fruits, fresh or frozen","Costa Rica","2018","february",83.031
-"fruits, fresh or frozen","Ecuador","2018","february",43.868
-"fruits, fresh or frozen","Honduras","2018","february",47.544
-"fruits, fresh or frozen","Canada","2018","february",13.715
-"fruits, fresh or frozen","Argentina","2018","february",10.769
-"fruits, fresh or frozen","Colombia","2018","february",17.754
-"fruits, fresh or frozen","World","2018","february",1417.354
-"fruits, fresh or frozen","Mexico","2018","march",679.3
-"fruits, fresh or frozen","Chile","2018","march",373.21
-"fruits, fresh or frozen","Guatemala","2018","march",142.749
-"fruits, fresh or frozen","Peru","2018","march",42.933
-"fruits, fresh or frozen","Costa Rica","2018","march",90.288
-"fruits, fresh or frozen","Ecuador","2018","march",36.346
-"fruits, fresh or frozen","Honduras","2018","march",35.054
-"fruits, fresh or frozen","Canada","2018","march",15.278
-"fruits, fresh or frozen","Argentina","2018","march",18.691
-"fruits, fresh or frozen","Colombia","2018","march",18.812
-"fruits, fresh or frozen","World","2018","march",1502.432
-"fruits, fresh or frozen","Mexico","2018","april",711.881
-"fruits, fresh or frozen","Chile","2018","april",227.148
-"fruits, fresh or frozen","Guatemala","2018","april",128.994
-"fruits, fresh or frozen","Peru","2018","april",15.649
-"fruits, fresh or frozen","Costa Rica","2018","april",91.983
-"fruits, fresh or frozen","Ecuador","2018","april",30.593
-"fruits, fresh or frozen","Honduras","2018","april",51.716
-"fruits, fresh or frozen","Canada","2018","april",17.251
-"fruits, fresh or frozen","Colombia","2018","april",19.798
-"fruits, fresh or frozen","Argentina","2018","april",13.578
-"fruits, fresh or frozen","World","2018","april",1357.217
-"fruits, fresh or frozen","Mexico","2018","may",745.483
-"fruits, fresh or frozen","Chile","2018","may",90.067
-"fruits, fresh or frozen","Guatemala","2018","may",106.82
-"fruits, fresh or frozen","Costa Rica","2018","may",106.002
-"fruits, fresh or frozen","Peru","2018","may",18.904
-"fruits, fresh or frozen","Ecuador","2018","may",34.11
-"fruits, fresh or frozen","Honduras","2018","may",38.167
-"fruits, fresh or frozen","Canada","2018","may",18.077
-"fruits, fresh or frozen","Colombia","2018","may",21.367
-"fruits, fresh or frozen","Argentina","2018","may",16.269
-"fruits, fresh or frozen","World","2018","may",1254.863
-"fruits, fresh or frozen","Mexico","2018","june",598.08
-"fruits, fresh or frozen","Chile","2018","june",83.856
-"fruits, fresh or frozen","Guatemala","2018","june",81.201
-"fruits, fresh or frozen","Costa Rica","2018","june",103.791
-"fruits, fresh or frozen","Peru","2018","june",44.269
-"fruits, fresh or frozen","Ecuador","2018","june",30.21
-"fruits, fresh or frozen","Honduras","2018","june",21.454
-"fruits, fresh or frozen","Canada","2018","june",16.331
-"fruits, fresh or frozen","Colombia","2018","june",15.871
-"fruits, fresh or frozen","Argentina","2018","june",14.125
-"fruits, fresh or frozen","World","2018","june",1081.747
-"fruits, fresh or frozen","Mexico","2018","july",291.098
-"fruits, fresh or frozen","Chile","2018","july",127.86
-"fruits, fresh or frozen","Guatemala","2018","july",85.742
-"fruits, fresh or frozen","Costa Rica","2018","july",93.615
-"fruits, fresh or frozen","Peru","2018","july",78.18
-"fruits, fresh or frozen","Ecuador","2018","july",37.495
-"fruits, fresh or frozen","Honduras","2018","july",18.514
-"fruits, fresh or frozen","Canada","2018","july",58.269
-"fruits, fresh or frozen","Colombia","2018","july",18.288
-"fruits, fresh or frozen","Argentina","2018","july",8.036
-"fruits, fresh or frozen","World","2018","july",926.512
-"fruits, fresh or frozen","Mexico","2018","august",359.461
-"fruits, fresh or frozen","Chile","2018","august",122.816
-"fruits, fresh or frozen","Guatemala","2018","august",98.02
-"fruits, fresh or frozen","Costa Rica","2018","august",69.58
-"fruits, fresh or frozen","Peru","2018","august",108.171
-"fruits, fresh or frozen","Ecuador","2018","august",33.175
-"fruits, fresh or frozen","Honduras","2018","august",16.353
-"fruits, fresh or frozen","Canada","2018","august",92.263
-"fruits, fresh or frozen","Colombia","2018","august",19.068
-"fruits, fresh or frozen","Argentina","2018","august",2.98
-"fruits, fresh or frozen","World","2018","august",1000.251
-"fruits, fresh or frozen","Mexico","2018","september",292.409
-"fruits, fresh or frozen","Chile","2018","september",114.314
-"fruits, fresh or frozen","Guatemala","2018","september",88.252
-"fruits, fresh or frozen","Costa Rica","2018","september",60.824
-"fruits, fresh or frozen","Peru","2018","september",79.331
-"fruits, fresh or frozen","Ecuador","2018","september",23.346
-"fruits, fresh or frozen","Canada","2018","september",42.302
-"fruits, fresh or frozen","Honduras","2018","september",18.092
-"fruits, fresh or frozen","Colombia","2018","september",17.182
-"fruits, fresh or frozen","Argentina","2018","september",2.751
-"fruits, fresh or frozen","World","2018","september",797.379
-"fruits, fresh or frozen","Mexico","2018","october",402.369
-"fruits, fresh or frozen","Chile","2018","october",109.891
-"fruits, fresh or frozen","Guatemala","2018","october",95.657
-"fruits, fresh or frozen","Costa Rica","2018","october",82.376
-"fruits, fresh or frozen","Peru","2018","october",112.796
-"fruits, fresh or frozen","Canada","2018","october",61.351
-"fruits, fresh or frozen","Ecuador","2018","october",30.563
-"fruits, fresh or frozen","Honduras","2018","october",28.147
-"fruits, fresh or frozen","Colombia","2018","october",21.533
-"fruits, fresh or frozen","New Zealand","2018","october",9.063
-"fruits, fresh or frozen","World","2018","october",1037.198
-"fruits, fresh or frozen","Mexico","2018","november",473.593
-"fruits, fresh or frozen","Chile","2018","november",34.031
-"fruits, fresh or frozen","Guatemala","2018","november",97.092
-"fruits, fresh or frozen","Peru","2018","november",93.855
-"fruits, fresh or frozen","Costa Rica","2018","november",68.187
-"fruits, fresh or frozen","Ecuador","2018","november",46.123
-"fruits, fresh or frozen","Canada","2018","november",27.689
-"fruits, fresh or frozen","Honduras","2018","november",24.608
-"fruits, fresh or frozen","Colombia","2018","november",16.346
-"fruits, fresh or frozen","New Zealand","2018","november",3.144
-"fruits, fresh or frozen","World","2018","november",958.145
-"fruits, fresh or frozen","Mexico","2018","december",485.483
-"fruits, fresh or frozen","Chile","2018","december",126.364
-"fruits, fresh or frozen","Guatemala","2018","december",112.132
-"fruits, fresh or frozen","Peru","2018","december",123.645
-"fruits, fresh or frozen","Costa Rica","2018","december",70.937
-"fruits, fresh or frozen","Ecuador","2018","december",47.93
-"fruits, fresh or frozen","Canada","2018","december",16.02
-"fruits, fresh or frozen","Honduras","2018","december",21.67
-"fruits, fresh or frozen","Colombia","2018","december",15.935
-"fruits, fresh or frozen","Argentina","2018","december",19.317
-"fruits, fresh or frozen","World","2018","december",1100.447
-"fruits, prepared or preserved","Mexico","2018","january",57.51
-"fruits, prepared or preserved","China","2018","january",51.81
-"fruits, prepared or preserved","Thailand","2018","january",33.27
-"fruits, prepared or preserved","Canada","2018","january",18.927
-"fruits, prepared or preserved","European Union-28 3/","2018","january",16.752
-"fruits, prepared or preserved","Philippines","2018","january",12.091
-"fruits, prepared or preserved","Turkey","2018","january",13.033
-"fruits, prepared or preserved","Chile","2018","january",10.067
-"fruits, prepared or preserved","South Korea","2018","january",8.788
-"fruits, prepared or preserved","Ecuador","2018","january",5.334
-"fruits, prepared or preserved","World","2018","january",274.445
-"fruits, prepared or preserved","Mexico","2018","february",50.703
-"fruits, prepared or preserved","China","2018","february",46.06
-"fruits, prepared or preserved","Thailand","2018","february",23.774
-"fruits, prepared or preserved","Canada","2018","february",20.64
-"fruits, prepared or preserved","European Union-28 3/","2018","february",16.394
-"fruits, prepared or preserved","Philippines","2018","february",9.066
-"fruits, prepared or preserved","Turkey","2018","february",10.508
-"fruits, prepared or preserved","Chile","2018","february",5.846
-"fruits, prepared or preserved","South Korea","2018","february",7.903
-"fruits, prepared or preserved","Ecuador","2018","february",7.146
-"fruits, prepared or preserved","World","2018","february",241.72
-"fruits, prepared or preserved","Mexico","2018","march",53.777
-"fruits, prepared or preserved","China","2018","march",47.445
-"fruits, prepared or preserved","Thailand","2018","march",25.603
-"fruits, prepared or preserved","Canada","2018","march",21.141
-"fruits, prepared or preserved","European Union-28 3/","2018","march",19.832
-"fruits, prepared or preserved","Philippines","2018","march",10.948
-"fruits, prepared or preserved","Turkey","2018","march",8.279
-"fruits, prepared or preserved","South Korea","2018","march",9.69
-"fruits, prepared or preserved","Chile","2018","march",7.048
-"fruits, prepared or preserved","Ecuador","2018","march",9.154
-"fruits, prepared or preserved","World","2018","march",261.211
-"fruits, prepared or preserved","Mexico","2018","april",54.612
-"fruits, prepared or preserved","China","2018","april",43.478
-"fruits, prepared or preserved","Thailand","2018","april",29.522
-"fruits, prepared or preserved","Canada","2018","april",22.378
-"fruits, prepared or preserved","European Union-28 3/","2018","april",21.124
-"fruits, prepared or preserved","Philippines","2018","april",12.374
-"fruits, prepared or preserved","Turkey","2018","april",8.134
-"fruits, prepared or preserved","South Korea","2018","april",8.92
-"fruits, prepared or preserved","Chile","2018","april",8.035
-"fruits, prepared or preserved","Ecuador","2018","april",8.405
-"fruits, prepared or preserved","World","2018","april",267.57
-"fruits, prepared or preserved","Mexico","2018","may",55.427
-"fruits, prepared or preserved","China","2018","may",53.439
-"fruits, prepared or preserved","Thailand","2018","may",25.174
-"fruits, prepared or preserved","Canada","2018","may",20.211
-"fruits, prepared or preserved","European Union-28 3/","2018","may",21.37
-"fruits, prepared or preserved","Philippines","2018","may",21.098
-"fruits, prepared or preserved","Turkey","2018","may",9.145
-"fruits, prepared or preserved","South Korea","2018","may",9.487
-"fruits, prepared or preserved","Chile","2018","may",8.651
-"fruits, prepared or preserved","Ecuador","2018","may",9.371
-"fruits, prepared or preserved","World","2018","may",287.729
-"fruits, prepared or preserved","Mexico","2018","june",49.726
-"fruits, prepared or preserved","China","2018","june",52.374
-"fruits, prepared or preserved","Thailand","2018","june",25.33
-"fruits, prepared or preserved","Canada","2018","june",20.083
-"fruits, prepared or preserved","European Union-28 3/","2018","june",20.178
-"fruits, prepared or preserved","Philippines","2018","june",14.8
-"fruits, prepared or preserved","Turkey","2018","june",9.818
-"fruits, prepared or preserved","Chile","2018","june",11.453
-"fruits, prepared or preserved","South Korea","2018","june",8.261
-"fruits, prepared or preserved","Ecuador","2018","june",6.595
-"fruits, prepared or preserved","World","2018","june",272.794
-"fruits, prepared or preserved","Mexico","2018","july",52.54
-"fruits, prepared or preserved","China","2018","july",47.09
-"fruits, prepared or preserved","Thailand","2018","july",42.138
-"fruits, prepared or preserved","Canada","2018","july",21.819
-"fruits, prepared or preserved","European Union-28 3/","2018","july",23.746
-"fruits, prepared or preserved","Philippines","2018","july",14.178
-"fruits, prepared or preserved","Turkey","2018","july",5.441
-"fruits, prepared or preserved","Chile","2018","july",12.514
-"fruits, prepared or preserved","South Korea","2018","july",8.197
-"fruits, prepared or preserved","Ecuador","2018","july",6.401
-"fruits, prepared or preserved","World","2018","july",294.298
-"fruits, prepared or preserved","Mexico","2018","august",57.98
-"fruits, prepared or preserved","China","2018","august",45.126
-"fruits, prepared or preserved","Thailand","2018","august",31.868
-"fruits, prepared or preserved","Canada","2018","august",20.43
-"fruits, prepared or preserved","European Union-28 3/","2018","august",21.101
-"fruits, prepared or preserved","Philippines","2018","august",12.998
-"fruits, prepared or preserved","Chile","2018","august",16.924
-"fruits, prepared or preserved","Turkey","2018","august",5.813
-"fruits, prepared or preserved","South Korea","2018","august",6.959
-"fruits, prepared or preserved","Ecuador","2018","august",7.139
-"fruits, prepared or preserved","World","2018","august",288.92
-"fruits, prepared or preserved","Mexico","2018","september",53.296
-"fruits, prepared or preserved","China","2018","september",45.77
-"fruits, prepared or preserved","Thailand","2018","september",30.692
-"fruits, prepared or preserved","Canada","2018","september",22.409
-"fruits, prepared or preserved","European Union-28 3/","2018","september",16.125
-"fruits, prepared or preserved","Philippines","2018","september",12.392
-"fruits, prepared or preserved","Chile","2018","september",13.592
-"fruits, prepared or preserved","Turkey","2018","september",4.779
-"fruits, prepared or preserved","South Korea","2018","september",8.055
-"fruits, prepared or preserved","Ecuador","2018","september",5.735
-"fruits, prepared or preserved","World","2018","september",264.907
-"fruits, prepared or preserved","Mexico","2018","october",60.906
-"fruits, prepared or preserved","China","2018","october",43.055
-"fruits, prepared or preserved","Thailand","2018","october",31.932
-"fruits, prepared or preserved","Canada","2018","october",22.81
-"fruits, prepared or preserved","European Union-28 3/","2018","october",21.577
-"fruits, prepared or preserved","Philippines","2018","october",12.849
-"fruits, prepared or preserved","Chile","2018","october",14.656
-"fruits, prepared or preserved","South Korea","2018","october",8.292
-"fruits, prepared or preserved","Turkey","2018","october",9.058
-"fruits, prepared or preserved","Ecuador","2018","october",6.413
-"fruits, prepared or preserved","World","2018","october",287.019
-"fruits, prepared or preserved","Mexico","2018","november",50.582
-"fruits, prepared or preserved","China","2018","november",49.611
-"fruits, prepared or preserved","Thailand","2018","november",23.205
-"fruits, prepared or preserved","Canada","2018","november",20.907
-"fruits, prepared or preserved","European Union-28 3/","2018","november",18.633
-"fruits, prepared or preserved","Philippines","2018","november",10.952
-"fruits, prepared or preserved","Chile","2018","november",15.016
-"fruits, prepared or preserved","South Korea","2018","november",9.558
-"fruits, prepared or preserved","Turkey","2018","november",8.244
-"fruits, prepared or preserved","Ecuador","2018","november",6.284
-"fruits, prepared or preserved","World","2018","november",265.296
-"fruits, prepared or preserved","Mexico","2018","december",50.582
-"fruits, prepared or preserved","China","2018","december",49.611
-"fruits, prepared or preserved","Thailand","2018","december",23.205
-"fruits, prepared or preserved","Canada","2018","december",20.907
-"fruits, prepared or preserved","European Union-28 3/","2018","december",18.633
-"fruits, prepared or preserved","Philippines","2018","december",10.952
-"fruits, prepared or preserved","Chile","2018","december",15.016
-"fruits, prepared or preserved","South Korea","2018","december",9.558
-"fruits, prepared or preserved","Turkey","2018","december",8.244
-"fruits, prepared or preserved","Ecuador","2018","december",6.284
-"fruits, prepared or preserved","World","2018","december",265.296
-"vegetables, fresh or frozen","Mexico","2018","january",50.939
-"vegetables, fresh or frozen","Canada","2018","january",87.741
-"vegetables, fresh or frozen","Peru","2018","january",2.973
-"vegetables, fresh or frozen","European Union-28 3/","2018","january",19.296
-"vegetables, fresh or frozen","China","2018","january",9.796
-"vegetables, fresh or frozen","Guatemala","2018","january",3.916
-"vegetables, fresh or frozen","Costa Rica","2018","january",2.172
-"vegetables, fresh or frozen","Honduras","2018","january",1.354
-"vegetables, fresh or frozen","Dominican Republic","2018","january",0.192
-"vegetables, fresh or frozen","Ecuador","2018","january",3.293
-"vegetables, fresh or frozen","World","2018","january",191.566
-"vegetables, fresh or frozen","Mexico","2018","february",713.204
-"vegetables, fresh or frozen","Canada","2018","february",138.71
-"vegetables, fresh or frozen","Peru","2018","february",7.949
-"vegetables, fresh or frozen","European Union-28 3/","2018","february",25.955
-"vegetables, fresh or frozen","China","2018","february",18.133
-"vegetables, fresh or frozen","Guatemala","2018","february",20.258
-"vegetables, fresh or frozen","Costa Rica","2018","february",9.48
-"vegetables, fresh or frozen","Ecuador","2018","february",5.656
-"vegetables, fresh or frozen","Honduras","2018","february",7.604
-"vegetables, fresh or frozen","Dominican Republic","2018","february",4.026
-"vegetables, fresh or frozen","World","2018","february",971.541
-"vegetables, fresh or frozen","Mexico","2018","march",767.573
-"vegetables, fresh or frozen","Canada","2018","march",178.631
-"vegetables, fresh or frozen","Peru","2018","march",9.397
-"vegetables, fresh or frozen","European Union-28 3/","2018","march",24.141
-"vegetables, fresh or frozen","China","2018","march",17.003
-"vegetables, fresh or frozen","Guatemala","2018","march",25.581
-"vegetables, fresh or frozen","Costa Rica","2018","march",8.447
-"vegetables, fresh or frozen","Honduras","2018","march",7.553
-"vegetables, fresh or frozen","Ecuador","2018","march",5.431
-"vegetables, fresh or frozen","Dominican Republic","2018","march",3.844
-"vegetables, fresh or frozen","World","2018","march",1070.853
-"vegetables, fresh or frozen","Mexico","2018","april",585.544
-"vegetables, fresh or frozen","Canada","2018","april",204.356
-"vegetables, fresh or frozen","Peru","2018","april",14.606
-"vegetables, fresh or frozen","European Union-28 3/","2018","april",29.932
-"vegetables, fresh or frozen","China","2018","april",19.271
-"vegetables, fresh or frozen","Guatemala","2018","april",19.005
-"vegetables, fresh or frozen","Costa Rica","2018","april",6.63
-"vegetables, fresh or frozen","Honduras","2018","april",5.15
-"vegetables, fresh or frozen","Ecuador","2018","april",4.341
-"vegetables, fresh or frozen","Dominican Republic","2018","april",4.219
-"vegetables, fresh or frozen","World","2018","april",912.925
-"vegetables, fresh or frozen","Mexico","2018","may",509.689
-"vegetables, fresh or frozen","Canada","2018","may",237.673
-"vegetables, fresh or frozen","Peru","2018","may",23.09
-"vegetables, fresh or frozen","European Union-28 3/","2018","may",30.225
-"vegetables, fresh or frozen","China","2018","may",20.439
-"vegetables, fresh or frozen","Guatemala","2018","may",16.704
-"vegetables, fresh or frozen","Costa Rica","2018","may",6.931
-"vegetables, fresh or frozen","Honduras","2018","may",4.997
-"vegetables, fresh or frozen","Ecuador","2018","may",5.253
-"vegetables, fresh or frozen","Dominican Republic","2018","may",4.3
-"vegetables, fresh or frozen","World","2018","may",878.667
-"vegetables, fresh or frozen","Mexico","2018","june",382.831
-"vegetables, fresh or frozen","Canada","2018","june",253.145
-"vegetables, fresh or frozen","European Union-28 3/","2018","june",33.504
-"vegetables, fresh or frozen","Peru","2018","june",17.439
-"vegetables, fresh or frozen","China","2018","june",18.132
-"vegetables, fresh or frozen","Guatemala","2018","june",11.978
-"vegetables, fresh or frozen","Costa Rica","2018","june",7.202
-"vegetables, fresh or frozen","Honduras","2018","june",4.81
-"vegetables, fresh or frozen","Ecuador","2018","june",5.642
-"vegetables, fresh or frozen","Dominican Republic","2018","june",4.33
-"vegetables, fresh or frozen","World","2018","june",757.139
-"vegetables, fresh or frozen","Mexico","2018","july",325.632
-"vegetables, fresh or frozen","Canada","2018","july",274.263
-"vegetables, fresh or frozen","European Union-28 3/","2018","july",41.775
-"vegetables, fresh or frozen","Peru","2018","july",21.403
-"vegetables, fresh or frozen","China","2018","july",17.846
-"vegetables, fresh or frozen","Guatemala","2018","july",14.816
-"vegetables, fresh or frozen","Costa Rica","2018","july",7.095
-"vegetables, fresh or frozen","Honduras","2018","july",4.679
-"vegetables, fresh or frozen","Ecuador","2018","july",4.886
-"vegetables, fresh or frozen","Dominican Republic","2018","july",3.815
-"vegetables, fresh or frozen","World","2018","july",735.597
-"vegetables, fresh or frozen","Mexico","2018","august",314.61
-"vegetables, fresh or frozen","Canada","2018","august",281.843
-"vegetables, fresh or frozen","European Union-28 3/","2018","august",33.837
-"vegetables, fresh or frozen","Peru","2018","august",31.556
-"vegetables, fresh or frozen","China","2018","august",18.698
-"vegetables, fresh or frozen","Guatemala","2018","august",17.869
-"vegetables, fresh or frozen","Costa Rica","2018","august",8.349
-"vegetables, fresh or frozen","Honduras","2018","august",4.725
-"vegetables, fresh or frozen","Ecuador","2018","august",5.751
-"vegetables, fresh or frozen","Dominican Republic","2018","august",3.416
-"vegetables, fresh or frozen","World","2018","august",739.529
-"vegetables, fresh or frozen","Mexico","2018","september",313.929
-"vegetables, fresh or frozen","Canada","2018","september",265.534
-"vegetables, fresh or frozen","European Union-28 3/","2018","september",33.629
-"vegetables, fresh or frozen","Peru","2018","september",39.958
-"vegetables, fresh or frozen","China","2018","september",17.702
-"vegetables, fresh or frozen","Guatemala","2018","september",15.271
-"vegetables, fresh or frozen","Costa Rica","2018","september",6.942
-"vegetables, fresh or frozen","Ecuador","2018","september",5.891
-"vegetables, fresh or frozen","Honduras","2018","september",3.635
-"vegetables, fresh or frozen","Dominican Republic","2018","september",2.991
-"vegetables, fresh or frozen","World","2018","september",722.494
-"vegetables, fresh or frozen","Mexico","2018","october",460.995
-"vegetables, fresh or frozen","Canada","2018","october",247.814
-"vegetables, fresh or frozen","European Union-28 3/","2018","october",39.608
-"vegetables, fresh or frozen","Peru","2018","october",45.062
-"vegetables, fresh or frozen","China","2018","october",17.707
-"vegetables, fresh or frozen","Guatemala","2018","october",17.193
-"vegetables, fresh or frozen","Costa Rica","2018","october",11.608
-"vegetables, fresh or frozen","Ecuador","2018","october",6.921
-"vegetables, fresh or frozen","Honduras","2018","october",3.813
-"vegetables, fresh or frozen","Dominican Republic","2018","october",4.206
-"vegetables, fresh or frozen","World","2018","october",874.789
-"vegetables, fresh or frozen","Mexico","2018","november",538.658
-"vegetables, fresh or frozen","Canada","2018","november",202.309
-"vegetables, fresh or frozen","European Union-28 3/","2018","november",31.917
-"vegetables, fresh or frozen","Peru","2018","november",48.534
-"vegetables, fresh or frozen","China","2018","november",17.533
-"vegetables, fresh or frozen","Guatemala","2018","november",21.727
-"vegetables, fresh or frozen","Costa Rica","2018","november",9.835
-"vegetables, fresh or frozen","Ecuador","2018","november",7.669
-"vegetables, fresh or frozen","Honduras","2018","november",6.023
-"vegetables, fresh or frozen","Dominican Republic","2018","november",4.549
-"vegetables, fresh or frozen","World","2018","november",910.669
-"vegetables, fresh or frozen","Mexico","2018","december",677.023
-"vegetables, fresh or frozen","Canada","2018","december",159.827
-"vegetables, fresh or frozen","European Union-28 3/","2018","december",37.018
-"vegetables, fresh or frozen","Peru","2018","december",46.528
-"vegetables, fresh or frozen","China","2018","december",20.354
-"vegetables, fresh or frozen","Guatemala","2018","december",20.896
-"vegetables, fresh or frozen","Costa Rica","2018","december",9.603
-"vegetables, fresh or frozen","Ecuador","2018","december",7.239
-"vegetables, fresh or frozen","Honduras","2018","december",6.497
-"vegetables, fresh or frozen","Dominican Republic","2018","december",4.663
-"vegetables, fresh or frozen","World","2018","december",1014.069
-"vegetables, prepared or preserved","European Union-28 3/","2018","january",75.455
-"vegetables, prepared or preserved","China","2018","january",46.753
-"vegetables, prepared or preserved","Mexico","2018","january",35.284
-"vegetables, prepared or preserved","Canada","2018","january",29.724
-"vegetables, prepared or preserved","Peru","2018","january",24.215
-"vegetables, prepared or preserved","Thailand","2018","january",12.725
-"vegetables, prepared or preserved","India","2018","january",7.744
-"vegetables, prepared or preserved","Turkey","2018","january",7.65
-"vegetables, prepared or preserved","Chile","2018","january",2.761
-"vegetables, prepared or preserved","Japan","2018","january",3.81
-"vegetables, prepared or preserved","World","2018","january",280.458
-"vegetables, prepared or preserved","European Union-28 3/","2018","february",78.311
-"vegetables, prepared or preserved","China","2018","february",38.58
-"vegetables, prepared or preserved","Mexico","2018","february",39.161
-"vegetables, prepared or preserved","Canada","2018","february",26.703
-"vegetables, prepared or preserved","Peru","2018","february",19.873
-"vegetables, prepared or preserved","Thailand","2018","february",10.194
-"vegetables, prepared or preserved","India","2018","february",6.764
-"vegetables, prepared or preserved","Turkey","2018","february",4.894
-"vegetables, prepared or preserved","Japan","2018","february",4.726
-"vegetables, prepared or preserved","Chile","2018","february",2.979
-"vegetables, prepared or preserved","World","2018","february",262.87
-"vegetables, prepared or preserved","European Union-28 3/","2018","march",84.612
-"vegetables, prepared or preserved","China","2018","march",38.449
-"vegetables, prepared or preserved","Mexico","2018","march",41.737
-"vegetables, prepared or preserved","Canada","2018","march",31.047
-"vegetables, prepared or preserved","Peru","2018","march",22.673
-"vegetables, prepared or preserved","Thailand","2018","march",12.301
-"vegetables, prepared or preserved","India","2018","march",13.082
-"vegetables, prepared or preserved","Turkey","2018","march",6.842
-"vegetables, prepared or preserved","Japan","2018","march",4.755
-"vegetables, prepared or preserved","Chile","2018","march",4.651
-"vegetables, prepared or preserved","World","2018","march",291.323
-"vegetables, prepared or preserved","European Union-28 3/","2018","april",88.013
-"vegetables, prepared or preserved","China","2018","april",38.172
-"vegetables, prepared or preserved","Mexico","2018","april",43.023
-"vegetables, prepared or preserved","Canada","2018","april",33.104
-"vegetables, prepared or preserved","Peru","2018","april",12.833
-"vegetables, prepared or preserved","Thailand","2018","april",14.499
-"vegetables, prepared or preserved","India","2018","april",10.812
-"vegetables, prepared or preserved","Turkey","2018","april",6.837
-"vegetables, prepared or preserved","Japan","2018","april",3.557
-"vegetables, prepared or preserved","Chile","2018","april",2.707
-"vegetables, prepared or preserved","World","2018","april",289.042
-"vegetables, prepared or preserved","European Union-28 3/","2018","may",88.273
-"vegetables, prepared or preserved","China","2018","may",42.48
-"vegetables, prepared or preserved","Mexico","2018","may",41.244
-"vegetables, prepared or preserved","Canada","2018","may",32.929
-"vegetables, prepared or preserved","Peru","2018","may",14.748
-"vegetables, prepared or preserved","Thailand","2018","may",14.848
-"vegetables, prepared or preserved","India","2018","may",8.873
-"vegetables, prepared or preserved","Turkey","2018","may",7.567
-"vegetables, prepared or preserved","Japan","2018","may",4.01
-"vegetables, prepared or preserved","Chile","2018","may",5.137
-"vegetables, prepared or preserved","World","2018","may",297.497
-"vegetables, prepared or preserved","European Union-28 3/","2018","june",92.763
-"vegetables, prepared or preserved","China","2018","june",42.896
-"vegetables, prepared or preserved","Mexico","2018","june",39.694
-"vegetables, prepared or preserved","Canada","2018","june",32.839
-"vegetables, prepared or preserved","Peru","2018","june",13.796
-"vegetables, prepared or preserved","Thailand","2018","june",14.676
-"vegetables, prepared or preserved","India","2018","june",6.313
-"vegetables, prepared or preserved","Turkey","2018","june",6.463
-"vegetables, prepared or preserved","Japan","2018","june",4.426
-"vegetables, prepared or preserved","Chile","2018","june",5.604
-"vegetables, prepared or preserved","World","2018","june",294.121
-"vegetables, prepared or preserved","European Union-28 3/","2018","july",94.886
-"vegetables, prepared or preserved","China","2018","july",36.371
-"vegetables, prepared or preserved","Mexico","2018","july",41.823
-"vegetables, prepared or preserved","Canada","2018","july",33.014
-"vegetables, prepared or preserved","Peru","2018","july",14.74
-"vegetables, prepared or preserved","Thailand","2018","july",12.463
-"vegetables, prepared or preserved","India","2018","july",7.035
-"vegetables, prepared or preserved","Turkey","2018","july",7.952
-"vegetables, prepared or preserved","Chile","2018","july",6.072
-"vegetables, prepared or preserved","Japan","2018","july",3.888
-"vegetables, prepared or preserved","World","2018","july",293.612
-"vegetables, prepared or preserved","European Union-28 3/","2018","august",88.83
-"vegetables, prepared or preserved","Mexico","2018","august",46.675
-"vegetables, prepared or preserved","China","2018","august",33.616
-"vegetables, prepared or preserved","Canada","2018","august",30.25
-"vegetables, prepared or preserved","Peru","2018","august",14.608
-"vegetables, prepared or preserved","Thailand","2018","august",11.757
-"vegetables, prepared or preserved","India","2018","august",9.796
-"vegetables, prepared or preserved","Turkey","2018","august",6.663
-"vegetables, prepared or preserved","Chile","2018","august",4.317
-"vegetables, prepared or preserved","Japan","2018","august",3.643
-"vegetables, prepared or preserved","World","2018","august",288.222
-"vegetables, prepared or preserved","European Union-28 3/","2018","september",74.881
-"vegetables, prepared or preserved","Mexico","2018","september",39.889
-"vegetables, prepared or preserved","China","2018","september",36.758
-"vegetables, prepared or preserved","Canada","2018","september",34.453
-"vegetables, prepared or preserved","Peru","2018","september",15.266
-"vegetables, prepared or preserved","Thailand","2018","september",11.578
-"vegetables, prepared or preserved","India","2018","september",9.032
-"vegetables, prepared or preserved","Turkey","2018","september",5.075
-"vegetables, prepared or preserved","Chile","2018","september",6.202
-"vegetables, prepared or preserved","Japan","2018","september",4.181
-"vegetables, prepared or preserved","World","2018","september",268.411
-"vegetables, prepared or preserved","European Union-28 3/","2018","october",93.831
-"vegetables, prepared or preserved","Mexico","2018","october",44.134
-"vegetables, prepared or preserved","China","2018","october",35.873
-"vegetables, prepared or preserved","Canada","2018","october",38.987
-"vegetables, prepared or preserved","Peru","2018","october",21.648
-"vegetables, prepared or preserved","Thailand","2018","october",12.973
-"vegetables, prepared or preserved","India","2018","october",11.935
-"vegetables, prepared or preserved","Turkey","2018","october",7.829
-"vegetables, prepared or preserved","Chile","2018","october",2.409
-"vegetables, prepared or preserved","Japan","2018","october",3.605
-"vegetables, prepared or preserved","World","2018","october",309.214
-"vegetables, prepared or preserved","European Union-28 3/","2018","november",83.068
-"vegetables, prepared or preserved","Mexico","2018","november",38.084
-"vegetables, prepared or preserved","China","2018","november",39.831
-"vegetables, prepared or preserved","Canada","2018","november",36.295
-"vegetables, prepared or preserved","Peru","2018","november",20.064
-"vegetables, prepared or preserved","Thailand","2018","november",12.135
-"vegetables, prepared or preserved","India","2018","november",7.807
-"vegetables, prepared or preserved","Turkey","2018","november",7.762
-"vegetables, prepared or preserved","Chile","2018","november",5.162
-"vegetables, prepared or preserved","Japan","2018","november",4.744
-"vegetables, prepared or preserved","World","2018","november",294.819
-"vegetables, prepared or preserved","European Union-28 3/","2018","december",91.061
-"vegetables, prepared or preserved","China","2018","december",66.313
-"vegetables, prepared or preserved","Mexico","2018","december",35.36
-"vegetables, prepared or preserved","Canada","2018","december",33.484
-"vegetables, prepared or preserved","Peru","2018","december",20.765
-"vegetables, prepared or preserved","Thailand","2018","december",14.69
-"vegetables, prepared or preserved","India","2018","december",6.672
-"vegetables, prepared or preserved","Turkey","2018","december",9.02
-"vegetables, prepared or preserved","Chile","2018","december",3.846
-"vegetables, prepared or preserved","Japan","2018","december",4.208
-"vegetables, prepared or preserved","World","2018","december",324.108
+"Fruits, fresh or frozen","Mexico","2018","January",603.618
+"Fruits, fresh or frozen","Chile","2018","January",295.103
+"Fruits, fresh or frozen","Peru","2018","January",230.46
+"Fruits, fresh or frozen","Guatemala","2018","January",115.992
+"Fruits, fresh or frozen","Costa Rica","2018","January",86.922
+"Fruits, fresh or frozen","Ecuador","2018","January",47.939
+"Fruits, fresh or frozen","Honduras","2018","January",41.594
+"Fruits, fresh or frozen","Canada","2018","January",14.287
+"Fruits, fresh or frozen","Argentina","2018","January",2.399
+"Fruits, fresh or frozen","Colombia","2018","January",13.862
+"Fruits, fresh or frozen","World","2018","January",1512.881
+"Fruits, fresh or frozen","Mexico","2018","February",589.407
+"Fruits, fresh or frozen","Chile","2018","February",338.647
+"Fruits, fresh or frozen","Peru","2018","February",124.882
+"Fruits, fresh or frozen","Guatemala","2018","February",93.004
+"Fruits, fresh or frozen","Costa Rica","2018","February",83.031
+"Fruits, fresh or frozen","Ecuador","2018","February",43.868
+"Fruits, fresh or frozen","Honduras","2018","February",47.544
+"Fruits, fresh or frozen","Canada","2018","February",13.715
+"Fruits, fresh or frozen","Argentina","2018","February",10.769
+"Fruits, fresh or frozen","Colombia","2018","February",17.754
+"Fruits, fresh or frozen","World","2018","February",1417.354
+"Fruits, fresh or frozen","Mexico","2018","March",679.3
+"Fruits, fresh or frozen","Chile","2018","March",373.21
+"Fruits, fresh or frozen","Guatemala","2018","March",142.749
+"Fruits, fresh or frozen","Peru","2018","March",42.933
+"Fruits, fresh or frozen","Costa Rica","2018","March",90.288
+"Fruits, fresh or frozen","Ecuador","2018","March",36.346
+"Fruits, fresh or frozen","Honduras","2018","March",35.054
+"Fruits, fresh or frozen","Canada","2018","March",15.278
+"Fruits, fresh or frozen","Argentina","2018","March",18.691
+"Fruits, fresh or frozen","Colombia","2018","March",18.812
+"Fruits, fresh or frozen","World","2018","March",1502.432
+"Fruits, fresh or frozen","Mexico","2018","April",711.881
+"Fruits, fresh or frozen","Chile","2018","April",227.148
+"Fruits, fresh or frozen","Guatemala","2018","April",128.994
+"Fruits, fresh or frozen","Peru","2018","April",15.649
+"Fruits, fresh or frozen","Costa Rica","2018","April",91.983
+"Fruits, fresh or frozen","Ecuador","2018","April",30.593
+"Fruits, fresh or frozen","Honduras","2018","April",51.716
+"Fruits, fresh or frozen","Canada","2018","April",17.251
+"Fruits, fresh or frozen","Colombia","2018","April",19.798
+"Fruits, fresh or frozen","Argentina","2018","April",13.578
+"Fruits, fresh or frozen","World","2018","April",1357.217
+"Fruits, fresh or frozen","Mexico","2018","May",745.483
+"Fruits, fresh or frozen","Chile","2018","May",90.067
+"Fruits, fresh or frozen","Guatemala","2018","May",106.82
+"Fruits, fresh or frozen","Costa Rica","2018","May",106.002
+"Fruits, fresh or frozen","Peru","2018","May",18.904
+"Fruits, fresh or frozen","Ecuador","2018","May",34.11
+"Fruits, fresh or frozen","Honduras","2018","May",38.167
+"Fruits, fresh or frozen","Canada","2018","May",18.077
+"Fruits, fresh or frozen","Colombia","2018","May",21.367
+"Fruits, fresh or frozen","Argentina","2018","May",16.269
+"Fruits, fresh or frozen","World","2018","May",1254.863
+"Fruits, fresh or frozen","Mexico","2018","June",598.08
+"Fruits, fresh or frozen","Chile","2018","June",83.856
+"Fruits, fresh or frozen","Guatemala","2018","June",81.201
+"Fruits, fresh or frozen","Costa Rica","2018","June",103.791
+"Fruits, fresh or frozen","Peru","2018","June",44.269
+"Fruits, fresh or frozen","Ecuador","2018","June",30.21
+"Fruits, fresh or frozen","Honduras","2018","June",21.454
+"Fruits, fresh or frozen","Canada","2018","June",16.331
+"Fruits, fresh or frozen","Colombia","2018","June",15.871
+"Fruits, fresh or frozen","Argentina","2018","June",14.125
+"Fruits, fresh or frozen","World","2018","June",1081.747
+"Fruits, fresh or frozen","Mexico","2018","July",291.098
+"Fruits, fresh or frozen","Chile","2018","July",127.86
+"Fruits, fresh or frozen","Guatemala","2018","July",85.742
+"Fruits, fresh or frozen","Costa Rica","2018","July",93.615
+"Fruits, fresh or frozen","Peru","2018","July",78.18
+"Fruits, fresh or frozen","Ecuador","2018","July",37.495
+"Fruits, fresh or frozen","Honduras","2018","July",18.514
+"Fruits, fresh or frozen","Canada","2018","July",58.269
+"Fruits, fresh or frozen","Colombia","2018","July",18.288
+"Fruits, fresh or frozen","Argentina","2018","July",8.036
+"Fruits, fresh or frozen","World","2018","July",926.512
+"Fruits, fresh or frozen","Mexico","2018","August",359.461
+"Fruits, fresh or frozen","Chile","2018","August",122.816
+"Fruits, fresh or frozen","Guatemala","2018","August",98.02
+"Fruits, fresh or frozen","Costa Rica","2018","August",69.58
+"Fruits, fresh or frozen","Peru","2018","August",108.171
+"Fruits, fresh or frozen","Ecuador","2018","August",33.175
+"Fruits, fresh or frozen","Honduras","2018","August",16.353
+"Fruits, fresh or frozen","Canada","2018","August",92.263
+"Fruits, fresh or frozen","Colombia","2018","August",19.068
+"Fruits, fresh or frozen","Argentina","2018","August",2.98
+"Fruits, fresh or frozen","World","2018","August",1000.251
+"Fruits, fresh or frozen","Mexico","2018","September",292.409
+"Fruits, fresh or frozen","Chile","2018","September",114.314
+"Fruits, fresh or frozen","Guatemala","2018","September",88.252
+"Fruits, fresh or frozen","Costa Rica","2018","September",60.824
+"Fruits, fresh or frozen","Peru","2018","September",79.331
+"Fruits, fresh or frozen","Ecuador","2018","September",23.346
+"Fruits, fresh or frozen","Canada","2018","September",42.302
+"Fruits, fresh or frozen","Honduras","2018","September",18.092
+"Fruits, fresh or frozen","Colombia","2018","September",17.182
+"Fruits, fresh or frozen","Argentina","2018","September",2.751
+"Fruits, fresh or frozen","World","2018","September",797.379
+"Fruits, fresh or frozen","Mexico","2018","October",402.369
+"Fruits, fresh or frozen","Chile","2018","October",109.891
+"Fruits, fresh or frozen","Guatemala","2018","October",95.657
+"Fruits, fresh or frozen","Costa Rica","2018","October",82.376
+"Fruits, fresh or frozen","Peru","2018","October",112.796
+"Fruits, fresh or frozen","Canada","2018","October",61.351
+"Fruits, fresh or frozen","Ecuador","2018","October",30.563
+"Fruits, fresh or frozen","Honduras","2018","October",28.147
+"Fruits, fresh or frozen","Colombia","2018","October",21.533
+"Fruits, fresh or frozen","New Zealand","2018","October",9.063
+"Fruits, fresh or frozen","World","2018","October",1037.198
+"Fruits, fresh or frozen","Mexico","2018","November",473.593
+"Fruits, fresh or frozen","Chile","2018","November",34.031
+"Fruits, fresh or frozen","Guatemala","2018","November",97.092
+"Fruits, fresh or frozen","Peru","2018","November",93.855
+"Fruits, fresh or frozen","Costa Rica","2018","November",68.187
+"Fruits, fresh or frozen","Ecuador","2018","November",46.123
+"Fruits, fresh or frozen","Canada","2018","November",27.689
+"Fruits, fresh or frozen","Honduras","2018","November",24.608
+"Fruits, fresh or frozen","Colombia","2018","November",16.346
+"Fruits, fresh or frozen","New Zealand","2018","November",3.144
+"Fruits, fresh or frozen","World","2018","November",958.145
+"Fruits, fresh or frozen","Mexico","2018","December",485.483
+"Fruits, fresh or frozen","Chile","2018","December",126.364
+"Fruits, fresh or frozen","Guatemala","2018","December",112.132
+"Fruits, fresh or frozen","Peru","2018","December",123.645
+"Fruits, fresh or frozen","Costa Rica","2018","December",70.937
+"Fruits, fresh or frozen","Ecuador","2018","December",47.93
+"Fruits, fresh or frozen","Canada","2018","December",16.02
+"Fruits, fresh or frozen","Honduras","2018","December",21.67
+"Fruits, fresh or frozen","Colombia","2018","December",15.935
+"Fruits, fresh or frozen","Argentina","2018","December",19.317
+"Fruits, fresh or frozen","World","2018","December",1100.447
+"Fruits, prepared or preserved","Mexico","2018","January",57.51
+"Fruits, prepared or preserved","China","2018","January",51.81
+"Fruits, prepared or preserved","Thailand","2018","January",33.27
+"Fruits, prepared or preserved","Canada","2018","January",18.927
+"Fruits, prepared or preserved","European Union-28 3/","2018","January",16.752
+"Fruits, prepared or preserved","Philippines","2018","January",12.091
+"Fruits, prepared or preserved","Turkey","2018","January",13.033
+"Fruits, prepared or preserved","Chile","2018","January",10.067
+"Fruits, prepared or preserved","South Korea","2018","January",8.788
+"Fruits, prepared or preserved","Ecuador","2018","January",5.334
+"Fruits, prepared or preserved","World","2018","January",274.445
+"Fruits, prepared or preserved","Mexico","2018","February",50.703
+"Fruits, prepared or preserved","China","2018","February",46.06
+"Fruits, prepared or preserved","Thailand","2018","February",23.774
+"Fruits, prepared or preserved","Canada","2018","February",20.64
+"Fruits, prepared or preserved","European Union-28 3/","2018","February",16.394
+"Fruits, prepared or preserved","Philippines","2018","February",9.066
+"Fruits, prepared or preserved","Turkey","2018","February",10.508
+"Fruits, prepared or preserved","Chile","2018","February",5.846
+"Fruits, prepared or preserved","South Korea","2018","February",7.903
+"Fruits, prepared or preserved","Ecuador","2018","February",7.146
+"Fruits, prepared or preserved","World","2018","February",241.72
+"Fruits, prepared or preserved","Mexico","2018","March",53.777
+"Fruits, prepared or preserved","China","2018","March",47.445
+"Fruits, prepared or preserved","Thailand","2018","March",25.603
+"Fruits, prepared or preserved","Canada","2018","March",21.141
+"Fruits, prepared or preserved","European Union-28 3/","2018","March",19.832
+"Fruits, prepared or preserved","Philippines","2018","March",10.948
+"Fruits, prepared or preserved","Turkey","2018","March",8.279
+"Fruits, prepared or preserved","South Korea","2018","March",9.69
+"Fruits, prepared or preserved","Chile","2018","March",7.048
+"Fruits, prepared or preserved","Ecuador","2018","March",9.154
+"Fruits, prepared or preserved","World","2018","March",261.211
+"Fruits, prepared or preserved","Mexico","2018","April",54.612
+"Fruits, prepared or preserved","China","2018","April",43.478
+"Fruits, prepared or preserved","Thailand","2018","April",29.522
+"Fruits, prepared or preserved","Canada","2018","April",22.378
+"Fruits, prepared or preserved","European Union-28 3/","2018","April",21.124
+"Fruits, prepared or preserved","Philippines","2018","April",12.374
+"Fruits, prepared or preserved","Turkey","2018","April",8.134
+"Fruits, prepared or preserved","South Korea","2018","April",8.92
+"Fruits, prepared or preserved","Chile","2018","April",8.035
+"Fruits, prepared or preserved","Ecuador","2018","April",8.405
+"Fruits, prepared or preserved","World","2018","April",267.57
+"Fruits, prepared or preserved","Mexico","2018","May",55.427
+"Fruits, prepared or preserved","China","2018","May",53.439
+"Fruits, prepared or preserved","Thailand","2018","May",25.174
+"Fruits, prepared or preserved","Canada","2018","May",20.211
+"Fruits, prepared or preserved","European Union-28 3/","2018","May",21.37
+"Fruits, prepared or preserved","Philippines","2018","May",21.098
+"Fruits, prepared or preserved","Turkey","2018","May",9.145
+"Fruits, prepared or preserved","South Korea","2018","May",9.487
+"Fruits, prepared or preserved","Chile","2018","May",8.651
+"Fruits, prepared or preserved","Ecuador","2018","May",9.371
+"Fruits, prepared or preserved","World","2018","May",287.729
+"Fruits, prepared or preserved","Mexico","2018","June",49.726
+"Fruits, prepared or preserved","China","2018","June",52.374
+"Fruits, prepared or preserved","Thailand","2018","June",25.33
+"Fruits, prepared or preserved","Canada","2018","June",20.083
+"Fruits, prepared or preserved","European Union-28 3/","2018","June",20.178
+"Fruits, prepared or preserved","Philippines","2018","June",14.8
+"Fruits, prepared or preserved","Turkey","2018","June",9.818
+"Fruits, prepared or preserved","Chile","2018","June",11.453
+"Fruits, prepared or preserved","South Korea","2018","June",8.261
+"Fruits, prepared or preserved","Ecuador","2018","June",6.595
+"Fruits, prepared or preserved","World","2018","June",272.794
+"Fruits, prepared or preserved","Mexico","2018","July",52.54
+"Fruits, prepared or preserved","China","2018","July",47.09
+"Fruits, prepared or preserved","Thailand","2018","July",42.138
+"Fruits, prepared or preserved","Canada","2018","July",21.819
+"Fruits, prepared or preserved","European Union-28 3/","2018","July",23.746
+"Fruits, prepared or preserved","Philippines","2018","July",14.178
+"Fruits, prepared or preserved","Turkey","2018","July",5.441
+"Fruits, prepared or preserved","Chile","2018","July",12.514
+"Fruits, prepared or preserved","South Korea","2018","July",8.197
+"Fruits, prepared or preserved","Ecuador","2018","July",6.401
+"Fruits, prepared or preserved","World","2018","July",294.298
+"Fruits, prepared or preserved","Mexico","2018","August",57.98
+"Fruits, prepared or preserved","China","2018","August",45.126
+"Fruits, prepared or preserved","Thailand","2018","August",31.868
+"Fruits, prepared or preserved","Canada","2018","August",20.43
+"Fruits, prepared or preserved","European Union-28 3/","2018","August",21.101
+"Fruits, prepared or preserved","Philippines","2018","August",12.998
+"Fruits, prepared or preserved","Chile","2018","August",16.924
+"Fruits, prepared or preserved","Turkey","2018","August",5.813
+"Fruits, prepared or preserved","South Korea","2018","August",6.959
+"Fruits, prepared or preserved","Ecuador","2018","August",7.139
+"Fruits, prepared or preserved","World","2018","August",288.92
+"Fruits, prepared or preserved","Mexico","2018","September",53.296
+"Fruits, prepared or preserved","China","2018","September",45.77
+"Fruits, prepared or preserved","Thailand","2018","September",30.692
+"Fruits, prepared or preserved","Canada","2018","September",22.409
+"Fruits, prepared or preserved","European Union-28 3/","2018","September",16.125
+"Fruits, prepared or preserved","Philippines","2018","September",12.392
+"Fruits, prepared or preserved","Chile","2018","September",13.592
+"Fruits, prepared or preserved","Turkey","2018","September",4.779
+"Fruits, prepared or preserved","South Korea","2018","September",8.055
+"Fruits, prepared or preserved","Ecuador","2018","September",5.735
+"Fruits, prepared or preserved","World","2018","September",264.907
+"Fruits, prepared or preserved","Mexico","2018","October",60.906
+"Fruits, prepared or preserved","China","2018","October",43.055
+"Fruits, prepared or preserved","Thailand","2018","October",31.932
+"Fruits, prepared or preserved","Canada","2018","October",22.81
+"Fruits, prepared or preserved","European Union-28 3/","2018","October",21.577
+"Fruits, prepared or preserved","Philippines","2018","October",12.849
+"Fruits, prepared or preserved","Chile","2018","October",14.656
+"Fruits, prepared or preserved","South Korea","2018","October",8.292
+"Fruits, prepared or preserved","Turkey","2018","October",9.058
+"Fruits, prepared or preserved","Ecuador","2018","October",6.413
+"Fruits, prepared or preserved","World","2018","October",287.019
+"Fruits, prepared or preserved","Mexico","2018","November",50.582
+"Fruits, prepared or preserved","China","2018","November",49.611
+"Fruits, prepared or preserved","Thailand","2018","November",23.205
+"Fruits, prepared or preserved","Canada","2018","November",20.907
+"Fruits, prepared or preserved","European Union-28 3/","2018","November",18.633
+"Fruits, prepared or preserved","Philippines","2018","November",10.952
+"Fruits, prepared or preserved","Chile","2018","November",15.016
+"Fruits, prepared or preserved","South Korea","2018","November",9.558
+"Fruits, prepared or preserved","Turkey","2018","November",8.244
+"Fruits, prepared or preserved","Ecuador","2018","November",6.284
+"Fruits, prepared or preserved","World","2018","November",265.296
+"Fruits, prepared or preserved","Mexico","2018","December",50.582
+"Fruits, prepared or preserved","China","2018","December",49.611
+"Fruits, prepared or preserved","Thailand","2018","December",23.205
+"Fruits, prepared or preserved","Canada","2018","December",20.907
+"Fruits, prepared or preserved","European Union-28 3/","2018","December",18.633
+"Fruits, prepared or preserved","Philippines","2018","December",10.952
+"Fruits, prepared or preserved","Chile","2018","December",15.016
+"Fruits, prepared or preserved","South Korea","2018","December",9.558
+"Fruits, prepared or preserved","Turkey","2018","December",8.244
+"Fruits, prepared or preserved","Ecuador","2018","December",6.284
+"Fruits, prepared or preserved","World","2018","December",265.296
+"Vegetables, fresh or frozen","Mexico","2018","January",50.939
+"Vegetables, fresh or frozen","Canada","2018","January",87.741
+"Vegetables, fresh or frozen","Peru","2018","January",2.973
+"Vegetables, fresh or frozen","European Union-28 3/","2018","January",19.296
+"Vegetables, fresh or frozen","China","2018","January",9.796
+"Vegetables, fresh or frozen","Guatemala","2018","January",3.916
+"Vegetables, fresh or frozen","Costa Rica","2018","January",2.172
+"Vegetables, fresh or frozen","Honduras","2018","January",1.354
+"Vegetables, fresh or frozen","Dominican Republic","2018","January",0.192
+"Vegetables, fresh or frozen","Ecuador","2018","January",3.293
+"Vegetables, fresh or frozen","World","2018","January",191.566
+"Vegetables, fresh or frozen","Mexico","2018","February",713.204
+"Vegetables, fresh or frozen","Canada","2018","February",138.71
+"Vegetables, fresh or frozen","Peru","2018","February",7.949
+"Vegetables, fresh or frozen","European Union-28 3/","2018","February",25.955
+"Vegetables, fresh or frozen","China","2018","February",18.133
+"Vegetables, fresh or frozen","Guatemala","2018","February",20.258
+"Vegetables, fresh or frozen","Costa Rica","2018","February",9.48
+"Vegetables, fresh or frozen","Ecuador","2018","February",5.656
+"Vegetables, fresh or frozen","Honduras","2018","February",7.604
+"Vegetables, fresh or frozen","Dominican Republic","2018","February",4.026
+"Vegetables, fresh or frozen","World","2018","February",971.541
+"Vegetables, fresh or frozen","Mexico","2018","March",767.573
+"Vegetables, fresh or frozen","Canada","2018","March",178.631
+"Vegetables, fresh or frozen","Peru","2018","March",9.397
+"Vegetables, fresh or frozen","European Union-28 3/","2018","March",24.141
+"Vegetables, fresh or frozen","China","2018","March",17.003
+"Vegetables, fresh or frozen","Guatemala","2018","March",25.581
+"Vegetables, fresh or frozen","Costa Rica","2018","March",8.447
+"Vegetables, fresh or frozen","Honduras","2018","March",7.553
+"Vegetables, fresh or frozen","Ecuador","2018","March",5.431
+"Vegetables, fresh or frozen","Dominican Republic","2018","March",3.844
+"Vegetables, fresh or frozen","World","2018","March",1070.853
+"Vegetables, fresh or frozen","Mexico","2018","April",585.544
+"Vegetables, fresh or frozen","Canada","2018","April",204.356
+"Vegetables, fresh or frozen","Peru","2018","April",14.606
+"Vegetables, fresh or frozen","European Union-28 3/","2018","April",29.932
+"Vegetables, fresh or frozen","China","2018","April",19.271
+"Vegetables, fresh or frozen","Guatemala","2018","April",19.005
+"Vegetables, fresh or frozen","Costa Rica","2018","April",6.63
+"Vegetables, fresh or frozen","Honduras","2018","April",5.15
+"Vegetables, fresh or frozen","Ecuador","2018","April",4.341
+"Vegetables, fresh or frozen","Dominican Republic","2018","April",4.219
+"Vegetables, fresh or frozen","World","2018","April",912.925
+"Vegetables, fresh or frozen","Mexico","2018","May",509.689
+"Vegetables, fresh or frozen","Canada","2018","May",237.673
+"Vegetables, fresh or frozen","Peru","2018","May",23.09
+"Vegetables, fresh or frozen","European Union-28 3/","2018","May",30.225
+"Vegetables, fresh or frozen","China","2018","May",20.439
+"Vegetables, fresh or frozen","Guatemala","2018","May",16.704
+"Vegetables, fresh or frozen","Costa Rica","2018","May",6.931
+"Vegetables, fresh or frozen","Honduras","2018","May",4.997
+"Vegetables, fresh or frozen","Ecuador","2018","May",5.253
+"Vegetables, fresh or frozen","Dominican Republic","2018","May",4.3
+"Vegetables, fresh or frozen","World","2018","May",878.667
+"Vegetables, fresh or frozen","Mexico","2018","June",382.831
+"Vegetables, fresh or frozen","Canada","2018","June",253.145
+"Vegetables, fresh or frozen","European Union-28 3/","2018","June",33.504
+"Vegetables, fresh or frozen","Peru","2018","June",17.439
+"Vegetables, fresh or frozen","China","2018","June",18.132
+"Vegetables, fresh or frozen","Guatemala","2018","June",11.978
+"Vegetables, fresh or frozen","Costa Rica","2018","June",7.202
+"Vegetables, fresh or frozen","Honduras","2018","June",4.81
+"Vegetables, fresh or frozen","Ecuador","2018","June",5.642
+"Vegetables, fresh or frozen","Dominican Republic","2018","June",4.33
+"Vegetables, fresh or frozen","World","2018","June",757.139
+"Vegetables, fresh or frozen","Mexico","2018","July",325.632
+"Vegetables, fresh or frozen","Canada","2018","July",274.263
+"Vegetables, fresh or frozen","European Union-28 3/","2018","July",41.775
+"Vegetables, fresh or frozen","Peru","2018","July",21.403
+"Vegetables, fresh or frozen","China","2018","July",17.846
+"Vegetables, fresh or frozen","Guatemala","2018","July",14.816
+"Vegetables, fresh or frozen","Costa Rica","2018","July",7.095
+"Vegetables, fresh or frozen","Honduras","2018","July",4.679
+"Vegetables, fresh or frozen","Ecuador","2018","July",4.886
+"Vegetables, fresh or frozen","Dominican Republic","2018","July",3.815
+"Vegetables, fresh or frozen","World","2018","July",735.597
+"Vegetables, fresh or frozen","Mexico","2018","August",314.61
+"Vegetables, fresh or frozen","Canada","2018","August",281.843
+"Vegetables, fresh or frozen","European Union-28 3/","2018","August",33.837
+"Vegetables, fresh or frozen","Peru","2018","August",31.556
+"Vegetables, fresh or frozen","China","2018","August",18.698
+"Vegetables, fresh or frozen","Guatemala","2018","August",17.869
+"Vegetables, fresh or frozen","Costa Rica","2018","August",8.349
+"Vegetables, fresh or frozen","Honduras","2018","August",4.725
+"Vegetables, fresh or frozen","Ecuador","2018","August",5.751
+"Vegetables, fresh or frozen","Dominican Republic","2018","August",3.416
+"Vegetables, fresh or frozen","World","2018","August",739.529
+"Vegetables, fresh or frozen","Mexico","2018","September",313.929
+"Vegetables, fresh or frozen","Canada","2018","September",265.534
+"Vegetables, fresh or frozen","European Union-28 3/","2018","September",33.629
+"Vegetables, fresh or frozen","Peru","2018","September",39.958
+"Vegetables, fresh or frozen","China","2018","September",17.702
+"Vegetables, fresh or frozen","Guatemala","2018","September",15.271
+"Vegetables, fresh or frozen","Costa Rica","2018","September",6.942
+"Vegetables, fresh or frozen","Ecuador","2018","September",5.891
+"Vegetables, fresh or frozen","Honduras","2018","September",3.635
+"Vegetables, fresh or frozen","Dominican Republic","2018","September",2.991
+"Vegetables, fresh or frozen","World","2018","September",722.494
+"Vegetables, fresh or frozen","Mexico","2018","October",460.995
+"Vegetables, fresh or frozen","Canada","2018","October",247.814
+"Vegetables, fresh or frozen","European Union-28 3/","2018","October",39.608
+"Vegetables, fresh or frozen","Peru","2018","October",45.062
+"Vegetables, fresh or frozen","China","2018","October",17.707
+"Vegetables, fresh or frozen","Guatemala","2018","October",17.193
+"Vegetables, fresh or frozen","Costa Rica","2018","October",11.608
+"Vegetables, fresh or frozen","Ecuador","2018","October",6.921
+"Vegetables, fresh or frozen","Honduras","2018","October",3.813
+"Vegetables, fresh or frozen","Dominican Republic","2018","October",4.206
+"Vegetables, fresh or frozen","World","2018","October",874.789
+"Vegetables, fresh or frozen","Mexico","2018","November",538.658
+"Vegetables, fresh or frozen","Canada","2018","November",202.309
+"Vegetables, fresh or frozen","European Union-28 3/","2018","November",31.917
+"Vegetables, fresh or frozen","Peru","2018","November",48.534
+"Vegetables, fresh or frozen","China","2018","November",17.533
+"Vegetables, fresh or frozen","Guatemala","2018","November",21.727
+"Vegetables, fresh or frozen","Costa Rica","2018","November",9.835
+"Vegetables, fresh or frozen","Ecuador","2018","November",7.669
+"Vegetables, fresh or frozen","Honduras","2018","November",6.023
+"Vegetables, fresh or frozen","Dominican Republic","2018","November",4.549
+"Vegetables, fresh or frozen","World","2018","November",910.669
+"Vegetables, fresh or frozen","Mexico","2018","December",677.023
+"Vegetables, fresh or frozen","Canada","2018","December",159.827
+"Vegetables, fresh or frozen","European Union-28 3/","2018","December",37.018
+"Vegetables, fresh or frozen","Peru","2018","December",46.528
+"Vegetables, fresh or frozen","China","2018","December",20.354
+"Vegetables, fresh or frozen","Guatemala","2018","December",20.896
+"Vegetables, fresh or frozen","Costa Rica","2018","December",9.603
+"Vegetables, fresh or frozen","Ecuador","2018","December",7.239
+"Vegetables, fresh or frozen","Honduras","2018","December",6.497
+"Vegetables, fresh or frozen","Dominican Republic","2018","December",4.663
+"Vegetables, fresh or frozen","World","2018","December",1014.069
+"Vegetables, prepared or preserved","European Union-28 3/","2018","January",75.455
+"Vegetables, prepared or preserved","China","2018","January",46.753
+"Vegetables, prepared or preserved","Mexico","2018","January",35.284
+"Vegetables, prepared or preserved","Canada","2018","January",29.724
+"Vegetables, prepared or preserved","Peru","2018","January",24.215
+"Vegetables, prepared or preserved","Thailand","2018","January",12.725
+"Vegetables, prepared or preserved","India","2018","January",7.744
+"Vegetables, prepared or preserved","Turkey","2018","January",7.65
+"Vegetables, prepared or preserved","Chile","2018","January",2.761
+"Vegetables, prepared or preserved","Japan","2018","January",3.81
+"Vegetables, prepared or preserved","World","2018","January",280.458
+"Vegetables, prepared or preserved","European Union-28 3/","2018","February",78.311
+"Vegetables, prepared or preserved","China","2018","February",38.58
+"Vegetables, prepared or preserved","Mexico","2018","February",39.161
+"Vegetables, prepared or preserved","Canada","2018","February",26.703
+"Vegetables, prepared or preserved","Peru","2018","February",19.873
+"Vegetables, prepared or preserved","Thailand","2018","February",10.194
+"Vegetables, prepared or preserved","India","2018","February",6.764
+"Vegetables, prepared or preserved","Turkey","2018","February",4.894
+"Vegetables, prepared or preserved","Japan","2018","February",4.726
+"Vegetables, prepared or preserved","Chile","2018","February",2.979
+"Vegetables, prepared or preserved","World","2018","February",262.87
+"Vegetables, prepared or preserved","European Union-28 3/","2018","March",84.612
+"Vegetables, prepared or preserved","China","2018","March",38.449
+"Vegetables, prepared or preserved","Mexico","2018","March",41.737
+"Vegetables, prepared or preserved","Canada","2018","March",31.047
+"Vegetables, prepared or preserved","Peru","2018","March",22.673
+"Vegetables, prepared or preserved","Thailand","2018","March",12.301
+"Vegetables, prepared or preserved","India","2018","March",13.082
+"Vegetables, prepared or preserved","Turkey","2018","March",6.842
+"Vegetables, prepared or preserved","Japan","2018","March",4.755
+"Vegetables, prepared or preserved","Chile","2018","March",4.651
+"Vegetables, prepared or preserved","World","2018","March",291.323
+"Vegetables, prepared or preserved","European Union-28 3/","2018","April",88.013
+"Vegetables, prepared or preserved","China","2018","April",38.172
+"Vegetables, prepared or preserved","Mexico","2018","April",43.023
+"Vegetables, prepared or preserved","Canada","2018","April",33.104
+"Vegetables, prepared or preserved","Peru","2018","April",12.833
+"Vegetables, prepared or preserved","Thailand","2018","April",14.499
+"Vegetables, prepared or preserved","India","2018","April",10.812
+"Vegetables, prepared or preserved","Turkey","2018","April",6.837
+"Vegetables, prepared or preserved","Japan","2018","April",3.557
+"Vegetables, prepared or preserved","Chile","2018","April",2.707
+"Vegetables, prepared or preserved","World","2018","April",289.042
+"Vegetables, prepared or preserved","European Union-28 3/","2018","May",88.273
+"Vegetables, prepared or preserved","China","2018","May",42.48
+"Vegetables, prepared or preserved","Mexico","2018","May",41.244
+"Vegetables, prepared or preserved","Canada","2018","May",32.929
+"Vegetables, prepared or preserved","Peru","2018","May",14.748
+"Vegetables, prepared or preserved","Thailand","2018","May",14.848
+"Vegetables, prepared or preserved","India","2018","May",8.873
+"Vegetables, prepared or preserved","Turkey","2018","May",7.567
+"Vegetables, prepared or preserved","Japan","2018","May",4.01
+"Vegetables, prepared or preserved","Chile","2018","May",5.137
+"Vegetables, prepared or preserved","World","2018","May",297.497
+"Vegetables, prepared or preserved","European Union-28 3/","2018","June",92.763
+"Vegetables, prepared or preserved","China","2018","June",42.896
+"Vegetables, prepared or preserved","Mexico","2018","June",39.694
+"Vegetables, prepared or preserved","Canada","2018","June",32.839
+"Vegetables, prepared or preserved","Peru","2018","June",13.796
+"Vegetables, prepared or preserved","Thailand","2018","June",14.676
+"Vegetables, prepared or preserved","India","2018","June",6.313
+"Vegetables, prepared or preserved","Turkey","2018","June",6.463
+"Vegetables, prepared or preserved","Japan","2018","June",4.426
+"Vegetables, prepared or preserved","Chile","2018","June",5.604
+"Vegetables, prepared or preserved","World","2018","June",294.121
+"Vegetables, prepared or preserved","European Union-28 3/","2018","July",94.886
+"Vegetables, prepared or preserved","China","2018","July",36.371
+"Vegetables, prepared or preserved","Mexico","2018","July",41.823
+"Vegetables, prepared or preserved","Canada","2018","July",33.014
+"Vegetables, prepared or preserved","Peru","2018","July",14.74
+"Vegetables, prepared or preserved","Thailand","2018","July",12.463
+"Vegetables, prepared or preserved","India","2018","July",7.035
+"Vegetables, prepared or preserved","Turkey","2018","July",7.952
+"Vegetables, prepared or preserved","Chile","2018","July",6.072
+"Vegetables, prepared or preserved","Japan","2018","July",3.888
+"Vegetables, prepared or preserved","World","2018","July",293.612
+"Vegetables, prepared or preserved","European Union-28 3/","2018","August",88.83
+"Vegetables, prepared or preserved","Mexico","2018","August",46.675
+"Vegetables, prepared or preserved","China","2018","August",33.616
+"Vegetables, prepared or preserved","Canada","2018","August",30.25
+"Vegetables, prepared or preserved","Peru","2018","August",14.608
+"Vegetables, prepared or preserved","Thailand","2018","August",11.757
+"Vegetables, prepared or preserved","India","2018","August",9.796
+"Vegetables, prepared or preserved","Turkey","2018","August",6.663
+"Vegetables, prepared or preserved","Chile","2018","August",4.317
+"Vegetables, prepared or preserved","Japan","2018","August",3.643
+"Vegetables, prepared or preserved","World","2018","August",288.222
+"Vegetables, prepared or preserved","European Union-28 3/","2018","September",74.881
+"Vegetables, prepared or preserved","Mexico","2018","September",39.889
+"Vegetables, prepared or preserved","China","2018","September",36.758
+"Vegetables, prepared or preserved","Canada","2018","September",34.453
+"Vegetables, prepared or preserved","Peru","2018","September",15.266
+"Vegetables, prepared or preserved","Thailand","2018","September",11.578
+"Vegetables, prepared or preserved","India","2018","September",9.032
+"Vegetables, prepared or preserved","Turkey","2018","September",5.075
+"Vegetables, prepared or preserved","Chile","2018","September",6.202
+"Vegetables, prepared or preserved","Japan","2018","September",4.181
+"Vegetables, prepared or preserved","World","2018","September",268.411
+"Vegetables, prepared or preserved","European Union-28 3/","2018","October",93.831
+"Vegetables, prepared or preserved","Mexico","2018","October",44.134
+"Vegetables, prepared or preserved","China","2018","October",35.873
+"Vegetables, prepared or preserved","Canada","2018","October",38.987
+"Vegetables, prepared or preserved","Peru","2018","October",21.648
+"Vegetables, prepared or preserved","Thailand","2018","October",12.973
+"Vegetables, prepared or preserved","India","2018","October",11.935
+"Vegetables, prepared or preserved","Turkey","2018","October",7.829
+"Vegetables, prepared or preserved","Chile","2018","October",2.409
+"Vegetables, prepared or preserved","Japan","2018","October",3.605
+"Vegetables, prepared or preserved","World","2018","October",309.214
+"Vegetables, prepared or preserved","European Union-28 3/","2018","November",83.068
+"Vegetables, prepared or preserved","Mexico","2018","November",38.084
+"Vegetables, prepared or preserved","China","2018","November",39.831
+"Vegetables, prepared or preserved","Canada","2018","November",36.295
+"Vegetables, prepared or preserved","Peru","2018","November",20.064
+"Vegetables, prepared or preserved","Thailand","2018","November",12.135
+"Vegetables, prepared or preserved","India","2018","November",7.807
+"Vegetables, prepared or preserved","Turkey","2018","November",7.762
+"Vegetables, prepared or preserved","Chile","2018","November",5.162
+"Vegetables, prepared or preserved","Japan","2018","November",4.744
+"Vegetables, prepared or preserved","World","2018","November",294.819
+"Vegetables, prepared or preserved","European Union-28 3/","2018","December",91.061
+"Vegetables, prepared or preserved","China","2018","December",66.313
+"Vegetables, prepared or preserved","Mexico","2018","December",35.36
+"Vegetables, prepared or preserved","Canada","2018","December",33.484
+"Vegetables, prepared or preserved","Peru","2018","December",20.765
+"Vegetables, prepared or preserved","Thailand","2018","December",14.69
+"Vegetables, prepared or preserved","India","2018","December",6.672
+"Vegetables, prepared or preserved","Turkey","2018","December",9.02
+"Vegetables, prepared or preserved","Chile","2018","December",3.846
+"Vegetables, prepared or preserved","Japan","2018","December",4.208
+"Vegetables, prepared or preserved","World","2018","December",324.108

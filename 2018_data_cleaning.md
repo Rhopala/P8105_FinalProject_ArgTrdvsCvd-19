@@ -6,9 +6,9 @@ Xinyi Zhou
 
 ``` r
 exports_value = 
-  read_excel("./rawdata/export2018.xlsx", range = "A3:M28", col_names = c("product_type", "january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december")) %>% 
+  read_excel("./rawdata/export2018.xlsx", range = "A3:M28", col_names = c("product_type", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")) %>% 
   pivot_longer(
-    january:december,
+    January:December,
     names_to = "month",
     values_to = "export_value"
   ) %>%
@@ -17,9 +17,9 @@ exports_value =
   write.csv("./data/export_value_2018.csv", row.names = FALSE)
 
 exports_volume= 
-  read_excel("./rawdata/export2018.xlsx", range = "A32:M50", col_names = c("product_type", "january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december")) %>% 
+  read_excel("./rawdata/export2018.xlsx", range = "A32:M50", col_names = c("product_type", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")) %>% 
   pivot_longer(
-    january:december,
+    January:December,
     names_to = "month",
     values_to = "export_volume"
   ) %>%
@@ -32,9 +32,9 @@ exports_volume=
 
 ``` r
 imports_value = 
-  read_excel("./rawdata/import2018.xlsx", range = "A3:M30", col_names = c("product_type", "january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december")) %>% 
+  read_excel("./rawdata/import2018.xlsx", range = "A3:M30", col_names = c("product_type", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")) %>% 
   pivot_longer(
-    january:december,
+    January:December,
     names_to = "month",
     values_to = "import_value"
   ) %>%
@@ -43,9 +43,9 @@ imports_value =
   write.csv("./data/import_value_2018.csv", row.names = FALSE)
 
 imports_volume= 
-  read_excel("./rawdata/import2018.xlsx", range = "A34:M46", col_names = c("product_type", "january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december")) %>% 
+  read_excel("./rawdata/import2018.xlsx", range = "A34:M46", col_names = c("product_type", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")) %>% 
   pivot_longer(
-    january:december,
+    January:December,
     names_to = "month",
     values_to = "import_volume"
   ) %>%
@@ -73,19 +73,19 @@ soybeans = output_soybeans %>%
   bind_rows() %>%
   rename(volume = d) %>%
   mutate(year = "2018", 
-         product = "soybeans",
-         month = replace(month, month == 4, "january"),
-         month = replace(month, month == 5, "february"),
-         month = replace(month, month == 6, "march"),
-         month = replace(month, month == 7, "april"),
-         month = replace(month, month == 8, "may"),
-         month = replace(month, month == 9, "june"),
-         month = replace(month, month == 10, "july"),
-         month = replace(month, month == 11, "august"),
-         month = replace(month, month == 12, "september"),
-         month = replace(month, month == 13, "october"),
-         month = replace(month, month == 14, "november"),
-         month = replace(month, month == 15, "december")
+         product = "Soybeans",
+         month = replace(month, month == 4, "January"),
+         month = replace(month, month == 5, "February"),
+         month = replace(month, month == 6, "March"),
+         month = replace(month, month == 7, "April"),
+         month = replace(month, month == 8, "May"),
+         month = replace(month, month == 9, "June"),
+         month = replace(month, month == 10, "July"),
+         month = replace(month, month == 11, "August"),
+         month = replace(month, month == 12, "September"),
+         month = replace(month, month == 13, "October"),
+         month = replace(month, month == 14, "November"),
+         month = replace(month, month == 15, "December")
          )
 ```
 
@@ -106,19 +106,19 @@ wheat = output_wheat %>%
   bind_rows() %>%
   rename(volume = d) %>%
   mutate(year = "2018", 
-         product = "wheat",
-         month = replace(month, month == 4, "january"),
-         month = replace(month, month == 5, "february"),
-         month = replace(month, month == 6, "march"),
-         month = replace(month, month == 7, "april"),
-         month = replace(month, month == 8, "may"),
-         month = replace(month, month == 9, "june"),
-         month = replace(month, month == 10, "july"),
-         month = replace(month, month == 11, "august"),
-         month = replace(month, month == 12, "september"),
-         month = replace(month, month == 13, "october"),
-         month = replace(month, month == 14, "november"),
-         month = replace(month, month == 15, "december")
+         product = "Wheat",
+         month = replace(month, month == 4, "January"),
+         month = replace(month, month == 5, "February"),
+         month = replace(month, month == 6, "March"),
+         month = replace(month, month == 7, "April"),
+         month = replace(month, month == 8, "May"),
+         month = replace(month, month == 9, "June"),
+         month = replace(month, month == 10, "July"),
+         month = replace(month, month == 11, "August"),
+         month = replace(month, month == 12, "September"),
+         month = replace(month, month == 13, "October"),
+         month = replace(month, month == 14, "November"),
+         month = replace(month, month == 15, "December")
          )
 ```
 
@@ -139,19 +139,19 @@ corn = output_corn %>%
   bind_rows() %>%
   rename(volume = d) %>%
   mutate(year = "2018", 
-         product = "corn",
-         month = replace(month, month == 4, "january"),
-         month = replace(month, month == 5, "february"),
-         month = replace(month, month == 6, "march"),
-         month = replace(month, month == 7, "april"),
-         month = replace(month, month == 8, "may"),
-         month = replace(month, month == 9, "june"),
-         month = replace(month, month == 10, "july"),
-         month = replace(month, month == 11, "august"),
-         month = replace(month, month == 12, "september"),
-         month = replace(month, month == 13, "october"),
-         month = replace(month, month == 14, "november"),
-         month = replace(month, month == 15, "december")
+         product = "Corn",
+         month = replace(month, month == 4, "January"),
+         month = replace(month, month == 5, "February"),
+         month = replace(month, month == 6, "March"),
+         month = replace(month, month == 7, "April"),
+         month = replace(month, month == 8, "May"),
+         month = replace(month, month == 9, "June"),
+         month = replace(month, month == 10, "July"),
+         month = replace(month, month == 11, "August"),
+         month = replace(month, month == 12, "September"),
+         month = replace(month, month == 13, "October"),
+         month = replace(month, month == 14, "November"),
+         month = replace(month, month == 15, "December")
          )
 ```
 
@@ -172,19 +172,19 @@ cotton = output_cotton %>%
   bind_rows() %>%
   rename(volume = d) %>%
   mutate(year = "2018", 
-         product = "cotton",
-         month = replace(month, month == 4, "january"),
-         month = replace(month, month == 5, "february"),
-         month = replace(month, month == 6, "march"),
-         month = replace(month, month == 7, "april"),
-         month = replace(month, month == 8, "may"),
-         month = replace(month, month == 9, "june"),
-         month = replace(month, month == 10, "july"),
-         month = replace(month, month == 11, "august"),
-         month = replace(month, month == 12, "september"),
-         month = replace(month, month == 13, "october"),
-         month = replace(month, month == 14, "november"),
-         month = replace(month, month == 15, "december")
+         product = "Cotton",
+         month = replace(month, month == 4, "January"),
+         month = replace(month, month == 5, "February"),
+         month = replace(month, month == 6, "March"),
+         month = replace(month, month == 7, "April"),
+         month = replace(month, month == 8, "May"),
+         month = replace(month, month == 9, "June"),
+         month = replace(month, month == 10, "July"),
+         month = replace(month, month == 11, "August"),
+         month = replace(month, month == 12, "September"),
+         month = replace(month, month == 13, "October"),
+         month = replace(month, month == 14, "November"),
+         month = replace(month, month == 15, "December")
          )
 ```
 
@@ -214,19 +214,19 @@ fruits_f = output_fruits_f %>%
   bind_rows() %>%
   rename(value = d) %>%
   mutate(year = "2018", 
-         product = "fruits, fresh or frozen",
-         month = replace(month, month == 4, "january"),
-         month = replace(month, month == 5, "february"),
-         month = replace(month, month == 6, "march"),
-         month = replace(month, month == 7, "april"),
-         month = replace(month, month == 8, "may"),
-         month = replace(month, month == 9, "june"),
-         month = replace(month, month == 10, "july"),
-         month = replace(month, month == 11, "august"),
-         month = replace(month, month == 12, "september"),
-         month = replace(month, month == 13, "october"),
-         month = replace(month, month == 14, "november"),
-         month = replace(month, month == 15, "december")
+         product = "Fruits, fresh or frozen",
+         month = replace(month, month == 4, "January"),
+         month = replace(month, month == 5, "February"),
+         month = replace(month, month == 6, "March"),
+         month = replace(month, month == 7, "April"),
+         month = replace(month, month == 8, "May"),
+         month = replace(month, month == 9, "June"),
+         month = replace(month, month == 10, "July"),
+         month = replace(month, month == 11, "August"),
+         month = replace(month, month == 12, "September"),
+         month = replace(month, month == 13, "October"),
+         month = replace(month, month == 14, "November"),
+         month = replace(month, month == 15, "December")
          )
 ```
 
@@ -247,19 +247,19 @@ fruits_p = output_fruits_p %>%
   bind_rows() %>%
   rename(value = d) %>%
   mutate(year = "2018", 
-         product = "fruits, prepared or preserved",
-         month = replace(month, month == 4, "january"),
-         month = replace(month, month == 5, "february"),
-         month = replace(month, month == 6, "march"),
-         month = replace(month, month == 7, "april"),
-         month = replace(month, month == 8, "may"),
-         month = replace(month, month == 9, "june"),
-         month = replace(month, month == 10, "july"),
-         month = replace(month, month == 11, "august"),
-         month = replace(month, month == 12, "september"),
-         month = replace(month, month == 13, "october"),
-         month = replace(month, month == 14, "november"),
-         month = replace(month, month == 15, "december")
+         product = "Fruits, prepared or preserved",
+         month = replace(month, month == 4, "January"),
+         month = replace(month, month == 5, "February"),
+         month = replace(month, month == 6, "March"),
+         month = replace(month, month == 7, "April"),
+         month = replace(month, month == 8, "May"),
+         month = replace(month, month == 9, "June"),
+         month = replace(month, month == 10, "July"),
+         month = replace(month, month == 11, "August"),
+         month = replace(month, month == 12, "September"),
+         month = replace(month, month == 13, "October"),
+         month = replace(month, month == 14, "November"),
+         month = replace(month, month == 15, "December")
          )
 ```
 
@@ -280,19 +280,19 @@ veg_f = output_veg_f %>%
   bind_rows() %>%
   rename(value = d) %>%
   mutate(year = "2018", 
-         product = "vegetables, fresh or frozen",
-         month = replace(month, month == 4, "january"),
-         month = replace(month, month == 5, "february"),
-         month = replace(month, month == 6, "march"),
-         month = replace(month, month == 7, "april"),
-         month = replace(month, month == 8, "may"),
-         month = replace(month, month == 9, "june"),
-         month = replace(month, month == 10, "july"),
-         month = replace(month, month == 11, "august"),
-         month = replace(month, month == 12, "september"),
-         month = replace(month, month == 13, "october"),
-         month = replace(month, month == 14, "november"),
-         month = replace(month, month == 15, "december")
+         product = "Vegetables, fresh or frozen",
+         month = replace(month, month == 4, "January"),
+         month = replace(month, month == 5, "February"),
+         month = replace(month, month == 6, "March"),
+         month = replace(month, month == 7, "April"),
+         month = replace(month, month == 8, "May"),
+         month = replace(month, month == 9, "June"),
+         month = replace(month, month == 10, "July"),
+         month = replace(month, month == 11, "August"),
+         month = replace(month, month == 12, "September"),
+         month = replace(month, month == 13, "October"),
+         month = replace(month, month == 14, "November"),
+         month = replace(month, month == 15, "December")
          )
 ```
 
@@ -313,19 +313,19 @@ veg_p = output_veg_p %>%
   bind_rows() %>%
   rename(value = d) %>%
   mutate(year = "2018", 
-         product = "vegetables, prepared or preserved",
-         month = replace(month, month == 4, "january"),
-         month = replace(month, month == 5, "february"),
-         month = replace(month, month == 6, "march"),
-         month = replace(month, month == 7, "april"),
-         month = replace(month, month == 8, "may"),
-         month = replace(month, month == 9, "june"),
-         month = replace(month, month == 10, "july"),
-         month = replace(month, month == 11, "august"),
-         month = replace(month, month == 12, "september"),
-         month = replace(month, month == 13, "october"),
-         month = replace(month, month == 14, "november"),
-         month = replace(month, month == 15, "december")
+         product = "Vegetables, prepared or preserved",
+         month = replace(month, month == 4, "January"),
+         month = replace(month, month == 5, "February"),
+         month = replace(month, month == 6, "March"),
+         month = replace(month, month == 7, "April"),
+         month = replace(month, month == 8, "May"),
+         month = replace(month, month == 9, "June"),
+         month = replace(month, month == 10, "July"),
+         month = replace(month, month == 11, "August"),
+         month = replace(month, month == 12, "September"),
+         month = replace(month, month == 13, "October"),
+         month = replace(month, month == 14, "November"),
+         month = replace(month, month == 15, "December")
          )
 ```
 
