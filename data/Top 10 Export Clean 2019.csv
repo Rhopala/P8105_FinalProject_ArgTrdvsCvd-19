@@ -1,0 +1,481 @@
+"Export_Country","Commodity","Month","Export_Volume"
+"China","soybean","january",931362.4
+"China","soybean","february",521757.8
+"China","soybean","march",288885
+"China","soybean","april",188970.7
+"China","soybean","may",1277317
+"China","soybean","june",1727035
+"China","soybean","july",1937795
+"China","soybean","august",2677076
+"China","soybean","september",966626
+"China","soybean","october",1761648
+"China","soybean","november",4239145
+"China","soybean","december",2625802
+"European Union-28 1/","soybean","january",1366722
+"European Union-28 1/","soybean","february",2099302
+"European Union-28 1/","soybean","march",1367270.5
+"European Union-28 1/","soybean","april",530200.9
+"European Union-28 1/","soybean","may",146838.3
+"European Union-28 1/","soybean","june",213425.8
+"European Union-28 1/","soybean","july",266586.6
+"European Union-28 1/","soybean","august",286187
+"European Union-28 1/","soybean","september",790917.6
+"European Union-28 1/","soybean","october",920794
+"European Union-28 1/","soybean","november",483726.7
+"European Union-28 1/","soybean","december",602598
+"Mexico","soybean","january",163668
+"Mexico","soybean","february",424824.9
+"Mexico","soybean","march",491545.1
+"Mexico","soybean","april",466606.5
+"Mexico","soybean","may",376481.3
+"Mexico","soybean","june",242528
+"Mexico","soybean","july",516907
+"Mexico","soybean","august",487909
+"Mexico","soybean","september",367128.1
+"Mexico","soybean","october",651999.8
+"Mexico","soybean","november",425947.9
+"Mexico","soybean","december",313370.6
+"Egypt","soybean","january",380155.8
+"Egypt","soybean","february",39349
+"Egypt","soybean","march",0
+"Egypt","soybean","april",204580
+"Egypt","soybean","may",50761
+"Egypt","soybean","june",69045
+"Egypt","soybean","july",73812
+"Egypt","soybean","august",231991
+"Egypt","soybean","september",226483.9
+"Egypt","soybean","october",593012
+"Egypt","soybean","november",252763
+"Egypt","soybean","december",128501
+"Japan","soybean","january",280322
+"Japan","soybean","february",340117
+"Japan","soybean","march",355414
+"Japan","soybean","april",0
+"Japan","soybean","may",0
+"Japan","soybean","june",181395.3
+"Japan","soybean","july",167953.9
+"Japan","soybean","august",291479
+"Japan","soybean","september",209608
+"Japan","soybean","october",280046
+"Japan","soybean","november",158597
+"Japan","soybean","december",243571.1
+"Indonesia","soybean","january",255084.1
+"Indonesia","soybean","february",238643.3
+"Indonesia","soybean","march",234710.2
+"Indonesia","soybean","april",247438.5
+"Indonesia","soybean","may",155426.6
+"Indonesia","soybean","june",222274.9
+"Indonesia","soybean","july",134657.5
+"Indonesia","soybean","august",196017.2
+"Indonesia","soybean","september",220787.1
+"Indonesia","soybean","october",103442
+"Indonesia","soybean","november",124540.6
+"Indonesia","soybean","december",193976.1
+"Taiwan","soybean","january",144006.5
+"Taiwan","soybean","february",123742
+"Taiwan","soybean","march",286494
+"Taiwan","soybean","april",73860.9
+"Taiwan","soybean","may",227536.3
+"Taiwan","soybean","june",0
+"Taiwan","soybean","july",0
+"Taiwan","soybean","august",0
+"Taiwan","soybean","september",253794
+"Taiwan","soybean","october",298678.8
+"Taiwan","soybean","november",180643.8
+"Taiwan","soybean","december",189467.6
+"Thailand","soybean","january",309072.6
+"Thailand","soybean","february",159540
+"Thailand","soybean","march",97031.5
+"Thailand","soybean","april",84315.5
+"Thailand","soybean","may",71051.7
+"Thailand","soybean","june",57096.7
+"Thailand","soybean","july",73629.9
+"Thailand","soybean","august",160466.4
+"Thailand","soybean","september",0
+"Thailand","soybean","october",350016
+"Thailand","soybean","november",212552
+"Thailand","soybean","december",160193
+"Bangladesh","soybean","january",194057.9
+"Bangladesh","soybean","february",86744.7
+"Bangladesh","soybean","march",62741.6
+"Bangladesh","soybean","april",98294.8
+"Bangladesh","soybean","may",56827.9
+"Bangladesh","soybean","june",68550.3
+"Bangladesh","soybean","july",65100.2
+"Bangladesh","soybean","august",75509.4
+"Bangladesh","soybean","september",47751
+"Bangladesh","soybean","october",63688
+"Bangladesh","soybean","november",331636
+"Bangladesh","soybean","december",340241
+"Pakistan","soybean","january",133729
+"Pakistan","soybean","february",0
+"Pakistan","soybean","march",67769
+"Pakistan","soybean","april",0
+"Pakistan","soybean","may",8305
+"Pakistan","soybean","june",54646
+"Pakistan","soybean","july",75933
+"Pakistan","soybean","august",60989
+"Pakistan","soybean","september",118310
+"Pakistan","soybean","october",117900
+"Pakistan","soybean","november",54872
+"Pakistan","soybean","december",133431
+"Mexico","corn","january",349360
+"Mexico","corn","february",209176
+"Mexico","corn","march",177275
+"Mexico","corn","april",342526
+"Mexico","corn","may",252919
+"Mexico","corn","june",308843
+"Mexico","corn","july",284524
+"Mexico","corn","august",519202
+"Mexico","corn","september",190761
+"Mexico","corn","october",339172
+"Mexico","corn","november",1165195
+"Mexico","corn","december",1124548
+"Japan","corn","january",274807
+"Japan","corn","february",230243
+"Japan","corn","march",177245
+"Japan","corn","april",304525
+"Japan","corn","may",240489
+"Japan","corn","june",196001
+"Japan","corn","july",265691
+"Japan","corn","august",318048
+"Japan","corn","september",269557
+"Japan","corn","october",194907
+"Japan","corn","november",317191
+"Japan","corn","december",537206
+"Colombia","corn","january",262828
+"Colombia","corn","february",254929
+"Colombia","corn","march",105943
+"Colombia","corn","april",341265
+"Colombia","corn","may",113675
+"Colombia","corn","june",173297
+"Colombia","corn","july",109560
+"Colombia","corn","august",294860
+"Colombia","corn","september",202801
+"Colombia","corn","october",352301
+"Colombia","corn","november",442057
+"Colombia","corn","december",310625
+"Canada","corn","january",98080
+"Canada","corn","february",146419
+"Canada","corn","march",248329
+"Canada","corn","april",333133
+"Canada","corn","may",280426
+"Canada","corn","june",204585
+"Canada","corn","july",175042
+"Canada","corn","august",86257
+"Canada","corn","september",164206
+"Canada","corn","october",92738
+"Canada","corn","november",75250
+"Canada","corn","december",136121
+"South Korea","corn","january",50867
+"South Korea","corn","february",143644
+"South Korea","corn","march",33431
+"South Korea","corn","april",127524
+"South Korea","corn","may",360083
+"South Korea","corn","june",104225
+"South Korea","corn","july",9200
+"South Korea","corn","august",89727
+"South Korea","corn","september",130522
+"South Korea","corn","october",53760
+"South Korea","corn","november",1919
+"South Korea","corn","december",4446
+"Taiwan","corn","january",105000
+"Taiwan","corn","february",109422
+"Taiwan","corn","march",56461
+"Taiwan","corn","april",170832
+"Taiwan","corn","may",175870
+"Taiwan","corn","june",77500
+"Taiwan","corn","july",51188
+"Taiwan","corn","august",77125
+"Taiwan","corn","september",12000
+"Taiwan","corn","october",180258
+"Taiwan","corn","november",46757
+"Taiwan","corn","december",41745
+"Peru","corn","january",242051
+"Peru","corn","february",109712
+"Peru","corn","march",131061
+"Peru","corn","april",179678
+"Peru","corn","may",110242
+"Peru","corn","june",110702
+"Peru","corn","july",115231
+"Peru","corn","august",139220
+"Peru","corn","september",13747
+"Peru","corn","october",122765
+"Peru","corn","november",0
+"Peru","corn","december",0
+"Guatemala","corn","january",161248
+"Guatemala","corn","february",142711
+"Guatemala","corn","march",49508
+"Guatemala","corn","april",177995
+"Guatemala","corn","may",126000
+"Guatemala","corn","june",21419
+"Guatemala","corn","july",0
+"Guatemala","corn","august",0
+"Guatemala","corn","september",101200
+"Guatemala","corn","october",0
+"Guatemala","corn","november",101728
+"Guatemala","corn","december",63206
+"Costa Rica","corn","january",0
+"Costa Rica","corn","february",0
+"Costa Rica","corn","march",0
+"Costa Rica","corn","april",0
+"Costa Rica","corn","may",105000
+"Costa Rica","corn","june",210000
+"Costa Rica","corn","july",0
+"Costa Rica","corn","august",52348
+"Costa Rica","corn","september",121
+"Costa Rica","corn","october",69800
+"Costa Rica","corn","november",62736
+"Costa Rica","corn","december",37348
+"Honduras","corn","january",0
+"Honduras","corn","february",11388
+"Honduras","corn","march",2395
+"Honduras","corn","april",76
+"Honduras","corn","may",108417
+"Honduras","corn","june",112949
+"Honduras","corn","july",211725
+"Honduras","corn","august",0
+"Honduras","corn","september",144780
+"Honduras","corn","october",0
+"Honduras","corn","november",72849
+"Honduras","corn","december",32593
+"Vietnam","Cotton,ex linters","january",76764.6
+"Vietnam","Cotton,ex linters","february",87430.5
+"Vietnam","Cotton,ex linters","march",116787.1
+"Vietnam","Cotton,ex linters","april",95362.5
+"Vietnam","Cotton,ex linters","may",92112.9
+"Vietnam","Cotton,ex linters","june",73478.3
+"Vietnam","Cotton,ex linters","july",67555.4
+"Vietnam","Cotton,ex linters","august",59375.9
+"Vietnam","Cotton,ex linters","september",45294.2
+"Vietnam","Cotton,ex linters","october",40687.2
+"Vietnam","Cotton,ex linters","november",36582.3
+"Vietnam","Cotton,ex linters","december",66924
+"Turkey","Cotton,ex linters","january",24540
+"Turkey","Cotton,ex linters","february",53544.8
+"Turkey","Cotton,ex linters","march",69669.2
+"Turkey","Cotton,ex linters","april",46963.3
+"Turkey","Cotton,ex linters","may",20865.7
+"Turkey","Cotton,ex linters","june",30348.3
+"Turkey","Cotton,ex linters","july",49119.6
+"Turkey","Cotton,ex linters","august",22145
+"Turkey","Cotton,ex linters","september",12597.2
+"Turkey","Cotton,ex linters","october",5190.8
+"Turkey","Cotton,ex linters","november",6254.9
+"Turkey","Cotton,ex linters","december",20969.9
+"China","Cotton,ex linters","january",38575.4
+"China","Cotton,ex linters","february",31758.5
+"China","Cotton,ex linters","march",41481.8
+"China","Cotton,ex linters","april",51697.5
+"China","Cotton,ex linters","may",54986.7
+"China","Cotton,ex linters","june",55965.6
+"China","Cotton,ex linters","july",15901.2
+"China","Cotton,ex linters","august",17517.1
+"China","Cotton,ex linters","september",25125.4
+"China","Cotton,ex linters","october",6895.1
+"China","Cotton,ex linters","november",24742.4
+"China","Cotton,ex linters","december",43454.9
+"Pakistan","Cotton,ex linters","january",18117.6
+"Pakistan","Cotton,ex linters","february",12047.5
+"Pakistan","Cotton,ex linters","march",63680.1
+"Pakistan","Cotton,ex linters","april",55708.5
+"Pakistan","Cotton,ex linters","may",63710.1
+"Pakistan","Cotton,ex linters","june",10979.9
+"Pakistan","Cotton,ex linters","july",10130.2
+"Pakistan","Cotton,ex linters","august",7768.5
+"Pakistan","Cotton,ex linters","september",25485.4
+"Pakistan","Cotton,ex linters","october",13602.6
+"Pakistan","Cotton,ex linters","november",6571.8
+"Pakistan","Cotton,ex linters","december",51223.7
+"India","Cotton,ex linters","january",19913.7
+"India","Cotton,ex linters","february",22695.3
+"India","Cotton,ex linters","march",37201.7
+"India","Cotton,ex linters","april",14715.5
+"India","Cotton,ex linters","may",23759
+"India","Cotton,ex linters","june",80008.4
+"India","Cotton,ex linters","july",56546.2
+"India","Cotton,ex linters","august",26152.6
+"India","Cotton,ex linters","september",11958.5
+"India","Cotton,ex linters","october",15771.3
+"India","Cotton,ex linters","november",31038.5
+"India","Cotton,ex linters","december",13322.6
+"Indonesia","Cotton,ex linters","january",17148.2
+"Indonesia","Cotton,ex linters","february",13055.4
+"Indonesia","Cotton,ex linters","march",13235.8
+"Indonesia","Cotton,ex linters","april",17514.6
+"Indonesia","Cotton,ex linters","may",51083.7
+"Indonesia","Cotton,ex linters","june",22760.5
+"Indonesia","Cotton,ex linters","july",20700.9
+"Indonesia","Cotton,ex linters","august",21434.9
+"Indonesia","Cotton,ex linters","september",15066.9
+"Indonesia","Cotton,ex linters","october",15336.6
+"Indonesia","Cotton,ex linters","november",12231.5
+"Indonesia","Cotton,ex linters","december",17210.1
+"Bangladesh","Cotton,ex linters","january",12629.8
+"Bangladesh","Cotton,ex linters","february",26775.3
+"Bangladesh","Cotton,ex linters","march",26779.4
+"Bangladesh","Cotton,ex linters","april",11351.9
+"Bangladesh","Cotton,ex linters","may",21538.2
+"Bangladesh","Cotton,ex linters","june",23831.9
+"Bangladesh","Cotton,ex linters","july",25115
+"Bangladesh","Cotton,ex linters","august",19523.9
+"Bangladesh","Cotton,ex linters","september",15156.9
+"Bangladesh","Cotton,ex linters","october",8544.4
+"Bangladesh","Cotton,ex linters","november",16084.3
+"Bangladesh","Cotton,ex linters","december",19369.1
+"Mexico","Cotton,ex linters","january",9001.5
+"Mexico","Cotton,ex linters","february",13307.7
+"Mexico","Cotton,ex linters","march",23145.3
+"Mexico","Cotton,ex linters","april",19692
+"Mexico","Cotton,ex linters","may",12542
+"Mexico","Cotton,ex linters","june",12071.2
+"Mexico","Cotton,ex linters","july",15247.6
+"Mexico","Cotton,ex linters","august",13585.7
+"Mexico","Cotton,ex linters","september",12745.7
+"Mexico","Cotton,ex linters","october",12750.3
+"Mexico","Cotton,ex linters","november",14433.8
+"Mexico","Cotton,ex linters","december",11731.9
+"Thailand","Cotton,ex linters","january",10745.5
+"Thailand","Cotton,ex linters","february",18761
+"Thailand","Cotton,ex linters","march",16550.2
+"Thailand","Cotton,ex linters","april",14516.2
+"Thailand","Cotton,ex linters","may",13693.5
+"Thailand","Cotton,ex linters","june",11232.6
+"Thailand","Cotton,ex linters","july",7997.9
+"Thailand","Cotton,ex linters","august",6316.2
+"Thailand","Cotton,ex linters","september",5828.6
+"Thailand","Cotton,ex linters","october",5118.9
+"Thailand","Cotton,ex linters","november",7057.3
+"Thailand","Cotton,ex linters","december",7640.8
+"South Korea","Cotton,ex linters","january",10117.3
+"South Korea","Cotton,ex linters","february",8614.6
+"South Korea","Cotton,ex linters","march",11628.6
+"South Korea","Cotton,ex linters","april",14152.2
+"South Korea","Cotton,ex linters","may",7199.7
+"South Korea","Cotton,ex linters","june",10637.4
+"South Korea","Cotton,ex linters","july",4647.1
+"South Korea","Cotton,ex linters","august",4096
+"South Korea","Cotton,ex linters","september",5494.9
+"South Korea","Cotton,ex linters","october",8570.8
+"South Korea","Cotton,ex linters","november",4960.7
+"South Korea","Cotton,ex linters","december",6948.5
+"Vietnam","Cotton,ex linters","january",76764.6
+"Vietnam","Cotton,ex linters","february",87430.5
+"Vietnam","Cotton,ex linters","march",116787.1
+"Vietnam","Cotton,ex linters","april",95362.5
+"Vietnam","Cotton,ex linters","may",92112.9
+"Vietnam","Cotton,ex linters","june",73478.3
+"Vietnam","Cotton,ex linters","july",67555.4
+"Vietnam","Cotton,ex linters","august",59375.9
+"Vietnam","Cotton,ex linters","september",45294.2
+"Vietnam","Cotton,ex linters","october",40687.2
+"Vietnam","Cotton,ex linters","november",36582.3
+"Vietnam","Cotton,ex linters","december",66924
+"Turkey","Cotton,ex linters","january",24540
+"Turkey","Cotton,ex linters","february",53544.8
+"Turkey","Cotton,ex linters","march",69669.2
+"Turkey","Cotton,ex linters","april",46963.3
+"Turkey","Cotton,ex linters","may",20865.7
+"Turkey","Cotton,ex linters","june",30348.3
+"Turkey","Cotton,ex linters","july",49119.6
+"Turkey","Cotton,ex linters","august",22145
+"Turkey","Cotton,ex linters","september",12597.2
+"Turkey","Cotton,ex linters","october",5190.8
+"Turkey","Cotton,ex linters","november",6254.9
+"Turkey","Cotton,ex linters","december",20969.9
+"China","Cotton,ex linters","january",38575.4
+"China","Cotton,ex linters","february",31758.5
+"China","Cotton,ex linters","march",41481.8
+"China","Cotton,ex linters","april",51697.5
+"China","Cotton,ex linters","may",54986.7
+"China","Cotton,ex linters","june",55965.6
+"China","Cotton,ex linters","july",15901.2
+"China","Cotton,ex linters","august",17517.1
+"China","Cotton,ex linters","september",25125.4
+"China","Cotton,ex linters","october",6895.1
+"China","Cotton,ex linters","november",24742.4
+"China","Cotton,ex linters","december",43454.9
+"Pakistan","Cotton,ex linters","january",18117.6
+"Pakistan","Cotton,ex linters","february",12047.5
+"Pakistan","Cotton,ex linters","march",63680.1
+"Pakistan","Cotton,ex linters","april",55708.5
+"Pakistan","Cotton,ex linters","may",63710.1
+"Pakistan","Cotton,ex linters","june",10979.9
+"Pakistan","Cotton,ex linters","july",10130.2
+"Pakistan","Cotton,ex linters","august",7768.5
+"Pakistan","Cotton,ex linters","september",25485.4
+"Pakistan","Cotton,ex linters","october",13602.6
+"Pakistan","Cotton,ex linters","november",6571.8
+"Pakistan","Cotton,ex linters","december",51223.7
+"India","Cotton,ex linters","january",19913.7
+"India","Cotton,ex linters","february",22695.3
+"India","Cotton,ex linters","march",37201.7
+"India","Cotton,ex linters","april",14715.5
+"India","Cotton,ex linters","may",23759
+"India","Cotton,ex linters","june",80008.4
+"India","Cotton,ex linters","july",56546.2
+"India","Cotton,ex linters","august",26152.6
+"India","Cotton,ex linters","september",11958.5
+"India","Cotton,ex linters","october",15771.3
+"India","Cotton,ex linters","november",31038.5
+"India","Cotton,ex linters","december",13322.6
+"Indonesia","Cotton,ex linters","january",17148.2
+"Indonesia","Cotton,ex linters","february",13055.4
+"Indonesia","Cotton,ex linters","march",13235.8
+"Indonesia","Cotton,ex linters","april",17514.6
+"Indonesia","Cotton,ex linters","may",51083.7
+"Indonesia","Cotton,ex linters","june",22760.5
+"Indonesia","Cotton,ex linters","july",20700.9
+"Indonesia","Cotton,ex linters","august",21434.9
+"Indonesia","Cotton,ex linters","september",15066.9
+"Indonesia","Cotton,ex linters","october",15336.6
+"Indonesia","Cotton,ex linters","november",12231.5
+"Indonesia","Cotton,ex linters","december",17210.1
+"Bangladesh","Cotton,ex linters","january",12629.8
+"Bangladesh","Cotton,ex linters","february",26775.3
+"Bangladesh","Cotton,ex linters","march",26779.4
+"Bangladesh","Cotton,ex linters","april",11351.9
+"Bangladesh","Cotton,ex linters","may",21538.2
+"Bangladesh","Cotton,ex linters","june",23831.9
+"Bangladesh","Cotton,ex linters","july",25115
+"Bangladesh","Cotton,ex linters","august",19523.9
+"Bangladesh","Cotton,ex linters","september",15156.9
+"Bangladesh","Cotton,ex linters","october",8544.4
+"Bangladesh","Cotton,ex linters","november",16084.3
+"Bangladesh","Cotton,ex linters","december",19369.1
+"Mexico","Cotton,ex linters","january",9001.5
+"Mexico","Cotton,ex linters","february",13307.7
+"Mexico","Cotton,ex linters","march",23145.3
+"Mexico","Cotton,ex linters","april",19692
+"Mexico","Cotton,ex linters","may",12542
+"Mexico","Cotton,ex linters","june",12071.2
+"Mexico","Cotton,ex linters","july",15247.6
+"Mexico","Cotton,ex linters","august",13585.7
+"Mexico","Cotton,ex linters","september",12745.7
+"Mexico","Cotton,ex linters","october",12750.3
+"Mexico","Cotton,ex linters","november",14433.8
+"Mexico","Cotton,ex linters","december",11731.9
+"Thailand","Cotton,ex linters","january",10745.5
+"Thailand","Cotton,ex linters","february",18761
+"Thailand","Cotton,ex linters","march",16550.2
+"Thailand","Cotton,ex linters","april",14516.2
+"Thailand","Cotton,ex linters","may",13693.5
+"Thailand","Cotton,ex linters","june",11232.6
+"Thailand","Cotton,ex linters","july",7997.9
+"Thailand","Cotton,ex linters","august",6316.2
+"Thailand","Cotton,ex linters","september",5828.6
+"Thailand","Cotton,ex linters","october",5118.9
+"Thailand","Cotton,ex linters","november",7057.3
+"Thailand","Cotton,ex linters","december",7640.8
+"South Korea","Cotton,ex linters","january",10117.3
+"South Korea","Cotton,ex linters","february",8614.6
+"South Korea","Cotton,ex linters","march",11628.6
+"South Korea","Cotton,ex linters","april",14152.2
+"South Korea","Cotton,ex linters","may",7199.7
+"South Korea","Cotton,ex linters","june",10637.4
+"South Korea","Cotton,ex linters","july",4647.1
+"South Korea","Cotton,ex linters","august",4096
+"South Korea","Cotton,ex linters","september",5494.9
+"South Korea","Cotton,ex linters","october",8570.8
+"South Korea","Cotton,ex linters","november",4960.7
+"South Korea","Cotton,ex linters","december",6948.5

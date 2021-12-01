@@ -1,0 +1,157 @@
+"Item","Month","Import_Volume"
+"Wine","january",109.3524
+"Wine","february",82.0724
+"Wine","march",125.2266
+"Wine","april",122.0121
+"Wine","may",104.0557
+"Wine","june",100.586
+"Wine","july",105.2916
+"Wine","august",104.5833
+"Wine","september",96.1052
+"Wine","october",112.2104
+"Wine","november",107.147
+"Wine","december",104.4784
+"Malt beverages","january",294.3943
+"Malt beverages","february",300.6723
+"Malt beverages","march",393.2554
+"Malt beverages","april",409.3467
+"Malt beverages","may",419.3832
+"Malt beverages","june",390.088
+"Malt beverages","july",416.7687
+"Malt beverages","august",353.7031
+"Malt beverages","september",337.36
+"Malt beverages","october",362.4169
+"Malt beverages","november",330.5977
+"Malt beverages","december",263.3991
+"Cattle & calves","january",142.628
+"Cattle & calves","february",189.372
+"Cattle & calves","march",235.085
+"Cattle & calves","april",222.429
+"Cattle & calves","may",190.006
+"Cattle & calves","june",150.436
+"Cattle & calves","july",121.463
+"Cattle & calves","august",98.408
+"Cattle & calves","september",110.317
+"Cattle & calves","october",165.526
+"Cattle & calves","november",204.458
+"Cattle & calves","december",212.625
+"Beef & veal","january",85.861
+"Beef & veal","february",73.1326
+"Beef & veal","march",91.4526
+"Beef & veal","april",92.3275
+"Beef & veal","may",99.8439
+"Beef & veal","june",90.4457
+"Beef & veal","july",90.1569
+"Beef & veal","august",89.7766
+"Beef & veal","september",80.597
+"Beef & veal","october",81.9195
+"Beef & veal","november",81.7479
+"Beef & veal","december",77.3297
+"Dairy products","january",23.056461
+"Dairy products","february",21.2012
+"Dairy products","march",22.332725
+"Dairy products","april",25.256439
+"Dairy products","may",27.009328
+"Dairy products","june",26.042182
+"Dairy products","july",28.711315
+"Dairy products","august",28.222017
+"Dairy products","september",31.583712
+"Dairy products","october",30.971791
+"Dairy products","november",24.52906
+"Dairy products","december",26.335484
+"Processed grains, ex. feed","january",271.7984
+"Processed grains, ex. feed","february",245.7822
+"Processed grains, ex. feed","march",255.6267
+"Processed grains, ex. feed","april",242.1627
+"Processed grains, ex. feed","may",351.1195
+"Processed grains, ex. feed","june",417.0351
+"Processed grains, ex. feed","july",453.5927
+"Processed grains, ex. feed","august",320.2742
+"Processed grains, ex. feed","september",276.2409
+"Processed grains, ex. feed","october",376.1844
+"Processed grains, ex. feed","november",517.9646
+"Processed grains, ex. feed","december",302.4231
+"Fruits, fresh or frozen","january",1152.1891
+"Fruits, fresh or frozen","february",1073.1071
+"Fruits, fresh or frozen","march",1246.0149
+"Fruits, fresh or frozen","april",1306.195
+"Fruits, fresh or frozen","may",1291.2077
+"Fruits, fresh or frozen","june",1106.1824
+"Fruits, fresh or frozen","july",1049.2091
+"Fruits, fresh or frozen","august",935.6571
+"Fruits, fresh or frozen","september",930.9441
+"Fruits, fresh or frozen","october",960.1043
+"Fruits, fresh or frozen","november",888.4087
+"Fruits, fresh or frozen","december",1010.1772
+"Fruits, prepared or preserved","january",129.4302
+"Fruits, prepared or preserved","february",115.806
+"Fruits, prepared or preserved","march",127.9477
+"Fruits, prepared or preserved","april",122.5034
+"Fruits, prepared or preserved","may",132.6104
+"Fruits, prepared or preserved","june",125.5836
+"Fruits, prepared or preserved","july",133.029
+"Fruits, prepared or preserved","august",135.1932
+"Fruits, prepared or preserved","september",130.9446
+"Fruits, prepared or preserved","october",134.2463
+"Fruits, prepared or preserved","november",119.5942
+"Fruits, prepared or preserved","december",127.4668
+"Vegetables, fresh or frozen","january",1011.4177
+"Vegetables, fresh or frozen","february",911.7182
+"Vegetables, fresh or frozen","march",1032.0955
+"Vegetables, fresh or frozen","april",942.9172
+"Vegetables, fresh or frozen","may",854.6835
+"Vegetables, fresh or frozen","june",698.5507
+"Vegetables, fresh or frozen","july",679.0626
+"Vegetables, fresh or frozen","august",684.1198
+"Vegetables, fresh or frozen","september",704.7492
+"Vegetables, fresh or frozen","october",834.9525
+"Vegetables, fresh or frozen","november",847.6455
+"Vegetables, fresh or frozen","december",902.9361
+"Vegetable oils","january",455.214
+"Vegetable oils","february",461.2146
+"Vegetable oils","march",476.3411
+"Vegetable oils","april",441.2374
+"Vegetable oils","may",500.9635
+"Vegetable oils","june",427.777
+"Vegetable oils","july",544.4464
+"Vegetable oils","august",470.2178
+"Vegetable oils","september",440.6633
+"Vegetable oils","october",511.4501
+"Vegetable oils","november",478.494
+"Vegetable oils","december",511.6708
+"Sugar & related products","january",374.296
+"Sugar & related products","february",349.6549
+"Sugar & related products","march",398.3506
+"Sugar & related products","april",379.4495
+"Sugar & related products","may",322.7634
+"Sugar & related products","june",330.61
+"Sugar & related products","july",330.6136
+"Sugar & related products","august",390.2766
+"Sugar & related products","september",291.9011
+"Sugar & related products","october",406.4691
+"Sugar & related products","november",401.4253
+"Sugar & related products","december",337.5171
+"Cocoa & products","january",129.0165
+"Cocoa & products","february",139.1708
+"Cocoa & products","march",126.6652
+"Cocoa & products","april",139.6842
+"Cocoa & products","may",130.7693
+"Cocoa & products","june",103.903
+"Cocoa & products","july",112.003
+"Cocoa & products","august",105.3342
+"Cocoa & products","september",102.8526
+"Cocoa & products","october",106.7219
+"Cocoa & products","november",85.9247
+"Cocoa & products","december",111.9827
+"Coffee & products","january",148.3141
+"Coffee & products","february",132.9573
+"Coffee & products","march",149.6924
+"Coffee & products","april",151.1156
+"Coffee & products","may",176.5421
+"Coffee & products","june",158.3873
+"Coffee & products","july",157.5373
+"Coffee & products","august",157.6567
+"Coffee & products","september",137.9494
+"Coffee & products","october",127.7177
+"Coffee & products","november",119.261
+"Coffee & products","december",135.5056

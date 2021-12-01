@@ -1,0 +1,229 @@
+"Item","Month","Export_Volume"
+"Red meats & products","january",384.9647
+"Red meats & products","february",343.5179
+"Red meats & products","march",387.7747
+"Red meats & products","april",397.4429
+"Red meats & products","may",428.7468
+"Red meats & products","june",406.5619
+"Red meats & products","july",431.0225
+"Red meats & products","august",431.0806
+"Red meats & products","september",394.6562
+"Red meats & products","october",424.7785
+"Red meats & products","november",388.7765
+"Red meats & products","december",487.9421
+"Poultry meats","january",288.8425
+"Poultry meats","february",275.7914
+"Poultry meats","march",300.4096
+"Poultry meats","april",276.4592
+"Poultry meats","may",314.0234
+"Poultry meats","june",282.3427
+"Poultry meats","july",302.5219
+"Poultry meats","august",304.1238
+"Poultry meats","september",290.8914
+"Poultry meats","october",328.4088
+"Poultry meats","november",317.0365
+"Poultry meats","december",290.3205
+"Nonfat dry milk","january",51.4879
+"Nonfat dry milk","february",58.003
+"Nonfat dry milk","march",61.4496
+"Nonfat dry milk","april",58.9129
+"Nonfat dry milk","may",66.0466
+"Nonfat dry milk","june",46.0239
+"Nonfat dry milk","july",52.4328
+"Nonfat dry milk","august",56.9909
+"Nonfat dry milk","september",68.6073
+"Nonfat dry milk","october",72.0202
+"Nonfat dry milk","november",51.4272
+"Nonfat dry milk","december",74.3325
+"Wheat","january",2002.693
+"Wheat","february",2262.082
+"Wheat","march",1958.853
+"Wheat","april",2829.745
+"Wheat","may",2758.724
+"Wheat","june",2155.962
+"Wheat","july",1940.48
+"Wheat","august",2570.81
+"Wheat","september",2291.406
+"Wheat","october",2142.902
+"Wheat","november",1632.009
+"Wheat","december",2147.611
+"Rice","january",245.8138
+"Rice","february",227.9386
+"Rice","march",296.0612
+"Rice","april",320.3804
+"Rice","may",382.8888
+"Rice","june",328.0364
+"Rice","july",292.2392
+"Rice","august",344.2475
+"Rice","september",232.5163
+"Rice","october",302.0227
+"Rice","november",392.2427
+"Rice","december",377.1575
+"Coarse grains","january",4794.793
+"Coarse grains","february",3932.37
+"Coarse grains","march",4937.245
+"Coarse grains","april",5607.405
+"Coarse grains","may",4969.868
+"Coarse grains","june",3394.9712
+"Coarse grains","july",3051.9621
+"Coarse grains","august",3147.7019
+"Coarse grains","september",2246.7211
+"Coarse grains","october",2453.5286
+"Coarse grains","november",5314.651
+"Coarse grains","december",2953.413
+"Corn","january",4665.8
+"Corn","february",3616.834
+"Corn","march",4770.645
+"Corn","april",5472.162
+"Corn","may",4689.794
+"Corn","june",3068.884
+"Corn","july",2882.181
+"Corn","august",2825.045
+"Corn","september",2028.214
+"Corn","october",2303.944
+"Corn","november",5076.177
+"Corn","december",2508.11
+"Sorghum","january",117.137
+"Sorghum","february",304.705
+"Sorghum","march",155.479
+"Sorghum","april",124.286
+"Sorghum","may",270.316
+"Sorghum","june",316.164
+"Sorghum","july",160.368
+"Sorghum","august",312.34
+"Sorghum","september",203.701
+"Sorghum","october",134.528
+"Sorghum","november",227.512
+"Sorghum","december",429.017
+"Soybeans","january",4828.2436
+"Soybeans","february",4577.3582
+"Soybeans","march",3706.5318
+"Soybeans","april",2399.2479
+"Soybeans","may",2560.4369
+"Soybeans","june",3193.5522
+"Soybeans","july",3680.4301
+"Soybeans","august",4931.1696
+"Soybeans","september",3889.9919
+"Soybeans","october",5944.5981
+"Soybeans","november",4879.3448
+"Soybeans","december",5570.2881
+"Oil meal","january",1397.5432
+"Oil meal","february",1010.9908
+"Oil meal","march",1080.3711
+"Oil meal","april",1285.1081
+"Oil meal","may",1026.901
+"Oil meal","june",829.6766
+"Oil meal","july",834.7014
+"Oil meal","august",955.2612
+"Oil meal","september",896.6328
+"Oil meal","october",1050.9303
+"Oil meal","november",1056.2566
+"Oil meal","december",1027.8498
+"Vegetable oils","january",207.8773
+"Vegetable oils","february",142.27
+"Vegetable oils","march",269.9626
+"Vegetable oils","april",171.2528
+"Vegetable oils","may",215.1109
+"Vegetable oils","june",155.0201
+"Vegetable oils","july",187.6443
+"Vegetable oils","august",176.7335
+"Vegetable oils","september",122.8194
+"Vegetable oils","october",242.2406
+"Vegetable oils","november",222.6968
+"Vegetable oils","december",186.7048
+"Fruits, fresh","january",187.702
+"Fruits, fresh","february",194.6823
+"Fruits, fresh","march",250.1958
+"Fruits, fresh","april",210.2513
+"Fruits, fresh","may",194.9731
+"Fruits, fresh","june",225.0821
+"Fruits, fresh","july",256.7849
+"Fruits, fresh","august",234.3888
+"Fruits, fresh","september",210.8608
+"Fruits, fresh","october",233.3874
+"Fruits, fresh","november",252.2516
+"Fruits, fresh","december",210.951
+"Fruits, prepared or preserved","january",43.0092
+"Fruits, prepared or preserved","february",46.5555
+"Fruits, prepared or preserved","march",51.9179
+"Fruits, prepared or preserved","april",45.3285
+"Fruits, prepared or preserved","may",47.1602
+"Fruits, prepared or preserved","june",45.7681
+"Fruits, prepared or preserved","july",45.8015
+"Fruits, prepared or preserved","august",51.7333
+"Fruits, prepared or preserved","september",49.4395
+"Fruits, prepared or preserved","october",52.4873
+"Fruits, prepared or preserved","november",46.3219
+"Fruits, prepared or preserved","december",41.7173
+"Fruit juices","january",49.7783
+"Fruit juices","february",42.5361
+"Fruit juices","march",53.9675
+"Fruit juices","april",48.0611
+"Fruit juices","may",48.9279
+"Fruit juices","june",45.4478
+"Fruit juices","july",43.4345
+"Fruit juices","august",43.868
+"Fruit juices","september",41.0702
+"Fruit juices","october",46.2474
+"Fruit juices","november",43.7408
+"Fruit juices","december",43.3219
+"Vegetables, fresh","january",212.9446
+"Vegetables, fresh","february",192.2982
+"Vegetables, fresh","march",213.898
+"Vegetables, fresh","april",227.4322
+"Vegetables, fresh","may",238.2506
+"Vegetables, fresh","june",236.648
+"Vegetables, fresh","july",216.2811
+"Vegetables, fresh","august",171.1889
+"Vegetables, fresh","september",150.3459
+"Vegetables, fresh","october",176.4563
+"Vegetables, fresh","november",207.5012
+"Vegetables, fresh","december",206.8592
+"Vegetables, prepared or preserved","january",220.6918
+"Vegetables, prepared or preserved","february",208.1938
+"Vegetables, prepared or preserved","march",270.5879
+"Vegetables, prepared or preserved","april",239.8548
+"Vegetables, prepared or preserved","may",247.3092
+"Vegetables, prepared or preserved","june",232.4978
+"Vegetables, prepared or preserved","july",246.9784
+"Vegetables, prepared or preserved","august",260.3566
+"Vegetables, prepared or preserved","september",217.2322
+"Vegetables, prepared or preserved","october",253.2625
+"Vegetables, prepared or preserved","november",231.3198
+"Vegetables, prepared or preserved","december",224.9965
+"Nuts & preparations","january",161.4557
+"Nuts & preparations","february",162.7189
+"Nuts & preparations","march",163.1491
+"Nuts & preparations","april",142.9441
+"Nuts & preparations","may",135.7509
+"Nuts & preparations","june",125.3686
+"Nuts & preparations","july",115.693
+"Nuts & preparations","august",112.3615
+"Nuts & preparations","september",138.1659
+"Nuts & preparations","october",223.6099
+"Nuts & preparations","november",248.0621
+"Nuts & preparations","december",172.1099
+"Cotton & linters","january",267.5924
+"Cotton & linters","february",323.6602
+"Cotton & linters","march",460.3132
+"Cotton & linters","april",383.7636
+"Cotton & linters","may",399.1884
+"Cotton & linters","june",367.595
+"Cotton & linters","july",311.6527
+"Cotton & linters","august",225.1971
+"Cotton & linters","september",198.6745
+"Cotton & linters","october",160.5106
+"Cotton & linters","november",148.2711
+"Cotton & linters","december",288.8758
+"Major bulk","january",12153.1906
+"Major bulk","february",11335.1742
+"Major bulk","march",11367.4692
+"Major bulk","april",11545.2468
+"Major bulk","may",11081.7085
+"Major bulk","june",9449.8186
+"Major bulk","july",9287.4364
+"Major bulk","august",11226.6156
+"Major bulk","september",8864.9147
+"Major bulk","october",11007.7664
+"Major bulk","november",12371.5434
+"Major bulk","december",11345.0768

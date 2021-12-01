@@ -32,6 +32,11 @@ exports_values_df =
     values_to = "Export_Value"
   ) %>% 
   rename("Item" = "items")
+
+write.csv(exports_volume_df, file = ".\\data\\Export Volume Clean 2019.csv", row.names = F)
+
+write.csv(exports_values_df, file = ".\\data\\Export Value Clean 2019.csv", row.names = F)
+
 ```
 
 ## 2019 imports by values and volumes
@@ -59,6 +64,11 @@ imports_values_df =
     values_to = "Import_Value"
   ) %>% 
   rename("Item" = "items")
+
+
+write.csv(imports_volume_df, file = ".\\data\\Import Volume Clean 2019.csv", row.names = F)
+
+write.csv(imports_values_df, file = ".\\data\\Import Value Clean 2019.csv", row.names = F)
 ```
 
 ## 2019 Top 10 U.S. export markets for soybeans, corn, wheat, and cotton, by volume	
@@ -112,6 +122,8 @@ top_10_exports_df =
     Export_Country = recode(Export_Country, "European Union-28 3/" = "European Union-28")
   )
   
+write.csv(top_10_exports_df, file = ".\\data\\Top 10 Export Clean 2019.csv", row.names = F)
+
 ```
 
 
@@ -165,5 +177,7 @@ top_10_imports_df =
   mutate(
     Import_Country = recode(Import_Country, "European Union-28 3/" = "European Union-28")
   ) 
+
+write.csv(top_10_imports_df, file = ".\\data\\Top 10 Import Clean 2019.csv", row.names = F)
 ```
 

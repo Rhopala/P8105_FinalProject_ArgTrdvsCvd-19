@@ -1,0 +1,481 @@
+"Import_Country","Commodity","Month","Import_Value"
+"Mexico","Fruits, fresh or frozensoybean","january",657.844
+"Mexico","Fruits, fresh or frozensoybean","february",661.475
+"Mexico","Fruits, fresh or frozensoybean","march",661.475
+"Mexico","Fruits, fresh or frozensoybean","april",882.17
+"Mexico","Fruits, fresh or frozensoybean","may",867.241
+"Mexico","Fruits, fresh or frozensoybean","june",789.806
+"Mexico","Fruits, fresh or frozensoybean","july",392.804
+"Mexico","Fruits, fresh or frozensoybean","august",356.606
+"Mexico","Fruits, fresh or frozensoybean","september",385.404
+"Mexico","Fruits, fresh or frozensoybean","october",478.815
+"Mexico","Fruits, fresh or frozensoybean","november",527.524
+"Mexico","Fruits, fresh or frozensoybean","december",595.495
+"Chile","Fruits, fresh or frozensoybean","january",243.566
+"Chile","Fruits, fresh or frozensoybean","february",277.678
+"Chile","Fruits, fresh or frozensoybean","march",277.678
+"Chile","Fruits, fresh or frozensoybean","april",227.549
+"Chile","Fruits, fresh or frozensoybean","may",92.373
+"Chile","Fruits, fresh or frozensoybean","june",86.101
+"Chile","Fruits, fresh or frozensoybean","july",141.245
+"Chile","Fruits, fresh or frozensoybean","august",105.149
+"Chile","Fruits, fresh or frozensoybean","september",132.434
+"Chile","Fruits, fresh or frozensoybean","october",68.533
+"Chile","Fruits, fresh or frozensoybean","november",24.332
+"Chile","Fruits, fresh or frozensoybean","december",106.728
+"Guatemala","Fruits, fresh or frozensoybean","january",222.428
+"Guatemala","Fruits, fresh or frozensoybean","february",147.912
+"Guatemala","Fruits, fresh or frozensoybean","march",147.912
+"Guatemala","Fruits, fresh or frozensoybean","april",18.346
+"Guatemala","Fruits, fresh or frozensoybean","may",86.685
+"Guatemala","Fruits, fresh or frozensoybean","june",79.614
+"Guatemala","Fruits, fresh or frozensoybean","july",125.358
+"Guatemala","Fruits, fresh or frozensoybean","august",90.833
+"Guatemala","Fruits, fresh or frozensoybean","september",102.307
+"Guatemala","Fruits, fresh or frozensoybean","october",130.415
+"Guatemala","Fruits, fresh or frozensoybean","november",137.694
+"Guatemala","Fruits, fresh or frozensoybean","december",195.159
+"Costa Rica","Fruits, fresh or frozensoybean","january",98.103
+"Costa Rica","Fruits, fresh or frozensoybean","february",99.386
+"Costa Rica","Fruits, fresh or frozensoybean","march",99.386
+"Costa Rica","Fruits, fresh or frozensoybean","april",118.603
+"Costa Rica","Fruits, fresh or frozensoybean","may",39.644
+"Costa Rica","Fruits, fresh or frozensoybean","june",76.417
+"Costa Rica","Fruits, fresh or frozensoybean","july",96.27
+"Costa Rica","Fruits, fresh or frozensoybean","august",90.144
+"Costa Rica","Fruits, fresh or frozensoybean","september",99.617
+"Costa Rica","Fruits, fresh or frozensoybean","october",95.22
+"Costa Rica","Fruits, fresh or frozensoybean","november",95.883
+"Costa Rica","Fruits, fresh or frozensoybean","december",116.965
+"Peru","Fruits, fresh or frozensoybean","january",80.435
+"Peru","Fruits, fresh or frozensoybean","february",70.501
+"Peru","Fruits, fresh or frozensoybean","march",70.501
+"Peru","Fruits, fresh or frozensoybean","april",96.347
+"Peru","Fruits, fresh or frozensoybean","may",99.365
+"Peru","Fruits, fresh or frozensoybean","june",84.384
+"Peru","Fruits, fresh or frozensoybean","july",78.296
+"Peru","Fruits, fresh or frozensoybean","august",74.234
+"Peru","Fruits, fresh or frozensoybean","september",81.426
+"Peru","Fruits, fresh or frozensoybean","october",73.822
+"Peru","Fruits, fresh or frozensoybean","november",81.334
+"Peru","Fruits, fresh or frozensoybean","december",79.762
+"Canada","Fruits, fresh or frozensoybean","january",42.222
+"Canada","Fruits, fresh or frozensoybean","february",36.943
+"Canada","Fruits, fresh or frozensoybean","march",36.943
+"Canada","Fruits, fresh or frozensoybean","april",53.524
+"Canada","Fruits, fresh or frozensoybean","may",42.527
+"Canada","Fruits, fresh or frozensoybean","june",22.317
+"Canada","Fruits, fresh or frozensoybean","july",39.805
+"Canada","Fruits, fresh or frozensoybean","august",29.942
+"Canada","Fruits, fresh or frozensoybean","september",25.427
+"Canada","Fruits, fresh or frozensoybean","october",44.783
+"Canada","Fruits, fresh or frozensoybean","november",25.17
+"Canada","Fruits, fresh or frozensoybean","december",57.522
+"Ecuador","Fruits, fresh or frozensoybean","january",52.279
+"Ecuador","Fruits, fresh or frozensoybean","february",46.149
+"Ecuador","Fruits, fresh or frozensoybean","march",46.149
+"Ecuador","Fruits, fresh or frozensoybean","april",32.42
+"Ecuador","Fruits, fresh or frozensoybean","may",32.388
+"Ecuador","Fruits, fresh or frozensoybean","june",31.209
+"Ecuador","Fruits, fresh or frozensoybean","july",17.788
+"Ecuador","Fruits, fresh or frozensoybean","august",80.314
+"Ecuador","Fruits, fresh or frozensoybean","september",33.846
+"Ecuador","Fruits, fresh or frozensoybean","october",31.063
+"Ecuador","Fruits, fresh or frozensoybean","november",41.706
+"Ecuador","Fruits, fresh or frozensoybean","december",17.428
+"Honduras","Fruits, fresh or frozensoybean","january",19.874
+"Honduras","Fruits, fresh or frozensoybean","february",18.874
+"Honduras","Fruits, fresh or frozensoybean","march",18.874
+"Honduras","Fruits, fresh or frozensoybean","april",20.926
+"Honduras","Fruits, fresh or frozensoybean","may",21.503
+"Honduras","Fruits, fresh or frozensoybean","june",19.028
+"Honduras","Fruits, fresh or frozensoybean","july",79.357
+"Honduras","Fruits, fresh or frozensoybean","august",15.705
+"Honduras","Fruits, fresh or frozensoybean","september",16.822
+"Honduras","Fruits, fresh or frozensoybean","october",19.317
+"Honduras","Fruits, fresh or frozensoybean","november",19.739
+"Honduras","Fruits, fresh or frozensoybean","december",22.849
+"Colombia","Fruits, fresh or frozensoybean","january",16.302
+"Colombia","Fruits, fresh or frozensoybean","february",13.901
+"Colombia","Fruits, fresh or frozensoybean","march",13.901
+"Colombia","Fruits, fresh or frozensoybean","april",18.269
+"Colombia","Fruits, fresh or frozensoybean","may",15.869
+"Colombia","Fruits, fresh or frozensoybean","june",12.316
+"Colombia","Fruits, fresh or frozensoybean","july",18.511
+"Colombia","Fruits, fresh or frozensoybean","august",17.994
+"Colombia","Fruits, fresh or frozensoybean","september",18.654
+"Colombia","Fruits, fresh or frozensoybean","october",16.29
+"Colombia","Fruits, fresh or frozensoybean","november",15.82
+"Colombia","Fruits, fresh or frozensoybean","december",17.418
+"New Zealand","Fruits, fresh or frozensoybean","january",4.969
+"New Zealand","Fruits, fresh or frozensoybean","february",3.923
+"New Zealand","Fruits, fresh or frozensoybean","march",3.923
+"New Zealand","Fruits, fresh or frozensoybean","april",19.045
+"New Zealand","Fruits, fresh or frozensoybean","may",21.535
+"New Zealand","Fruits, fresh or frozensoybean","june",18.918
+"New Zealand","Fruits, fresh or frozensoybean","july",16.321
+"New Zealand","Fruits, fresh or frozensoybean","august",7.012
+"New Zealand","Fruits, fresh or frozensoybean","september",3.227
+"New Zealand","Fruits, fresh or frozensoybean","october",12.848
+"New Zealand","Fruits, fresh or frozensoybean","november",17.111
+"New Zealand","Fruits, fresh or frozensoybean","december",11.712
+"Mexico","Fruits, prepared or preserved","january",54.706
+"Mexico","Fruits, prepared or preserved","february",50.196
+"Mexico","Fruits, prepared or preserved","march",50.196
+"Mexico","Fruits, prepared or preserved","april",53.847
+"Mexico","Fruits, prepared or preserved","may",54.772
+"Mexico","Fruits, prepared or preserved","june",55.157
+"Mexico","Fruits, prepared or preserved","july",65.435
+"Mexico","Fruits, prepared or preserved","august",68.341
+"Mexico","Fruits, prepared or preserved","september",65.959
+"Mexico","Fruits, prepared or preserved","october",61.688
+"Mexico","Fruits, prepared or preserved","november",55.222
+"Mexico","Fruits, prepared or preserved","december",59.2
+"China","Fruits, prepared or preserved","january",35.371
+"China","Fruits, prepared or preserved","february",37.17
+"China","Fruits, prepared or preserved","march",37.17
+"China","Fruits, prepared or preserved","april",34.704
+"China","Fruits, prepared or preserved","may",37.465
+"China","Fruits, prepared or preserved","june",31.205
+"China","Fruits, prepared or preserved","july",34.711
+"China","Fruits, prepared or preserved","august",31.46
+"China","Fruits, prepared or preserved","september",34.78
+"China","Fruits, prepared or preserved","october",32.312
+"China","Fruits, prepared or preserved","november",30.581
+"China","Fruits, prepared or preserved","december",37.617
+"Thailand","Fruits, prepared or preserved","january",27.504
+"Thailand","Fruits, prepared or preserved","february",22.927
+"Thailand","Fruits, prepared or preserved","march",22.927
+"Thailand","Fruits, prepared or preserved","april",25.501
+"Thailand","Fruits, prepared or preserved","may",26.95
+"Thailand","Fruits, prepared or preserved","june",30.125
+"Thailand","Fruits, prepared or preserved","july",39.21
+"Thailand","Fruits, prepared or preserved","august",36.586
+"Thailand","Fruits, prepared or preserved","september",25.678
+"Thailand","Fruits, prepared or preserved","october",23.904
+"Thailand","Fruits, prepared or preserved","november",21.102
+"Thailand","Fruits, prepared or preserved","december",24.633
+"Canada","Fruits, prepared or preserved","january",19.941
+"Canada","Fruits, prepared or preserved","february",19.98
+"Canada","Fruits, prepared or preserved","march",19.98
+"Canada","Fruits, prepared or preserved","april",20.071
+"Canada","Fruits, prepared or preserved","may",22.692
+"Canada","Fruits, prepared or preserved","june",21.727
+"Canada","Fruits, prepared or preserved","july",19.397
+"Canada","Fruits, prepared or preserved","august",24.775
+"Canada","Fruits, prepared or preserved","september",25.347
+"Canada","Fruits, prepared or preserved","october",27.751
+"Canada","Fruits, prepared or preserved","november",18.3
+"Canada","Fruits, prepared or preserved","december",16.696
+"European Union-28","Fruits, prepared or preserved","january",18.414
+"European Union-28","Fruits, prepared or preserved","february",16.933
+"European Union-28","Fruits, prepared or preserved","march",16.933
+"European Union-28","Fruits, prepared or preserved","april",21.822
+"European Union-28","Fruits, prepared or preserved","may",22.563
+"European Union-28","Fruits, prepared or preserved","june",23.249
+"European Union-28","Fruits, prepared or preserved","july",23.074
+"European Union-28","Fruits, prepared or preserved","august",19.618
+"European Union-28","Fruits, prepared or preserved","september",20.28
+"European Union-28","Fruits, prepared or preserved","october",22.799
+"European Union-28","Fruits, prepared or preserved","november",20.502
+"European Union-28","Fruits, prepared or preserved","december",18.869
+"Philippines","Fruits, prepared or preserved","january",10.886
+"Philippines","Fruits, prepared or preserved","february",6.554
+"Philippines","Fruits, prepared or preserved","march",6.554
+"Philippines","Fruits, prepared or preserved","april",10.577
+"Philippines","Fruits, prepared or preserved","may",13.266
+"Philippines","Fruits, prepared or preserved","june",11.375
+"Philippines","Fruits, prepared or preserved","july",10.345
+"Philippines","Fruits, prepared or preserved","august",18.212
+"Philippines","Fruits, prepared or preserved","september",15.306
+"Philippines","Fruits, prepared or preserved","october",13.847
+"Philippines","Fruits, prepared or preserved","november",12.963
+"Philippines","Fruits, prepared or preserved","december",12.923
+"Chile","Fruits, prepared or preserved","january",13.555
+"Chile","Fruits, prepared or preserved","february",7.188
+"Chile","Fruits, prepared or preserved","march",7.188
+"Chile","Fruits, prepared or preserved","april",11.137
+"Chile","Fruits, prepared or preserved","may",11.694
+"Chile","Fruits, prepared or preserved","june",11.743
+"Chile","Fruits, prepared or preserved","july",11.393
+"Chile","Fruits, prepared or preserved","august",11.932
+"Chile","Fruits, prepared or preserved","september",9.67
+"Chile","Fruits, prepared or preserved","october",10.263
+"Chile","Fruits, prepared or preserved","november",10.279
+"Chile","Fruits, prepared or preserved","december",9.877
+"South Korea","Fruits, prepared or preserved","january",8.582
+"South Korea","Fruits, prepared or preserved","february",6.969
+"South Korea","Fruits, prepared or preserved","march",6.969
+"South Korea","Fruits, prepared or preserved","april",8.733
+"South Korea","Fruits, prepared or preserved","may",11.16
+"South Korea","Fruits, prepared or preserved","june",8.913
+"South Korea","Fruits, prepared or preserved","july",10.947
+"South Korea","Fruits, prepared or preserved","august",10.428
+"South Korea","Fruits, prepared or preserved","september",9.287
+"South Korea","Fruits, prepared or preserved","october",11.042
+"South Korea","Fruits, prepared or preserved","november",4.627
+"South Korea","Fruits, prepared or preserved","december",9.04
+"Turkey","Fruits, prepared or preserved","january",8.457
+"Turkey","Fruits, prepared or preserved","february",6.767
+"Turkey","Fruits, prepared or preserved","march",6.767
+"Turkey","Fruits, prepared or preserved","april",8.061
+"Turkey","Fruits, prepared or preserved","may",8.079
+"Turkey","Fruits, prepared or preserved","june",6.863
+"Turkey","Fruits, prepared or preserved","july",6.11
+"Turkey","Fruits, prepared or preserved","august",4.906
+"Turkey","Fruits, prepared or preserved","september",5.276
+"Turkey","Fruits, prepared or preserved","october",7.535
+"Turkey","Fruits, prepared or preserved","november",8.023
+"Turkey","Fruits, prepared or preserved","december",9.523
+"Ecuador","Fruits, prepared or preserved","january",4.907
+"Ecuador","Fruits, prepared or preserved","february",5.611
+"Ecuador","Fruits, prepared or preserved","march",5.611
+"Ecuador","Fruits, prepared or preserved","april",6.454
+"Ecuador","Fruits, prepared or preserved","may",6.439
+"Ecuador","Fruits, prepared or preserved","june",5.696
+"Ecuador","Fruits, prepared or preserved","july",6.036
+"Ecuador","Fruits, prepared or preserved","august",6.901
+"Ecuador","Fruits, prepared or preserved","september",5.97
+"Ecuador","Fruits, prepared or preserved","october",6.06
+"Ecuador","Fruits, prepared or preserved","november",5.268
+"Ecuador","Fruits, prepared or preserved","december",5.272
+"Mexico","Vegetables, fresh or frozen","january",865.378
+"Mexico","Vegetables, fresh or frozen","february",760.953
+"Mexico","Vegetables, fresh or frozen","march",873.762
+"Mexico","Vegetables, fresh or frozen","april",674.175
+"Mexico","Vegetables, fresh or frozen","may",529.249
+"Mexico","Vegetables, fresh or frozen","june",401.875
+"Mexico","Vegetables, fresh or frozen","july",357.087
+"Mexico","Vegetables, fresh or frozen","august",330.684
+"Mexico","Vegetables, fresh or frozen","september",346.896
+"Mexico","Vegetables, fresh or frozen","october",487.478
+"Mexico","Vegetables, fresh or frozen","november",583.502
+"Mexico","Vegetables, fresh or frozen","december",701.353
+"Canada","Vegetables, fresh or frozen","january",154.09
+"Canada","Vegetables, fresh or frozen","february",138.683
+"Canada","Vegetables, fresh or frozen","march",174.524
+"Canada","Vegetables, fresh or frozen","april",215.578
+"Canada","Vegetables, fresh or frozen","may",248.008
+"Canada","Vegetables, fresh or frozen","june",254.937
+"Canada","Vegetables, fresh or frozen","july",290.572
+"Canada","Vegetables, fresh or frozen","august",279.685
+"Canada","Vegetables, fresh or frozen","september",281.641
+"Canada","Vegetables, fresh or frozen","october",262.739
+"Canada","Vegetables, fresh or frozen","november",207.674
+"Canada","Vegetables, fresh or frozen","december",167.592
+"European Union-28","Vegetables, fresh or frozen","january",36.777
+"European Union-28","Vegetables, fresh or frozen","february",7.759
+"European Union-28","Vegetables, fresh or frozen","march",34.385
+"European Union-28","Vegetables, fresh or frozen","april",36.861
+"European Union-28","Vegetables, fresh or frozen","may",32.747
+"European Union-28","Vegetables, fresh or frozen","june",37.316
+"European Union-28","Vegetables, fresh or frozen","july",41.671
+"European Union-28","Vegetables, fresh or frozen","august",41.052
+"European Union-28","Vegetables, fresh or frozen","september",41.99
+"European Union-28","Vegetables, fresh or frozen","october",46.301
+"European Union-28","Vegetables, fresh or frozen","november",40.922
+"European Union-28","Vegetables, fresh or frozen","december",49.728
+"Peru","Vegetables, fresh or frozen","january",32
+"Peru","Vegetables, fresh or frozen","february",25.174
+"Peru","Vegetables, fresh or frozen","march",6.056
+"Peru","Vegetables, fresh or frozen","april",15.654
+"Peru","Vegetables, fresh or frozen","may",26.785
+"Peru","Vegetables, fresh or frozen","june",16.98
+"Peru","Vegetables, fresh or frozen","july",29.079
+"Peru","Vegetables, fresh or frozen","august",39.976
+"Peru","Vegetables, fresh or frozen","september",44.143
+"Peru","Vegetables, fresh or frozen","october",48.711
+"Peru","Vegetables, fresh or frozen","november",48.138
+"Peru","Vegetables, fresh or frozen","december",49.378
+"China","Vegetables, fresh or frozen","january",21.487
+"China","Vegetables, fresh or frozen","february",20.143
+"China","Vegetables, fresh or frozen","march",20.161
+"China","Vegetables, fresh or frozen","april",19.504
+"China","Vegetables, fresh or frozen","may",15.546
+"China","Vegetables, fresh or frozen","june",10.219
+"China","Vegetables, fresh or frozen","july",14.683
+"China","Vegetables, fresh or frozen","august",17.342
+"China","Vegetables, fresh or frozen","september",17.329
+"China","Vegetables, fresh or frozen","october",19.843
+"China","Vegetables, fresh or frozen","november",18.71
+"China","Vegetables, fresh or frozen","december",20.779
+"Guatemala","Vegetables, fresh or frozen","january",18.729
+"Guatemala","Vegetables, fresh or frozen","february",14.657
+"Guatemala","Vegetables, fresh or frozen","march",14.338
+"Guatemala","Vegetables, fresh or frozen","april",16.265
+"Guatemala","Vegetables, fresh or frozen","may",21.52
+"Guatemala","Vegetables, fresh or frozen","june",16.784
+"Guatemala","Vegetables, fresh or frozen","july",15.662
+"Guatemala","Vegetables, fresh or frozen","august",17.528
+"Guatemala","Vegetables, fresh or frozen","september",18.213
+"Guatemala","Vegetables, fresh or frozen","october",16.355
+"Guatemala","Vegetables, fresh or frozen","november",16.908
+"Guatemala","Vegetables, fresh or frozen","december",21.793
+"Costa Rica","Vegetables, fresh or frozen","january",8.239
+"Costa Rica","Vegetables, fresh or frozen","february",8.898
+"Costa Rica","Vegetables, fresh or frozen","march",7.139
+"Costa Rica","Vegetables, fresh or frozen","april",7.568
+"Costa Rica","Vegetables, fresh or frozen","may",7.591
+"Costa Rica","Vegetables, fresh or frozen","june",7.078
+"Costa Rica","Vegetables, fresh or frozen","july",8.666
+"Costa Rica","Vegetables, fresh or frozen","august",9.288
+"Costa Rica","Vegetables, fresh or frozen","september",9.659
+"Costa Rica","Vegetables, fresh or frozen","october",11.397
+"Costa Rica","Vegetables, fresh or frozen","november",9.422
+"Costa Rica","Vegetables, fresh or frozen","december",8.927
+"Ecuador","Vegetables, fresh or frozen","january",6.301
+"Ecuador","Vegetables, fresh or frozen","february",7.48
+"Ecuador","Vegetables, fresh or frozen","march",6.781
+"Ecuador","Vegetables, fresh or frozen","april",6.366
+"Ecuador","Vegetables, fresh or frozen","may",8.408
+"Ecuador","Vegetables, fresh or frozen","june",7.826
+"Ecuador","Vegetables, fresh or frozen","july",7.524
+"Ecuador","Vegetables, fresh or frozen","august",7.599
+"Ecuador","Vegetables, fresh or frozen","september",7.631
+"Ecuador","Vegetables, fresh or frozen","october",7.771
+"Ecuador","Vegetables, fresh or frozen","november",8.335
+"Ecuador","Vegetables, fresh or frozen","december",8.142
+"Honduras","Vegetables, fresh or frozen","january",7.763
+"Honduras","Vegetables, fresh or frozen","february",7.195
+"Honduras","Vegetables, fresh or frozen","march",6.487
+"Honduras","Vegetables, fresh or frozen","april",6.763
+"Honduras","Vegetables, fresh or frozen","may",5.476
+"Honduras","Vegetables, fresh or frozen","june",3.921
+"Honduras","Vegetables, fresh or frozen","july",4.376
+"Honduras","Vegetables, fresh or frozen","august",4.363
+"Honduras","Vegetables, fresh or frozen","september",4.123
+"Honduras","Vegetables, fresh or frozen","october",3.49
+"Honduras","Vegetables, fresh or frozen","november",4.523
+"Honduras","Vegetables, fresh or frozen","december",7.802
+"Dominican Republic","Vegetables, fresh or frozen","january",5.219
+"Dominican Republic","Vegetables, fresh or frozen","february",4.334
+"Dominican Republic","Vegetables, fresh or frozen","march",4.999
+"Dominican Republic","Vegetables, fresh or frozen","april",4.919
+"Dominican Republic","Vegetables, fresh or frozen","may",4.54
+"Dominican Republic","Vegetables, fresh or frozen","june",4.136
+"Dominican Republic","Vegetables, fresh or frozen","july",3.219
+"Dominican Republic","Vegetables, fresh or frozen","august",3.549
+"Dominican Republic","Vegetables, fresh or frozen","september",2.838
+"Dominican Republic","Vegetables, fresh or frozen","october",4.297
+"Dominican Republic","Vegetables, fresh or frozen","november",4.189
+"Dominican Republic","Vegetables, fresh or frozen","december",4.801
+"European Union-28","Vegetables, prepared or preserved","january",86.064
+"European Union-28","Vegetables, prepared or preserved","february",75.836
+"European Union-28","Vegetables, prepared or preserved","march",75.836
+"European Union-28","Vegetables, prepared or preserved","april",96.777
+"European Union-28","Vegetables, prepared or preserved","may",96.552
+"European Union-28","Vegetables, prepared or preserved","june",99.851
+"European Union-28","Vegetables, prepared or preserved","july",99.655
+"European Union-28","Vegetables, prepared or preserved","august",93.034
+"European Union-28","Vegetables, prepared or preserved","september",80.162
+"European Union-28","Vegetables, prepared or preserved","october",99.996
+"European Union-28","Vegetables, prepared or preserved","november",87.262
+"European Union-28","Vegetables, prepared or preserved","december",89.13
+"Mexico","Vegetables, prepared or preserved","january",23.204
+"Mexico","Vegetables, prepared or preserved","february",38.158
+"Mexico","Vegetables, prepared or preserved","march",38.158
+"Mexico","Vegetables, prepared or preserved","april",40.355
+"Mexico","Vegetables, prepared or preserved","may",44.113
+"Mexico","Vegetables, prepared or preserved","june",38.695
+"Mexico","Vegetables, prepared or preserved","july",44.628
+"Mexico","Vegetables, prepared or preserved","august",43.383
+"Mexico","Vegetables, prepared or preserved","september",39.995
+"Mexico","Vegetables, prepared or preserved","october",43.686
+"Mexico","Vegetables, prepared or preserved","november",35.297
+"Mexico","Vegetables, prepared or preserved","december",38.602
+"China","Vegetables, prepared or preserved","january",38.148
+"China","Vegetables, prepared or preserved","february",24.15
+"China","Vegetables, prepared or preserved","march",24.15
+"China","Vegetables, prepared or preserved","april",35.631
+"China","Vegetables, prepared or preserved","may",35.193
+"China","Vegetables, prepared or preserved","june",35.458
+"China","Vegetables, prepared or preserved","july",38.425
+"China","Vegetables, prepared or preserved","august",31.65
+"China","Vegetables, prepared or preserved","september",35.635
+"China","Vegetables, prepared or preserved","october",37.04
+"China","Vegetables, prepared or preserved","november",34.242
+"China","Vegetables, prepared or preserved","december",37.46
+"Canada","Vegetables, prepared or preserved","january",31.271
+"Canada","Vegetables, prepared or preserved","february",32.254
+"Canada","Vegetables, prepared or preserved","march",32.254
+"Canada","Vegetables, prepared or preserved","april",28.766
+"Canada","Vegetables, prepared or preserved","may",28.491
+"Canada","Vegetables, prepared or preserved","june",27.269
+"Canada","Vegetables, prepared or preserved","july",30.657
+"Canada","Vegetables, prepared or preserved","august",27.779
+"Canada","Vegetables, prepared or preserved","september",32.211
+"Canada","Vegetables, prepared or preserved","october",26.174
+"Canada","Vegetables, prepared or preserved","november",24.987
+"Canada","Vegetables, prepared or preserved","december",26.797
+"Peru","Vegetables, prepared or preserved","january",16.86
+"Peru","Vegetables, prepared or preserved","february",17.52
+"Peru","Vegetables, prepared or preserved","march",17.52
+"Peru","Vegetables, prepared or preserved","april",15.381
+"Peru","Vegetables, prepared or preserved","may",16.098
+"Peru","Vegetables, prepared or preserved","june",15.229
+"Peru","Vegetables, prepared or preserved","july",15.487
+"Peru","Vegetables, prepared or preserved","august",15.44
+"Peru","Vegetables, prepared or preserved","september",16.335
+"Peru","Vegetables, prepared or preserved","october",25.724
+"Peru","Vegetables, prepared or preserved","november",18.096
+"Peru","Vegetables, prepared or preserved","december",24.366
+"Thailand","Vegetables, prepared or preserved","january",15.539
+"Thailand","Vegetables, prepared or preserved","february",11.143
+"Thailand","Vegetables, prepared or preserved","march",11.143
+"Thailand","Vegetables, prepared or preserved","april",14.765
+"Thailand","Vegetables, prepared or preserved","may",14.673
+"Thailand","Vegetables, prepared or preserved","june",14.774
+"Thailand","Vegetables, prepared or preserved","july",15.646
+"Thailand","Vegetables, prepared or preserved","august",14.868
+"Thailand","Vegetables, prepared or preserved","september",12.341
+"Thailand","Vegetables, prepared or preserved","october",15.068
+"Thailand","Vegetables, prepared or preserved","november",13.661
+"Thailand","Vegetables, prepared or preserved","december",16.19
+"India","Vegetables, prepared or preserved","january",9.769
+"India","Vegetables, prepared or preserved","february",9.76
+"India","Vegetables, prepared or preserved","march",9.76
+"India","Vegetables, prepared or preserved","april",9.901
+"India","Vegetables, prepared or preserved","may",8.737
+"India","Vegetables, prepared or preserved","june",5.942
+"India","Vegetables, prepared or preserved","july",8.919
+"India","Vegetables, prepared or preserved","august",8.037
+"India","Vegetables, prepared or preserved","september",10.713
+"India","Vegetables, prepared or preserved","october",10.086
+"India","Vegetables, prepared or preserved","november",8.651
+"India","Vegetables, prepared or preserved","december",7.339
+"Turkey","Vegetables, prepared or preserved","january",10.916
+"Turkey","Vegetables, prepared or preserved","february",7.072
+"Turkey","Vegetables, prepared or preserved","march",7.072
+"Turkey","Vegetables, prepared or preserved","april",6.756
+"Turkey","Vegetables, prepared or preserved","may",8.101
+"Turkey","Vegetables, prepared or preserved","june",7.976
+"Turkey","Vegetables, prepared or preserved","july",6.497
+"Turkey","Vegetables, prepared or preserved","august",6.987
+"Turkey","Vegetables, prepared or preserved","september",5.659
+"Turkey","Vegetables, prepared or preserved","october",7.37
+"Turkey","Vegetables, prepared or preserved","november",7.749
+"Turkey","Vegetables, prepared or preserved","december",10.153
+"Chile","Vegetables, prepared or preserved","january",4.616
+"Chile","Vegetables, prepared or preserved","february",4.448
+"Chile","Vegetables, prepared or preserved","march",4.448
+"Chile","Vegetables, prepared or preserved","april",5.652
+"Chile","Vegetables, prepared or preserved","may",4.908
+"Chile","Vegetables, prepared or preserved","june",4.635
+"Chile","Vegetables, prepared or preserved","july",4.978
+"Chile","Vegetables, prepared or preserved","august",6.057
+"Chile","Vegetables, prepared or preserved","september",4.766
+"Chile","Vegetables, prepared or preserved","october",4.385
+"Chile","Vegetables, prepared or preserved","november",3.724
+"Chile","Vegetables, prepared or preserved","december",3.201
+"Japan","Vegetables, prepared or preserved","january",6.627
+"Japan","Vegetables, prepared or preserved","february",3.429
+"Japan","Vegetables, prepared or preserved","march",3.429
+"Japan","Vegetables, prepared or preserved","april",4.532
+"Japan","Vegetables, prepared or preserved","may",3.539
+"Japan","Vegetables, prepared or preserved","june",4.322
+"Japan","Vegetables, prepared or preserved","july",4.452
+"Japan","Vegetables, prepared or preserved","august",4.667
+"Japan","Vegetables, prepared or preserved","september",3.55
+"Japan","Vegetables, prepared or preserved","october",5.632
+"Japan","Vegetables, prepared or preserved","november",4.571
+"Japan","Vegetables, prepared or preserved","december",4.681
