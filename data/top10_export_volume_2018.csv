@@ -1,529 +1,529 @@
-"product","country","year","month","volume"
-"Soybeans","China","2018","January",3209633.4
-"Soybeans","European Union-28 1/","2018","January",563622
-"Soybeans","Mexico","2018","January",316369.8
-"Soybeans","Thailand","2018","January",288728.6
-"Soybeans","Indonesia","2018","January",233352.8
-"Soybeans","Japan","2018","January",194013
-"Soybeans","Taiwan","2018","January",144728.5
-"Soybeans","Pakistan","2018","January",69407
-"Soybeans","Vietnam","2018","January",91311.3
-"Soybeans","South Korea","2018","January",121284
-"Soybeans","World total","2018","January",5762856.8
-"Soybeans","China","2018","February",2093392.6
-"Soybeans","European Union-28 1/","2018","February",383257
-"Soybeans","Mexico","2018","February",184797.7
-"Soybeans","Thailand","2018","February",77207.3
-"Soybeans","Japan","2018","February",224052.9
-"Soybeans","Taiwan","2018","February",151102.1
-"Soybeans","Indonesia","2018","February",103385.9
-"Soybeans","Pakistan","2018","February",135595
-"Soybeans","Egypt","2018","February",297045
-"Soybeans","South Korea","2018","February",64674
-"Soybeans","World total","2018","February",4212825
-"Soybeans","China","2018","March",1044995.4
-"Soybeans","European Union-28 1/","2018","March",233662
-"Soybeans","Mexico","2018","March",401526
-"Soybeans","Japan","2018","March",197923.3
-"Soybeans","Indonesia","2018","March",285693
-"Soybeans","Thailand","2018","March",63967.8
-"Soybeans","Egypt","2018","March",416613
-"Soybeans","Taiwan","2018","March",172352.2
-"Soybeans","Pakistan","2018","March",57159
-"Soybeans","South Korea","2018","March",57341
-"Soybeans","World total","2018","March",3238567.9
-"Soybeans","China","2018","April",406575.8
-"Soybeans","European Union-28 1/","2018","April",272321.1
-"Soybeans","Mexico","2018","April",280825.6
-"Soybeans","Japan","2018","April",221193.4
-"Soybeans","Indonesia","2018","April",204352.2
-"Soybeans","Egypt","2018","April",233745
-"Soybeans","Taiwan","2018","April",124365.1
-"Soybeans","Thailand","2018","April",48425.1
-"Soybeans","Pakistan","2018","April",0
-"Soybeans","South Korea","2018","April",10747.5
-"Soybeans","World total","2018","April",2167366
-"Soybeans","China","2018","May",533085.2
-"Soybeans","European Union-28 1/","2018","May",387910
-"Soybeans","Mexico","2018","May",404528
-"Soybeans","Egypt","2018","May",295882
-"Soybeans","Japan","2018","May",179670.4
-"Soybeans","Indonesia","2018","May",175381
-"Soybeans","Taiwan","2018","May",163117.4
-"Soybeans","Thailand","2018","May",45441.7
-"Soybeans","Pakistan","2018","May",124324
-"Soybeans","Vietnam","2018","May",178981.2
-"Soybeans","World total","2018","May",2990794.8
-"Soybeans","China","2018","June",271411
-"Soybeans","European Union-28 1/","2018","June",589130
-"Soybeans","Mexico","2018","June",485267.9
-"Soybeans","Indonesia","2018","June",276076.3
-"Soybeans","Egypt","2018","June",155944
-"Soybeans","Japan","2018","June",180624.1
-"Soybeans","Taiwan","2018","June",171308.2
-"Soybeans","Pakistan","2018","June",395679
-"Soybeans","Thailand","2018","June",70913.2
-"Soybeans","Vietnam","2018","June",170408
-"Soybeans","World total","2018","June",3255783.1
-"Soybeans","China","2018","July",233865
-"Soybeans","European Union-28 1/","2018","July",643836.7
-"Soybeans","Mexico","2018","July",401471.2
-"Soybeans","Egypt","2018","July",410068
-"Soybeans","Indonesia","2018","July",203133.1
-"Soybeans","Japan","2018","July",140210.6
-"Soybeans","Taiwan","2018","July",281984
-"Soybeans","Pakistan","2018","July",135370
-"Soybeans","Thailand","2018","July",56080.5
-"Soybeans","Vietnam","2018","July",108223.3
-"Soybeans","World total","2018","July",3426605.2
-"Soybeans","China","2018","August",67852
-"Soybeans","European Union-28 1/","2018","August",921007
-"Soybeans","Mexico","2018","August",383315.6
-"Soybeans","Indonesia","2018","August",316637
-"Soybeans","Egypt","2018","August",148738
-"Soybeans","Japan","2018","August",159308.3
-"Soybeans","Taiwan","2018","August",151469.6
-"Soybeans","Pakistan","2018","August",137602
-"Soybeans","Thailand","2018","August",74451.9
-"Soybeans","Vietnam","2018","August",101225.2
-"Soybeans","World total","2018","August",3367509.9
-"Soybeans","China","2018","September",67446
-"Soybeans","European Union-28 1/","2018","September",704799
-"Soybeans","Mexico","2018","September",362612
-"Soybeans","Egypt","2018","September",320792
-"Soybeans","Indonesia","2018","September",232681.4
-"Soybeans","Japan","2018","September",142675.8
-"Soybeans","Taiwan","2018","September",123000.6
-"Soybeans","Pakistan","2018","September",204715
-"Soybeans","Thailand","2018","September",61547.6
-"Soybeans","Vietnam","2018","September",95275.9
-"Soybeans","World total","2018","September",3237309.4
-"Soybeans","China","2018","October",271973
-"Soybeans","European Union-28 1/","2018","October",1368539
-"Soybeans","Mexico","2018","October",469365.8
-"Soybeans","Egypt","2018","October",275439
-"Soybeans","Indonesia","2018","October",162925.8
-"Soybeans","Japan","2018","October",248579.2
-"Soybeans","Taiwan","2018","October",270251.6
-"Soybeans","Pakistan","2018","October",268968
-"Soybeans","Vietnam","2018","October",289731.3
-"Soybeans","Thailand","2018","October",295285.8
-"Soybeans","World total","2018","October",5580145.9
-"Soybeans","China","2018","November",66000
-"Soybeans","European Union-28 1/","2018","November",1447275.9
-"Soybeans","Mexico","2018","November",454397
-"Soybeans","Egypt","2018","November",282263
-"Soybeans","Indonesia","2018","November",254507.6
-"Soybeans","Japan","2018","November",155214.6
-"Soybeans","Taiwan","2018","November",221625.7
-"Soybeans","Argentina","2018","November",801000
-"Soybeans","Pakistan","2018","November",266106
-"Soybeans","Thailand","2018","November",226846.9
-"Soybeans","World total","2018","November",5066919.9
-"Soybeans","European Union-28 1/","2018","December",1224848
-"Soybeans","China","2018","December",69691.6
-"Soybeans","Mexico","2018","December",423830.8
-"Soybeans","Egypt","2018","December",176266
-"Soybeans","Indonesia","2018","December",188650.2
-"Soybeans","Japan","2018","December",301320.2
-"Soybeans","Taiwan","2018","December",218086.2
-"Soybeans","Argentina","2018","December",237914
-"Soybeans","Pakistan","2018","December",134913
-"Soybeans","Thailand","2018","December",290114.7
-"Soybeans","World total","2018","December",4105821.5
-"Wheat","Japan","2018","January",303820
-"Wheat","Mexico","2018","January",216604
-"Wheat","Philippines","2018","January",247586
-"Wheat","Indonesia","2018","January",74379
-"Wheat","South Korea","2018","January",121623
-"Wheat","Nigeria","2018","January",103277
-"Wheat","Iraq","2018","January",104036
-"Wheat","Taiwan","2018","January",58195
-"Wheat","Colombia","2018","January",62487
-"Wheat","European Union-28 1/","2018","January",25500
-"Wheat","World total","2018","January",1788915
-"Wheat","Japan","2018","February",150717
-"Wheat","Mexico","2018","February",245175
-"Wheat","Philippines","2018","February",70000
-"Wheat","South Korea","2018","February",95415
-"Wheat","Indonesia","2018","February",14241
-"Wheat","Iraq","2018","February",50000
-"Wheat","Nigeria","2018","February",34109
-"Wheat","Taiwan","2018","February",48518
-"Wheat","Colombia","2018","February",59400
-"Wheat","Guatemala","2018","February",66673
-"Wheat","World total","2018","February",1788915
-"Wheat","Japan","2018","March",220805
-"Wheat","Mexico","2018","March",257762
-"Wheat","Philippines","2018","March",209412
-"Wheat","South Korea","2018","March",144914
-"Wheat","Indonesia","2018","March",98875
-"Wheat","Iraq","2018","March",105000
-"Wheat","Nigeria","2018","March",75000
-"Wheat","Taiwan","2018","March",98769
-"Wheat","Morocco","2018","March",142615
-"Wheat","Colombia","2018","March",15656
-"Wheat","World total","2018","March",2120193
-"Wheat","Japan","2018","April",253796
-"Wheat","Mexico","2018","April",250462
-"Wheat","Philippines","2018","April",200847
-"Wheat","South Korea","2018","April",88241
-"Wheat","Indonesia","2018","April",16247
-"Wheat","Iraq","2018","April",105000
-"Wheat","Nigeria","2018","April",72643
-"Wheat","Taiwan","2018","April",79900
-"Wheat","Morocco","2018","April",60234
-"Wheat","Thailand","2018","April",110693
-"Wheat","World total","2018","April",1935992
-"Wheat","Mexico","2018","May",256856
-"Wheat","Japan","2018","May",253986
-"Wheat","Philippines","2018","May",207887
-"Wheat","South Korea","2018","May",157090
-"Wheat","Iraq","2018","May",50000
-"Wheat","Indonesia","2018","May",10797
-"Wheat","Taiwan","2018","May",97089
-"Wheat","Nigeria","2018","May",77294
-"Wheat","China","2018","May",63000
-"Wheat","Morocco","2018","May",0
-"Wheat","World total","2018","May",1805076
-"Wheat","Japan","2018","June",182776
-"Wheat","Mexico","2018","June",149569
-"Wheat","Philippines","2018","June",204238
-"Wheat","South Korea","2018","June",165898
-"Wheat","Indonesia","2018","June",108960
-"Wheat","Taiwan","2018","June",49261
-"Wheat","Iraq","2018","June",0
-"Wheat","Nigeria","2018","June",33000
-"Wheat","Thailand","2018","June",96500
-"Wheat","Colombia","2018","June",26131
-"Wheat","World total","2018","June",1530211
-"Wheat","Japan","2018","July",233222
-"Wheat","Mexico","2018","July",232316
-"Wheat","Philippines","2018","July",300038
-"Wheat","South Korea","2018","July",151056
-"Wheat","Taiwan","2018","July",90603
-"Wheat","Indonesia","2018","July",22000
-"Wheat","Iraq","2018","July",52328
-"Wheat","Nigeria","2018","July",96256
-"Wheat","Thailand","2018","July",56372
-"Wheat","Guatemala","2018","July",76103
-"Wheat","World total","2018","July",1765978
-"Wheat","Japan","2018","August",280606
-"Wheat","Mexico","2018","August",270167
-"Wheat","Philippines","2018","August",371169
-"Wheat","South Korea","2018","August",143437
-"Wheat","Indonesia","2018","August",103404
-"Wheat","Nigeria","2018","August",84350
-"Wheat","Taiwan","2018","August",26147
-"Wheat","Iraq","2018","August",52500
-"Wheat","European Union-28 1/","2018","August",170297
-"Wheat","Thailand","2018","August",48221
-"Wheat","World total","2018","August",2089083
-"Wheat","Vietnam","2018","September",46820.8
-"Wheat","China","2018","September",17004.2
-"Wheat","Turkey","2018","September",4582.3
-"Wheat","Indonesia","2018","September",12593.4
-"Wheat","Pakistan","2018","September",10548.5
-"Wheat","Bangladesh","2018","September",10015.8
-"Wheat","Mexico","2018","September",16421.7
-"Wheat","India","2018","September",3605.1
-"Wheat","Thailand","2018","September",3894.5
-"Wheat","South Korea","2018","September",4788.5
-"Wheat","World total","2018","September",155679
-"Wheat","Mexico","2018","October",286014
-"Wheat","Japan","2018","October",211276
-"Wheat","Philippines","2018","October",218013
-"Wheat","South Korea","2018","October",129195
-"Wheat","Iraq","2018","October",156586
-"Wheat","Taiwan","2018","October",108509
-"Wheat","Nigeria","2018","October",56900
-"Wheat","European Union-28 1/","2018","October",61465
-"Wheat","Indonesia","2018","October",52999
-"Wheat","Thailand","2018","October",46
-"Wheat","World total","2018","October",1904262
-"Wheat","Japan","2018","November",268012
-"Wheat","Mexico","2018","November",214696
-"Wheat","Philippines","2018","November",251426
-"Wheat","South Korea","2018","November",70000
-"Wheat","Iraq","2018","November",102273
-"Wheat","Taiwan","2018","November",109989
-"Wheat","Nigeria","2018","November",45385
-"Wheat","European Union-28 1/","2018","November",41807
-"Wheat","Indonesia","2018","November",52885
-"Wheat","Thailand","2018","November",294
-"Wheat","World total","2018","November",1719826
-"Wheat","Mexico","2018","December",228166
-"Wheat","Japan","2018","December",191017
-"Wheat","Philippines","2018","December",150673
-"Wheat","South Korea","2018","December",225314
-"Wheat","Taiwan","2018","December",110173
-"Wheat","Iraq","2018","December",0
-"Wheat","Nigeria","2018","December",83944
-"Wheat","European Union-28 1/","2018","December",116456
-"Wheat","Indonesia","2018","December",153190
-"Wheat","Thailand","2018","December",134529
-"Wheat","World total","2018","December",2237159
-"Corn","Mexico","2018","January",874909
-"Corn","Japan","2018","January",1111069
-"Corn","Colombia","2018","January",619659
-"Corn","Peru","2018","January",265068
-"Corn","South Korea","2018","January",276090
-"Corn","Canada","2018","January",93767
-"Corn","Costa Rica","2018","January",54458
-"Corn","Guatemala","2018","January",63716
-"Corn","Taiwan","2018","January",41323
-"Corn","Panama","2018","January",52806
-"Corn","World total","2018","January",3839485
-"Corn","Mexico","2018","February",854622
-"Corn","Japan","2018","February",932733
-"Corn","Colombia","2018","February",304841
-"Corn","Peru","2018","February",294800
-"Corn","South Korea","2018","February",475752
-"Corn","Canada","2018","February",108538
-"Corn","Costa Rica","2018","February",70537
-"Corn","Guatemala","2018","February",67578
-"Corn","Taiwan","2018","February",53490
-"Corn","Venezuela","2018","February",89999
-"Corn","World total","2018","February",3768720
-"Corn","Mexico","2018","March",1074238
-"Corn","Japan","2018","March",1489131
-"Corn","Colombia","2018","March",507880
-"Corn","South Korea","2018","March",792885
-"Corn","Peru","2018","March",187060
-"Corn","Canada","2018","March",126946
-"Corn","Saudi Arabia","2018","March",455553
-"Corn","Taiwan","2018","March",313975
-"Corn","European Union-28 1/","2018","March",420110
-"Corn","Costa Rica","2018","March",54324
-"Corn","World total","2018","March",6489559
-"Corn","Mexico","2018","April",1400636
-"Corn","Japan","2018","April",1175910
-"Corn","Colombia","2018","April",786830
-"Corn","South Korea","2018","April",1020857
-"Corn","Peru","2018","April",284650
-"Corn","Taiwan","2018","April",461295
-"Corn","European Union-28 1/","2018","April",421751
-"Corn","Canada","2018","April",133165
-"Corn","Vietnam","2018","April",399317
-"Corn","Saudi Arabia","2018","April",65316
-"Corn","World total","2018","April",7712105
-"Corn","Mexico","2018","May",1548536
-"Corn","Japan","2018","May",1720636
-"Corn","Colombia","2018","May",465255
-"Corn","South Korea","2018","May",694155
-"Corn","Peru","2018","May",221736
-"Corn","European Union-28 1/","2018","May",491166
-"Corn","Vietnam","2018","May",639716
-"Corn","Taiwan","2018","May",299276
-"Corn","Canada","2018","May",140451
-"Corn","Saudi Arabia","2018","May",230948
-"Corn","World total","2018","May",7868861
-"Corn","Mexico","2018","June",1543621
-"Corn","Japan","2018","June",1269441
-"Corn","South Korea","2018","June",824679
-"Corn","Colombia","2018","June",191306
-"Corn","Peru","2018","June",307845
-"Corn","European Union-28 1/","2018","June",414949
-"Corn","Vietnam","2018","June",414160
-"Corn","Taiwan","2018","June",394405
-"Corn","Saudi Arabia","2018","June",210449
-"Corn","Canada","2018","June",187415
-"Corn","World total","2018","June",7117203
-"Corn","Mexico","2018","July",1646937
-"Corn","Japan","2018","July",1549991
-"Corn","South Korea","2018","July",975286
-"Corn","Colombia","2018","July",340833
-"Corn","Peru","2018","July",255968
-"Corn","Taiwan","2018","July",298958
-"Corn","Vietnam","2018","July",134931
-"Corn","European Union-28 1/","2018","July",137
-"Corn","Saudi Arabia","2018","July",258938
-"Corn","Canada","2018","July",186778
-"Corn","World total","2018","July",6766268
-"Corn","Mexico","2018","August",1685893
-"Corn","Japan","2018","August",1690944
-"Corn","South Korea","2018","August",328979
-"Corn","Colombia","2018","August",382024
-"Corn","Peru","2018","August",298790
-"Corn","Taiwan","2018","August",357166
-"Corn","Vietnam","2018","August",0
-"Corn","European Union-28 1/","2018","August",122
-"Corn","Canada","2018","August",187972
-"Corn","Saudi Arabia","2018","August",73859
-"Corn","World total","2018","August",5842626
-"Corn","Mexico","2018","September",1395308
-"Corn","Japan","2018","September",1177660
-"Corn","South Korea","2018","September",458678
-"Corn","Colombia","2018","September",373693
-"Corn","Peru","2018","September",281706
-"Corn","Taiwan","2018","September",366715
-"Corn","Vietnam","2018","September",17
-"Corn","European Union-28 1/","2018","September",100
-"Corn","Canada","2018","September",195939
-"Corn","Egypt","2018","September",255197
-"Corn","World total","2018","September",5255527
-"Corn","Mexico","2018","October",1841778
-"Corn","Japan","2018","October",1050552
-"Corn","South Korea","2018","October",476518
-"Corn","Colombia","2018","October",521005
-"Corn","Taiwan","2018","October",188429
-"Corn","Peru","2018","October",283389
-"Corn","Vietnam","2018","October",315
-"Corn","Egypt","2018","October",274865
-"Corn","European Union-28 1/","2018","October",135
-"Corn","Canada","2018","October",205522
-"Corn","World total","2018","October",5694572
-"Corn","Mexico","2018","November",1464693
-"Corn","Japan","2018","November",1087953
-"Corn","South Korea","2018","November",607071
-"Corn","Colombia","2018","November",507801
-"Corn","Taiwan","2018","November",274942
-"Corn","Peru","2018","November",209478
-"Corn","Vietnam","2018","November",0
-"Corn","Egypt","2018","November",40
-"Corn","European Union-28 1/","2018","November",72
-"Corn","Canada","2018","November",218816
-"Corn","World total","2018","November",5104694
-"Corn","Mexico","2018","December",1392531
-"Corn","Japan","2018","December",998692
-"Corn","South Korea","2018","December",337427
-"Corn","Colombia","2018","December",508657
-"Corn","Taiwan","2018","December",162150
-"Corn","Peru","2018","December",183762
-"Corn","Canada","2018","December",186032
-"Corn","Vietnam","2018","December",0
-"Corn","European Union-28 1/","2018","December",29528
-"Corn","Egypt","2018","December",0
-"Corn","World total","2018","December",4345014
-"Cotton","China","2018","January",82975
-"Cotton","Vietnam","2018","January",72447.2
-"Cotton","Indonesia","2018","January",29235.3
-"Cotton","Pakistan","2018","January",41713.6
-"Cotton","Turkey","2018","January",36383
-"Cotton","Mexico","2018","January",15726.3
-"Cotton","Bangladesh","2018","January",19523.8
-"Cotton","South Korea","2018","January",8015.7
-"Cotton","Thailand","2018","January",9929.3
-"Cotton","Taiwan","2018","January",7307.4
-"Cotton","World total","2018","January",358512.1
-"Cotton","China","2018","February",73841.3
-"Cotton","Vietnam","2018","February",78936.1
-"Cotton","Pakistan","2018","February",67233.6
-"Cotton","Indonesia","2018","February",40515.2
-"Cotton","Turkey","2018","February",44190.9
-"Cotton","Mexico","2018","February",13693.8
-"Cotton","Bangladesh","2018","February",24615.8
-"Cotton","Thailand","2018","February",15435.7
-"Cotton","South Korea","2018","February",10522.8
-"Cotton","India","2018","February",17093.5
-"Cotton","World total","2018","February",431205.4
-"Cotton","Vietnam","2018","March",89949.8
-"Cotton","China","2018","March",73865.5
-"Cotton","Pakistan","2018","March",70249.4
-"Cotton","Turkey","2018","March",68501.3
-"Cotton","Indonesia","2018","March",45140.7
-"Cotton","Bangladesh","2018","March",32883.5
-"Cotton","Mexico","2018","March",17193.2
-"Cotton","India","2018","March",33038
-"Cotton","Thailand","2018","March",18263
-"Cotton","South Korea","2018","March",10105.3
-"Cotton","World total","2018","March",506992.7
-"Cotton","Vietnam","2018","April",95820.6
-"Cotton","China","2018","April",69050.9
-"Cotton","Pakistan","2018","April",54514.3
-"Cotton","Turkey","2018","April",53210.6
-"Cotton","Indonesia","2018","April",38605.1
-"Cotton","Bangladesh","2018","April",28117.2
-"Cotton","Mexico","2018","April",16996.3
-"Cotton","India","2018","April",30958.2
-"Cotton","Thailand","2018","April",22540.2
-"Cotton","South Korea","2018","April",13940.1
-"Cotton","World total","2018","April",478669
-"Cotton","Vietnam","2018","May",83253
-"Cotton","China","2018","May",48337.7
-"Cotton","Turkey","2018","May",62052.6
-"Cotton","Pakistan","2018","May",28417
-"Cotton","Indonesia","2018","May",43688.9
-"Cotton","Bangladesh","2018","May",30318.5
-"Cotton","Mexico","2018","May",16461.7
-"Cotton","India","2018","May",21600.8
-"Cotton","Thailand","2018","May",21652.1
-"Cotton","South Korea","2018","May",16679.1
-"Cotton","World total","2018","May",433071.3
-"Cotton","Vietnam","2018","June",59623
-"Cotton","China","2018","June",21324.2
-"Cotton","Turkey","2018","June",57594.2
-"Cotton","Pakistan","2018","June",15547.1
-"Cotton","Indonesia","2018","June",45780
-"Cotton","Bangladesh","2018","June",14813.1
-"Cotton","Mexico","2018","June",16844.4
-"Cotton","India","2018","June",11779.1
-"Cotton","Thailand","2018","June",17145.2
-"Cotton","South Korea","2018","June",14924.4
-"Cotton","World total","2018","June",310877.6
-"Cotton","Vietnam","2018","July",55951.2
-"Cotton","China","2018","July",22091
-"Cotton","Turkey","2018","July",33366.7
-"Cotton","Indonesia","2018","July",30577.3
-"Cotton","Pakistan","2018","July",5035.1
-"Cotton","Bangladesh","2018","July",12714.3
-"Cotton","Mexico","2018","July",16555.3
-"Cotton","India","2018","July",6779.5
-"Cotton","Thailand","2018","July",9733.2
-"Cotton","South Korea","2018","July",13374.1
-"Cotton","World total","2018","July",236951
-"Cotton","Vietnam","2018","August",41952.8
-"Cotton","China","2018","August",12326.1
-"Cotton","Turkey","2018","August",14481
-"Cotton","Indonesia","2018","August",23343.8
-"Cotton","Pakistan","2018","August",7544.2
-"Cotton","Bangladesh","2018","August",9226.9
-"Cotton","Mexico","2018","August",18087.8
-"Cotton","India","2018","August",5449.8
-"Cotton","Thailand","2018","August",5438.4
-"Cotton","South Korea","2018","August",6887.8
-"Cotton","World total","2018","August",177352.9
-"Cotton","Vietnam","2018","September",46820.8
-"Cotton","China","2018","September",17004.2
-"Cotton","Turkey","2018","September",4582.3
-"Cotton","Indonesia","2018","September",12593.4
-"Cotton","Pakistan","2018","September",10548.5
-"Cotton","Bangladesh","2018","September",10015.8
-"Cotton","Mexico","2018","September",16421.7
-"Cotton","India","2018","September",3605.1
-"Cotton","Thailand","2018","September",3894.5
-"Cotton","South Korea","2018","September",4788.5
-"Cotton","World total","2018","September",155679
-"Cotton","Vietnam","2018","October",32515.4
-"Cotton","China","2018","October",12810.6
-"Cotton","Turkey","2018","October",3499.7
-"Cotton","Indonesia","2018","October",7852.9
-"Cotton","Pakistan","2018","October",13708.6
-"Cotton","Bangladesh","2018","October",10522.7
-"Cotton","Mexico","2018","October",14836.7
-"Cotton","India","2018","October",2539.7
-"Cotton","Thailand","2018","October",4523.5
-"Cotton","South Korea","2018","October",3691.6
-"Cotton","World total","2018","October",132494.1
-"Cotton","Vietnam","2018","November",39174.2
-"Cotton","China","2018","November",23360.8
-"Cotton","Turkey","2018","November",2892.7
-"Cotton","Indonesia","2018","November",8849.9
-"Cotton","Pakistan","2018","November",5314.1
-"Cotton","Bangladesh","2018","November",5623.7
-"Cotton","Mexico","2018","November",16001.1
-"Cotton","India","2018","November",3958.3
-"Cotton","Thailand","2018","November",7708.4
-"Cotton","South Korea","2018","November",7683.6
-"Cotton","World total","2018","November",148340.4
-"Cotton","Vietnam","2018","December",59395.9
-"Cotton","China","2018","December",27797.8
-"Cotton","Turkey","2018","December",9296
-"Cotton","Pakistan","2018","December",25500.3
-"Cotton","Indonesia","2018","December",12168.7
-"Cotton","Bangladesh","2018","December",9389
-"Cotton","Mexico","2018","December",12933.1
-"Cotton","India","2018","December",8341.4
-"Cotton","Thailand","2018","December",10068.6
-"Cotton","South Korea","2018","December",8579.6
-"Cotton","World total","2018","December",212456.8
+"product","year","month","country","volume"
+"Soybeans","2018","January","China",3209633.4
+"Soybeans","2018","January","European Union-28 1/",563622
+"Soybeans","2018","January","Mexico",316369.8
+"Soybeans","2018","January","Thailand",288728.6
+"Soybeans","2018","January","Indonesia",233352.8
+"Soybeans","2018","January","Japan",194013
+"Soybeans","2018","January","Taiwan",144728.5
+"Soybeans","2018","January","Pakistan",69407
+"Soybeans","2018","January","Vietnam",91311.3
+"Soybeans","2018","January","South Korea",121284
+"Soybeans","2018","January","World total",5762856.8
+"Soybeans","2018","February","China",2093392.6
+"Soybeans","2018","February","European Union-28 1/",383257
+"Soybeans","2018","February","Mexico",184797.7
+"Soybeans","2018","February","Thailand",77207.3
+"Soybeans","2018","February","Japan",224052.9
+"Soybeans","2018","February","Taiwan",151102.1
+"Soybeans","2018","February","Indonesia",103385.9
+"Soybeans","2018","February","Pakistan",135595
+"Soybeans","2018","February","Egypt",297045
+"Soybeans","2018","February","South Korea",64674
+"Soybeans","2018","February","World total",4212825
+"Soybeans","2018","March","China",1044995.4
+"Soybeans","2018","March","European Union-28 1/",233662
+"Soybeans","2018","March","Mexico",401526
+"Soybeans","2018","March","Japan",197923.3
+"Soybeans","2018","March","Indonesia",285693
+"Soybeans","2018","March","Thailand",63967.8
+"Soybeans","2018","March","Egypt",416613
+"Soybeans","2018","March","Taiwan",172352.2
+"Soybeans","2018","March","Pakistan",57159
+"Soybeans","2018","March","South Korea",57341
+"Soybeans","2018","March","World total",3238567.9
+"Soybeans","2018","April","China",406575.8
+"Soybeans","2018","April","European Union-28 1/",272321.1
+"Soybeans","2018","April","Mexico",280825.6
+"Soybeans","2018","April","Japan",221193.4
+"Soybeans","2018","April","Indonesia",204352.2
+"Soybeans","2018","April","Egypt",233745
+"Soybeans","2018","April","Taiwan",124365.1
+"Soybeans","2018","April","Thailand",48425.1
+"Soybeans","2018","April","Pakistan",0
+"Soybeans","2018","April","South Korea",10747.5
+"Soybeans","2018","April","World total",2167366
+"Soybeans","2018","May","China",533085.2
+"Soybeans","2018","May","European Union-28 1/",387910
+"Soybeans","2018","May","Mexico",404528
+"Soybeans","2018","May","Egypt",295882
+"Soybeans","2018","May","Japan",179670.4
+"Soybeans","2018","May","Indonesia",175381
+"Soybeans","2018","May","Taiwan",163117.4
+"Soybeans","2018","May","Thailand",45441.7
+"Soybeans","2018","May","Pakistan",124324
+"Soybeans","2018","May","Vietnam",178981.2
+"Soybeans","2018","May","World total",2990794.8
+"Soybeans","2018","June","China",271411
+"Soybeans","2018","June","European Union-28 1/",589130
+"Soybeans","2018","June","Mexico",485267.9
+"Soybeans","2018","June","Indonesia",276076.3
+"Soybeans","2018","June","Egypt",155944
+"Soybeans","2018","June","Japan",180624.1
+"Soybeans","2018","June","Taiwan",171308.2
+"Soybeans","2018","June","Pakistan",395679
+"Soybeans","2018","June","Thailand",70913.2
+"Soybeans","2018","June","Vietnam",170408
+"Soybeans","2018","June","World total",3255783.1
+"Soybeans","2018","July","China",233865
+"Soybeans","2018","July","European Union-28 1/",643836.7
+"Soybeans","2018","July","Mexico",401471.2
+"Soybeans","2018","July","Egypt",410068
+"Soybeans","2018","July","Indonesia",203133.1
+"Soybeans","2018","July","Japan",140210.6
+"Soybeans","2018","July","Taiwan",281984
+"Soybeans","2018","July","Pakistan",135370
+"Soybeans","2018","July","Thailand",56080.5
+"Soybeans","2018","July","Vietnam",108223.3
+"Soybeans","2018","July","World total",3426605.2
+"Soybeans","2018","August","China",67852
+"Soybeans","2018","August","European Union-28 1/",921007
+"Soybeans","2018","August","Mexico",383315.6
+"Soybeans","2018","August","Indonesia",316637
+"Soybeans","2018","August","Egypt",148738
+"Soybeans","2018","August","Japan",159308.3
+"Soybeans","2018","August","Taiwan",151469.6
+"Soybeans","2018","August","Pakistan",137602
+"Soybeans","2018","August","Thailand",74451.9
+"Soybeans","2018","August","Vietnam",101225.2
+"Soybeans","2018","August","World total",3367509.9
+"Soybeans","2018","September","China",67446
+"Soybeans","2018","September","European Union-28 1/",704799
+"Soybeans","2018","September","Mexico",362612
+"Soybeans","2018","September","Egypt",320792
+"Soybeans","2018","September","Indonesia",232681.4
+"Soybeans","2018","September","Japan",142675.8
+"Soybeans","2018","September","Taiwan",123000.6
+"Soybeans","2018","September","Pakistan",204715
+"Soybeans","2018","September","Thailand",61547.6
+"Soybeans","2018","September","Vietnam",95275.9
+"Soybeans","2018","September","World total",3237309.4
+"Soybeans","2018","October","China",271973
+"Soybeans","2018","October","European Union-28 1/",1368539
+"Soybeans","2018","October","Mexico",469365.8
+"Soybeans","2018","October","Egypt",275439
+"Soybeans","2018","October","Indonesia",162925.8
+"Soybeans","2018","October","Japan",248579.2
+"Soybeans","2018","October","Taiwan",270251.6
+"Soybeans","2018","October","Pakistan",268968
+"Soybeans","2018","October","Vietnam",289731.3
+"Soybeans","2018","October","Thailand",295285.8
+"Soybeans","2018","October","World total",5580145.9
+"Soybeans","2018","November","China",66000
+"Soybeans","2018","November","European Union-28 1/",1447275.9
+"Soybeans","2018","November","Mexico",454397
+"Soybeans","2018","November","Egypt",282263
+"Soybeans","2018","November","Indonesia",254507.6
+"Soybeans","2018","November","Japan",155214.6
+"Soybeans","2018","November","Taiwan",221625.7
+"Soybeans","2018","November","Argentina",801000
+"Soybeans","2018","November","Pakistan",266106
+"Soybeans","2018","November","Thailand",226846.9
+"Soybeans","2018","November","World total",5066919.9
+"Soybeans","2018","December","European Union-28 1/",1224848
+"Soybeans","2018","December","China",69691.6
+"Soybeans","2018","December","Mexico",423830.8
+"Soybeans","2018","December","Egypt",176266
+"Soybeans","2018","December","Indonesia",188650.2
+"Soybeans","2018","December","Japan",301320.2
+"Soybeans","2018","December","Taiwan",218086.2
+"Soybeans","2018","December","Argentina",237914
+"Soybeans","2018","December","Pakistan",134913
+"Soybeans","2018","December","Thailand",290114.7
+"Soybeans","2018","December","World total",4105821.5
+"Wheat","2018","January","Japan",303820
+"Wheat","2018","January","Mexico",216604
+"Wheat","2018","January","Philippines",247586
+"Wheat","2018","January","Indonesia",74379
+"Wheat","2018","January","South Korea",121623
+"Wheat","2018","January","Nigeria",103277
+"Wheat","2018","January","Iraq",104036
+"Wheat","2018","January","Taiwan",58195
+"Wheat","2018","January","Colombia",62487
+"Wheat","2018","January","European Union-28 1/",25500
+"Wheat","2018","January","World total",1788915
+"Wheat","2018","February","Japan",150717
+"Wheat","2018","February","Mexico",245175
+"Wheat","2018","February","Philippines",70000
+"Wheat","2018","February","South Korea",95415
+"Wheat","2018","February","Indonesia",14241
+"Wheat","2018","February","Iraq",50000
+"Wheat","2018","February","Nigeria",34109
+"Wheat","2018","February","Taiwan",48518
+"Wheat","2018","February","Colombia",59400
+"Wheat","2018","February","Guatemala",66673
+"Wheat","2018","February","World total",1788915
+"Wheat","2018","March","Japan",220805
+"Wheat","2018","March","Mexico",257762
+"Wheat","2018","March","Philippines",209412
+"Wheat","2018","March","South Korea",144914
+"Wheat","2018","March","Indonesia",98875
+"Wheat","2018","March","Iraq",105000
+"Wheat","2018","March","Nigeria",75000
+"Wheat","2018","March","Taiwan",98769
+"Wheat","2018","March","Morocco",142615
+"Wheat","2018","March","Colombia",15656
+"Wheat","2018","March","World total",2120193
+"Wheat","2018","April","Japan",253796
+"Wheat","2018","April","Mexico",250462
+"Wheat","2018","April","Philippines",200847
+"Wheat","2018","April","South Korea",88241
+"Wheat","2018","April","Indonesia",16247
+"Wheat","2018","April","Iraq",105000
+"Wheat","2018","April","Nigeria",72643
+"Wheat","2018","April","Taiwan",79900
+"Wheat","2018","April","Morocco",60234
+"Wheat","2018","April","Thailand",110693
+"Wheat","2018","April","World total",1935992
+"Wheat","2018","May","Mexico",256856
+"Wheat","2018","May","Japan",253986
+"Wheat","2018","May","Philippines",207887
+"Wheat","2018","May","South Korea",157090
+"Wheat","2018","May","Iraq",50000
+"Wheat","2018","May","Indonesia",10797
+"Wheat","2018","May","Taiwan",97089
+"Wheat","2018","May","Nigeria",77294
+"Wheat","2018","May","China",63000
+"Wheat","2018","May","Morocco",0
+"Wheat","2018","May","World total",1805076
+"Wheat","2018","June","Japan",182776
+"Wheat","2018","June","Mexico",149569
+"Wheat","2018","June","Philippines",204238
+"Wheat","2018","June","South Korea",165898
+"Wheat","2018","June","Indonesia",108960
+"Wheat","2018","June","Taiwan",49261
+"Wheat","2018","June","Iraq",0
+"Wheat","2018","June","Nigeria",33000
+"Wheat","2018","June","Thailand",96500
+"Wheat","2018","June","Colombia",26131
+"Wheat","2018","June","World total",1530211
+"Wheat","2018","July","Japan",233222
+"Wheat","2018","July","Mexico",232316
+"Wheat","2018","July","Philippines",300038
+"Wheat","2018","July","South Korea",151056
+"Wheat","2018","July","Taiwan",90603
+"Wheat","2018","July","Indonesia",22000
+"Wheat","2018","July","Iraq",52328
+"Wheat","2018","July","Nigeria",96256
+"Wheat","2018","July","Thailand",56372
+"Wheat","2018","July","Guatemala",76103
+"Wheat","2018","July","World total",1765978
+"Wheat","2018","August","Japan",280606
+"Wheat","2018","August","Mexico",270167
+"Wheat","2018","August","Philippines",371169
+"Wheat","2018","August","South Korea",143437
+"Wheat","2018","August","Indonesia",103404
+"Wheat","2018","August","Nigeria",84350
+"Wheat","2018","August","Taiwan",26147
+"Wheat","2018","August","Iraq",52500
+"Wheat","2018","August","European Union-28 1/",170297
+"Wheat","2018","August","Thailand",48221
+"Wheat","2018","August","World total",2089083
+"Wheat","2018","September","Vietnam",46820.8
+"Wheat","2018","September","China",17004.2
+"Wheat","2018","September","Turkey",4582.3
+"Wheat","2018","September","Indonesia",12593.4
+"Wheat","2018","September","Pakistan",10548.5
+"Wheat","2018","September","Bangladesh",10015.8
+"Wheat","2018","September","Mexico",16421.7
+"Wheat","2018","September","India",3605.1
+"Wheat","2018","September","Thailand",3894.5
+"Wheat","2018","September","South Korea",4788.5
+"Wheat","2018","September","World total",155679
+"Wheat","2018","October","Mexico",286014
+"Wheat","2018","October","Japan",211276
+"Wheat","2018","October","Philippines",218013
+"Wheat","2018","October","South Korea",129195
+"Wheat","2018","October","Iraq",156586
+"Wheat","2018","October","Taiwan",108509
+"Wheat","2018","October","Nigeria",56900
+"Wheat","2018","October","European Union-28 1/",61465
+"Wheat","2018","October","Indonesia",52999
+"Wheat","2018","October","Thailand",46
+"Wheat","2018","October","World total",1904262
+"Wheat","2018","November","Japan",268012
+"Wheat","2018","November","Mexico",214696
+"Wheat","2018","November","Philippines",251426
+"Wheat","2018","November","South Korea",70000
+"Wheat","2018","November","Iraq",102273
+"Wheat","2018","November","Taiwan",109989
+"Wheat","2018","November","Nigeria",45385
+"Wheat","2018","November","European Union-28 1/",41807
+"Wheat","2018","November","Indonesia",52885
+"Wheat","2018","November","Thailand",294
+"Wheat","2018","November","World total",1719826
+"Wheat","2018","December","Mexico",228166
+"Wheat","2018","December","Japan",191017
+"Wheat","2018","December","Philippines",150673
+"Wheat","2018","December","South Korea",225314
+"Wheat","2018","December","Taiwan",110173
+"Wheat","2018","December","Iraq",0
+"Wheat","2018","December","Nigeria",83944
+"Wheat","2018","December","European Union-28 1/",116456
+"Wheat","2018","December","Indonesia",153190
+"Wheat","2018","December","Thailand",134529
+"Wheat","2018","December","World total",2237159
+"Corn","2018","January","Mexico",874909
+"Corn","2018","January","Japan",1111069
+"Corn","2018","January","Colombia",619659
+"Corn","2018","January","Peru",265068
+"Corn","2018","January","South Korea",276090
+"Corn","2018","January","Canada",93767
+"Corn","2018","January","Costa Rica",54458
+"Corn","2018","January","Guatemala",63716
+"Corn","2018","January","Taiwan",41323
+"Corn","2018","January","Panama",52806
+"Corn","2018","January","World total",3839485
+"Corn","2018","February","Mexico",854622
+"Corn","2018","February","Japan",932733
+"Corn","2018","February","Colombia",304841
+"Corn","2018","February","Peru",294800
+"Corn","2018","February","South Korea",475752
+"Corn","2018","February","Canada",108538
+"Corn","2018","February","Costa Rica",70537
+"Corn","2018","February","Guatemala",67578
+"Corn","2018","February","Taiwan",53490
+"Corn","2018","February","Venezuela",89999
+"Corn","2018","February","World total",3768720
+"Corn","2018","March","Mexico",1074238
+"Corn","2018","March","Japan",1489131
+"Corn","2018","March","Colombia",507880
+"Corn","2018","March","South Korea",792885
+"Corn","2018","March","Peru",187060
+"Corn","2018","March","Canada",126946
+"Corn","2018","March","Saudi Arabia",455553
+"Corn","2018","March","Taiwan",313975
+"Corn","2018","March","European Union-28 1/",420110
+"Corn","2018","March","Costa Rica",54324
+"Corn","2018","March","World total",6489559
+"Corn","2018","April","Mexico",1400636
+"Corn","2018","April","Japan",1175910
+"Corn","2018","April","Colombia",786830
+"Corn","2018","April","South Korea",1020857
+"Corn","2018","April","Peru",284650
+"Corn","2018","April","Taiwan",461295
+"Corn","2018","April","European Union-28 1/",421751
+"Corn","2018","April","Canada",133165
+"Corn","2018","April","Vietnam",399317
+"Corn","2018","April","Saudi Arabia",65316
+"Corn","2018","April","World total",7712105
+"Corn","2018","May","Mexico",1548536
+"Corn","2018","May","Japan",1720636
+"Corn","2018","May","Colombia",465255
+"Corn","2018","May","South Korea",694155
+"Corn","2018","May","Peru",221736
+"Corn","2018","May","European Union-28 1/",491166
+"Corn","2018","May","Vietnam",639716
+"Corn","2018","May","Taiwan",299276
+"Corn","2018","May","Canada",140451
+"Corn","2018","May","Saudi Arabia",230948
+"Corn","2018","May","World total",7868861
+"Corn","2018","June","Mexico",1543621
+"Corn","2018","June","Japan",1269441
+"Corn","2018","June","South Korea",824679
+"Corn","2018","June","Colombia",191306
+"Corn","2018","June","Peru",307845
+"Corn","2018","June","European Union-28 1/",414949
+"Corn","2018","June","Vietnam",414160
+"Corn","2018","June","Taiwan",394405
+"Corn","2018","June","Saudi Arabia",210449
+"Corn","2018","June","Canada",187415
+"Corn","2018","June","World total",7117203
+"Corn","2018","July","Mexico",1646937
+"Corn","2018","July","Japan",1549991
+"Corn","2018","July","South Korea",975286
+"Corn","2018","July","Colombia",340833
+"Corn","2018","July","Peru",255968
+"Corn","2018","July","Taiwan",298958
+"Corn","2018","July","Vietnam",134931
+"Corn","2018","July","European Union-28 1/",137
+"Corn","2018","July","Saudi Arabia",258938
+"Corn","2018","July","Canada",186778
+"Corn","2018","July","World total",6766268
+"Corn","2018","August","Mexico",1685893
+"Corn","2018","August","Japan",1690944
+"Corn","2018","August","South Korea",328979
+"Corn","2018","August","Colombia",382024
+"Corn","2018","August","Peru",298790
+"Corn","2018","August","Taiwan",357166
+"Corn","2018","August","Vietnam",0
+"Corn","2018","August","European Union-28 1/",122
+"Corn","2018","August","Canada",187972
+"Corn","2018","August","Saudi Arabia",73859
+"Corn","2018","August","World total",5842626
+"Corn","2018","September","Mexico",1395308
+"Corn","2018","September","Japan",1177660
+"Corn","2018","September","South Korea",458678
+"Corn","2018","September","Colombia",373693
+"Corn","2018","September","Peru",281706
+"Corn","2018","September","Taiwan",366715
+"Corn","2018","September","Vietnam",17
+"Corn","2018","September","European Union-28 1/",100
+"Corn","2018","September","Canada",195939
+"Corn","2018","September","Egypt",255197
+"Corn","2018","September","World total",5255527
+"Corn","2018","October","Mexico",1841778
+"Corn","2018","October","Japan",1050552
+"Corn","2018","October","South Korea",476518
+"Corn","2018","October","Colombia",521005
+"Corn","2018","October","Taiwan",188429
+"Corn","2018","October","Peru",283389
+"Corn","2018","October","Vietnam",315
+"Corn","2018","October","Egypt",274865
+"Corn","2018","October","European Union-28 1/",135
+"Corn","2018","October","Canada",205522
+"Corn","2018","October","World total",5694572
+"Corn","2018","November","Mexico",1464693
+"Corn","2018","November","Japan",1087953
+"Corn","2018","November","South Korea",607071
+"Corn","2018","November","Colombia",507801
+"Corn","2018","November","Taiwan",274942
+"Corn","2018","November","Peru",209478
+"Corn","2018","November","Vietnam",0
+"Corn","2018","November","Egypt",40
+"Corn","2018","November","European Union-28 1/",72
+"Corn","2018","November","Canada",218816
+"Corn","2018","November","World total",5104694
+"Corn","2018","December","Mexico",1392531
+"Corn","2018","December","Japan",998692
+"Corn","2018","December","South Korea",337427
+"Corn","2018","December","Colombia",508657
+"Corn","2018","December","Taiwan",162150
+"Corn","2018","December","Peru",183762
+"Corn","2018","December","Canada",186032
+"Corn","2018","December","Vietnam",0
+"Corn","2018","December","European Union-28 1/",29528
+"Corn","2018","December","Egypt",0
+"Corn","2018","December","World total",4345014
+"Cotton","2018","January","China",82975
+"Cotton","2018","January","Vietnam",72447.2
+"Cotton","2018","January","Indonesia",29235.3
+"Cotton","2018","January","Pakistan",41713.6
+"Cotton","2018","January","Turkey",36383
+"Cotton","2018","January","Mexico",15726.3
+"Cotton","2018","January","Bangladesh",19523.8
+"Cotton","2018","January","South Korea",8015.7
+"Cotton","2018","January","Thailand",9929.3
+"Cotton","2018","January","Taiwan",7307.4
+"Cotton","2018","January","World total",358512.1
+"Cotton","2018","February","China",73841.3
+"Cotton","2018","February","Vietnam",78936.1
+"Cotton","2018","February","Pakistan",67233.6
+"Cotton","2018","February","Indonesia",40515.2
+"Cotton","2018","February","Turkey",44190.9
+"Cotton","2018","February","Mexico",13693.8
+"Cotton","2018","February","Bangladesh",24615.8
+"Cotton","2018","February","Thailand",15435.7
+"Cotton","2018","February","South Korea",10522.8
+"Cotton","2018","February","India",17093.5
+"Cotton","2018","February","World total",431205.4
+"Cotton","2018","March","Vietnam",89949.8
+"Cotton","2018","March","China",73865.5
+"Cotton","2018","March","Pakistan",70249.4
+"Cotton","2018","March","Turkey",68501.3
+"Cotton","2018","March","Indonesia",45140.7
+"Cotton","2018","March","Bangladesh",32883.5
+"Cotton","2018","March","Mexico",17193.2
+"Cotton","2018","March","India",33038
+"Cotton","2018","March","Thailand",18263
+"Cotton","2018","March","South Korea",10105.3
+"Cotton","2018","March","World total",506992.7
+"Cotton","2018","April","Vietnam",95820.6
+"Cotton","2018","April","China",69050.9
+"Cotton","2018","April","Pakistan",54514.3
+"Cotton","2018","April","Turkey",53210.6
+"Cotton","2018","April","Indonesia",38605.1
+"Cotton","2018","April","Bangladesh",28117.2
+"Cotton","2018","April","Mexico",16996.3
+"Cotton","2018","April","India",30958.2
+"Cotton","2018","April","Thailand",22540.2
+"Cotton","2018","April","South Korea",13940.1
+"Cotton","2018","April","World total",478669
+"Cotton","2018","May","Vietnam",83253
+"Cotton","2018","May","China",48337.7
+"Cotton","2018","May","Turkey",62052.6
+"Cotton","2018","May","Pakistan",28417
+"Cotton","2018","May","Indonesia",43688.9
+"Cotton","2018","May","Bangladesh",30318.5
+"Cotton","2018","May","Mexico",16461.7
+"Cotton","2018","May","India",21600.8
+"Cotton","2018","May","Thailand",21652.1
+"Cotton","2018","May","South Korea",16679.1
+"Cotton","2018","May","World total",433071.3
+"Cotton","2018","June","Vietnam",59623
+"Cotton","2018","June","China",21324.2
+"Cotton","2018","June","Turkey",57594.2
+"Cotton","2018","June","Pakistan",15547.1
+"Cotton","2018","June","Indonesia",45780
+"Cotton","2018","June","Bangladesh",14813.1
+"Cotton","2018","June","Mexico",16844.4
+"Cotton","2018","June","India",11779.1
+"Cotton","2018","June","Thailand",17145.2
+"Cotton","2018","June","South Korea",14924.4
+"Cotton","2018","June","World total",310877.6
+"Cotton","2018","July","Vietnam",55951.2
+"Cotton","2018","July","China",22091
+"Cotton","2018","July","Turkey",33366.7
+"Cotton","2018","July","Indonesia",30577.3
+"Cotton","2018","July","Pakistan",5035.1
+"Cotton","2018","July","Bangladesh",12714.3
+"Cotton","2018","July","Mexico",16555.3
+"Cotton","2018","July","India",6779.5
+"Cotton","2018","July","Thailand",9733.2
+"Cotton","2018","July","South Korea",13374.1
+"Cotton","2018","July","World total",236951
+"Cotton","2018","August","Vietnam",41952.8
+"Cotton","2018","August","China",12326.1
+"Cotton","2018","August","Turkey",14481
+"Cotton","2018","August","Indonesia",23343.8
+"Cotton","2018","August","Pakistan",7544.2
+"Cotton","2018","August","Bangladesh",9226.9
+"Cotton","2018","August","Mexico",18087.8
+"Cotton","2018","August","India",5449.8
+"Cotton","2018","August","Thailand",5438.4
+"Cotton","2018","August","South Korea",6887.8
+"Cotton","2018","August","World total",177352.9
+"Cotton","2018","September","Vietnam",46820.8
+"Cotton","2018","September","China",17004.2
+"Cotton","2018","September","Turkey",4582.3
+"Cotton","2018","September","Indonesia",12593.4
+"Cotton","2018","September","Pakistan",10548.5
+"Cotton","2018","September","Bangladesh",10015.8
+"Cotton","2018","September","Mexico",16421.7
+"Cotton","2018","September","India",3605.1
+"Cotton","2018","September","Thailand",3894.5
+"Cotton","2018","September","South Korea",4788.5
+"Cotton","2018","September","World total",155679
+"Cotton","2018","October","Vietnam",32515.4
+"Cotton","2018","October","China",12810.6
+"Cotton","2018","October","Turkey",3499.7
+"Cotton","2018","October","Indonesia",7852.9
+"Cotton","2018","October","Pakistan",13708.6
+"Cotton","2018","October","Bangladesh",10522.7
+"Cotton","2018","October","Mexico",14836.7
+"Cotton","2018","October","India",2539.7
+"Cotton","2018","October","Thailand",4523.5
+"Cotton","2018","October","South Korea",3691.6
+"Cotton","2018","October","World total",132494.1
+"Cotton","2018","November","Vietnam",39174.2
+"Cotton","2018","November","China",23360.8
+"Cotton","2018","November","Turkey",2892.7
+"Cotton","2018","November","Indonesia",8849.9
+"Cotton","2018","November","Pakistan",5314.1
+"Cotton","2018","November","Bangladesh",5623.7
+"Cotton","2018","November","Mexico",16001.1
+"Cotton","2018","November","India",3958.3
+"Cotton","2018","November","Thailand",7708.4
+"Cotton","2018","November","South Korea",7683.6
+"Cotton","2018","November","World total",148340.4
+"Cotton","2018","December","Vietnam",59395.9
+"Cotton","2018","December","China",27797.8
+"Cotton","2018","December","Turkey",9296
+"Cotton","2018","December","Pakistan",25500.3
+"Cotton","2018","December","Indonesia",12168.7
+"Cotton","2018","December","Bangladesh",9389
+"Cotton","2018","December","Mexico",12933.1
+"Cotton","2018","December","India",8341.4
+"Cotton","2018","December","Thailand",10068.6
+"Cotton","2018","December","South Korea",8579.6
+"Cotton","2018","December","World total",212456.8
