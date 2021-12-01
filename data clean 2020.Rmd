@@ -64,7 +64,7 @@ Export_df =
   rename("Item" = "x1",
          "Export Volume" = "Volumes")  
 
-write.csv(Export_df, file = "Export Clean.csv", row.names = F)
+write.csv(Export_df, file = ".\\data\\Export Clean 2020.csv", row.names = F)
 
 ```
 
@@ -104,7 +104,7 @@ Import_df =
   rename("Item" = "x1",
          "Export Volume" = "Volumes")  
 
-write.csv(Import_df, file = "Import Clean.csv", row.names = F)
+write.csv(Import_df, file = ".\\data\\Import Clean 2020.csv", row.names = F)
 ```
 
 ## Top 10 Exports
@@ -221,7 +221,7 @@ Cotton_df =
 
 top_export_df = rbind(Topexps_df, Topexpw_df, corn_df, Cotton_df)
 
-write.csv(top_export_df, file = "Top 10 Export Clean.csv", row.names = F)
+write.csv(top_export_df, file = ".\\data\\Top 10 Export Clean 2020.csv", row.names = F)
 
 ```
 
@@ -339,6 +339,6 @@ veg_preserved_df =
 
 top_import_df = rbind(frozen_df, preserved_df, veg_frozen_df, veg_preserved_df)
 
-write.csv(top_import_df, file = "Top 10 Import Clean.csv", row.names = F)
+write.csv(top_import_df, file = ".\\data\\Top 10 Import Clean 2020.csv", row.names = F)
 ```
 
