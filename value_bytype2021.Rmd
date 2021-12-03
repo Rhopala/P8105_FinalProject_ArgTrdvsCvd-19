@@ -73,7 +73,7 @@ product_types <- data2021April <-
 export_values_2021 <-
   bind_cols(product_types, export1, export2, export3, export4, export5, export6, export7, export8, export9)%>%
   pivot_longer(January:September, names_to = "month", values_to = "export_value")%>%
-  mutate(year = "2021")%>%
+  mutate(year = 2021)%>%
   write.csv("./data/export_values_2021.csv", row.names = FALSE)
 ```
 
@@ -141,7 +141,7 @@ types_import <-
 import_values_2021 <-
   bind_cols(types_import, import1, import2, import3, import4, import5, import6, import7, import8, import9)%>%
   pivot_longer(January:September, names_to = "month", values_to = "import_value")%>%
-  mutate(year = "2021")%>%
+  mutate(year = 2021)%>%
   write.csv("./data/import_values_2021.csv", row.names = FALSE)
 ```
 

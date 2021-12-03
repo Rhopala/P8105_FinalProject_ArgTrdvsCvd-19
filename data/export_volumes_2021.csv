@@ -1,172 +1,191 @@
 "product_types","month","export_volume","year"
-"Red meats and products","January",440.6482,"2021"
-"Red meats and products","Feburary",422.6852,"2021"
-"Red meats and products","March",517.6562,"2021"
-"Red meats and products","April",483.645,"2021"
-"Red meats and products","May",512.9943,"2021"
-"Red meats and products","June",445.9525,"2021"
-"Red meats and products","July",432.137,"2021"
-"Red meats and products","August",440.2801,"2021"
-"Red meats and products","September",419.8179,"2021"
-"Poultry meats","January",301.72,"2021"
-"Poultry meats","Feburary",282.162,"2021"
-"Poultry meats","March",327.7469,"2021"
-"Poultry meats","April",303.1319,"2021"
-"Poultry meats","May",336.3566,"2021"
-"Poultry meats","June",319.667,"2021"
-"Poultry meats","July",294.8689,"2021"
-"Poultry meats","August",319.0241,"2021"
-"Poultry meats","September",295.2459,"2021"
-"Nonfat dry milk","January",65.0963,"2021"
-"Nonfat dry milk","Feburary",75.2118,"2021"
-"Nonfat dry milk","March",90.8359,"2021"
-"Nonfat dry milk","April",83.2344,"2021"
-"Nonfat dry milk","May",93.0096,"2021"
-"Nonfat dry milk","June",83.449,"2021"
-"Nonfat dry milk","July",76.9559,"2021"
-"Nonfat dry milk","August",81.6283,"2021"
-"Nonfat dry milk","September",72.8738,"2021"
-"Wheat","January",1977.052,"2021"
-"Wheat","Feburary",1826.314,"2021"
-"Wheat","March",2146.625,"2021"
-"Wheat","April",2603.284,"2021"
-"Wheat","May",2390.909,"2021"
-"Wheat","June",2000.691,"2021"
-"Wheat","July",2051.179,"2021"
-"Wheat","August",2625.632,"2021"
-"Wheat","September",2309.514,"2021"
-"Rice","January",234.3666,"2021"
-"Rice","Feburary",293.6153,"2021"
-"Rice","March",282.8612,"2021"
-"Rice","April",389.1263,"2021"
-"Rice","May",321.6856,"2021"
-"Rice","June",286.9423,"2021"
-"Rice","July",244.8788,"2021"
-"Rice","August",349.2678,"2021"
-"Rice","September",190.0918,"2021"
-"Coarse grains","January",6712.63,"2021"
-"Coarse grains","Feburary",6920.6848,"2021"
-"Coarse grains","March",10307.3997,"2021"
-"Coarse grains","April",9561.242,"2021"
-"Coarse grains","May",9145.8717,"2021"
-"Coarse grains","June",6575.0203,"2021"
-"Coarse grains","July",5940.1309,"2021"
-"Coarse grains","August",3685.3209,"2021"
-"Coarse grains","September",2815.4482,"2021"
-"Corn","January",5806.219,"2021"
-"Corn","Feburary",6308.83,"2021"
-"Corn","March",9468.38,"2021"
-"Corn","April",8499.402,"2021"
-"Corn","May",8478.522,"2021"
-"Corn","June",6338.104,"2021"
-"Corn","July",5473.108,"2021"
-"Corn","August",3443.165,"2021"
-"Corn","September",2550.209,"2021"
-"Sorghum","January",876.538,"2021"
-"Sorghum","Feburary",573.516,"2021"
-"Sorghum","March",795.273,"2021"
-"Sorghum","April",1024.366,"2021"
-"Sorghum","May",630.646,"2021"
-"Sorghum","June",195.742,"2021"
-"Sorghum","July",429.499,"2021"
-"Sorghum","August",213.144,"2021"
-"Sorghum","September",242.802,"2021"
-"Soybeans","January",8829.2996,"2021"
-"Soybeans","Feburary",4558.7071,"2021"
-"Soybeans","March",2295.1218,"2021"
-"Soybeans","April",1384.9244,"2021"
-"Soybeans","May",1266.6851,"2021"
-"Soybeans","June",925.4976,"2021"
-"Soybeans","July",945.8045,"2021"
-"Soybeans","August",1308.6828,"2021"
-"Soybeans","September",2167.6408,"2021"
-"Oil meal","January",1329.1056,"2021"
-"Oil meal","Feburary",1204.2577,"2021"
-"Oil meal","March",1187.0928,"2021"
-"Oil meal","April",969.0458,"2021"
-"Oil meal","May",962.0785,"2021"
-"Oil meal","June",842.8914,"2021"
-"Oil meal","July",991.8881,"2021"
-"Oil meal","August",875.0827,"2021"
-"Oil meal","September",736.3307,"2021"
-"Vegetable oils 3/","January",282.5169,"2021"
-"Vegetable oils 3/","Feburary",237.8323,"2021"
-"Vegetable oils 3/","March",211.6445,"2021"
-"Vegetable oils 3/","April",190.8889,"2021"
-"Vegetable oils 3/","May",157.203,"2021"
-"Vegetable oils 3/","June",177.3225,"2021"
-"Vegetable oils 3/","July",174.106,"2021"
-"Vegetable oils 3/","August",173.3596,"2021"
-"Vegetable oils 3/","September",133.5787,"2021"
-"Fruits, fresh","January",172.8254,"2021"
-"Fruits, fresh","Feburary",192.5923,"2021"
-"Fruits, fresh","March",246.6067,"2021"
-"Fruits, fresh","April",192.4587,"2021"
-"Fruits, fresh","May",227.4612,"2021"
-"Fruits, fresh","June",241.4477,"2021"
-"Fruits, fresh","July",244.5102,"2021"
-"Fruits, fresh","August",210.1996,"2021"
-"Fruits, fresh","September",183.895,"2021"
-"Fruits, prepared or preserved","January",40.9313,"2021"
-"Fruits, prepared or preserved","Feburary",40.7684,"2021"
-"Fruits, prepared or preserved","March",51.2189,"2021"
-"Fruits, prepared or preserved","April",49.4708,"2021"
-"Fruits, prepared or preserved","May",49.5159,"2021"
-"Fruits, prepared or preserved","June",49.9755,"2021"
-"Fruits, prepared or preserved","July",51.3791,"2021"
-"Fruits, prepared or preserved","August",52.4698,"2021"
-"Fruits, prepared or preserved","September",51.7118,"2021"
-"Fruit juices 3/","January",43.852,"2021"
-"Fruit juices 3/","Feburary",40.2517,"2021"
-"Fruit juices 3/","March",47.2309,"2021"
-"Fruit juices 3/","April",46.2381,"2021"
-"Fruit juices 3/","May",44.6959,"2021"
-"Fruit juices 3/","June",44.2252,"2021"
-"Fruit juices 3/","July",41.3178,"2021"
-"Fruit juices 3/","August",41.5736,"2021"
-"Fruit juices 3/","September",38.4496,"2021"
-"Vegetables, fresh","January",191.6013,"2021"
-"Vegetables, fresh","Feburary",180.2024,"2021"
-"Vegetables, fresh","March",226.063,"2021"
-"Vegetables, fresh","April",230.3684,"2021"
-"Vegetables, fresh","May",252.3667,"2021"
-"Vegetables, fresh","June",244.3284,"2021"
-"Vegetables, fresh","July",231.3751,"2021"
-"Vegetables, fresh","August",173.9726,"2021"
-"Vegetables, fresh","September",162.1048,"2021"
-"Vegetables, prepared or preserved","January",245.347,"2021"
-"Vegetables, prepared or preserved","Feburary",217.6449,"2021"
-"Vegetables, prepared or preserved","March",281.1171,"2021"
-"Vegetables, prepared or preserved","April",295.9457,"2021"
-"Vegetables, prepared or preserved","May",260.8924,"2021"
-"Vegetables, prepared or preserved","June",224.1971,"2021"
-"Vegetables, prepared or preserved","July",229.1407,"2021"
-"Vegetables, prepared or preserved","August",201.1085,"2021"
-"Vegetables, prepared or preserved","September",206.9729,"2021"
-"Nuts and preparations","January",149.3582,"2021"
-"Nuts and preparations","Feburary",175.6762,"2021"
-"Nuts and preparations","March",184.8328,"2021"
-"Nuts and preparations","April",172.0859,"2021"
-"Nuts and preparations","May",156.9922,"2021"
-"Nuts and preparations","June",138.5221,"2021"
-"Nuts and preparations","July",143.8163,"2021"
-"Nuts and preparations","August",132.2722,"2021"
-"Nuts and preparations","September",142.4117,"2021"
-"Cotton and linters","January",352.6592,"2021"
-"Cotton and linters","Feburary",343.2004,"2021"
-"Cotton and linters","March",358.3883,"2021"
-"Cotton and linters","April",346.6065,"2021"
-"Cotton and linters","May",357.5914,"2021"
-"Cotton and linters","June",264.3801,"2021"
-"Cotton and linters","July",241.1835,"2021"
-"Cotton and linters","August",210.8877,"2021"
-"Cotton and linters","September",123.1394,"2021"
-"Major bulk","January",18115.6479,"2021"
-"Major bulk","Feburary",13955.8333,"2021"
-"Major bulk","March",15401.192,"2021"
-"Major bulk","April",14295.5679,"2021"
-"Major bulk","May",13493.5873,"2021"
-"Major bulk","June",10062.466,"2021"
-"Major bulk","July",9435.5669,"2021"
-"Major bulk","August",8191.0453,"2021"
-"Major bulk","September",7615.393,"2021"
+"Red meats and products","January",440.6482,2021
+"Red meats and products","Feburary",422.6852,2021
+"Red meats and products","March",517.6562,2021
+"Red meats and products","April",483.645,2021
+"Red meats and products","May",512.9943,2021
+"Red meats and products","June",445.9525,2021
+"Red meats and products","July",432.137,2021
+"Red meats and products","August",440.2801,2021
+"Red meats and products","September",419.8179,2021
+"Poultry meats","January",301.72,2021
+"Poultry meats","Feburary",282.162,2021
+"Poultry meats","March",327.7469,2021
+"Poultry meats","April",303.1319,2021
+"Poultry meats","May",336.3566,2021
+"Poultry meats","June",319.667,2021
+"Poultry meats","July",294.8689,2021
+"Poultry meats","August",319.0241,2021
+"Poultry meats","September",295.2459,2021
+"Nonfat dry milk","January",65.0963,2021
+"Nonfat dry milk","Feburary",75.2118,2021
+"Nonfat dry milk","March",90.8359,2021
+"Nonfat dry milk","April",83.2344,2021
+"Nonfat dry milk","May",93.0096,2021
+"Nonfat dry milk","June",83.449,2021
+"Nonfat dry milk","July",76.9559,2021
+"Nonfat dry milk","August",81.6283,2021
+"Nonfat dry milk","September",72.8738,2021
+"Wheat","January",1977.052,2021
+"Wheat","Feburary",1826.314,2021
+"Wheat","March",2146.625,2021
+"Wheat","April",2603.284,2021
+"Wheat","May",2390.909,2021
+"Wheat","June",2000.691,2021
+"Wheat","July",2051.179,2021
+"Wheat","August",2625.632,2021
+"Wheat","September",2309.514,2021
+"Rice","January",234.3666,2021
+"Rice","Feburary",293.6153,2021
+"Rice","March",282.8612,2021
+"Rice","April",389.1263,2021
+"Rice","May",321.6856,2021
+"Rice","June",286.9423,2021
+"Rice","July",244.8788,2021
+"Rice","August",349.2678,2021
+"Rice","September",190.0918,2021
+"Coarse grains","January",6712.63,2021
+"Coarse grains","Feburary",6920.6848,2021
+"Coarse grains","March",10307.3997,2021
+"Coarse grains","April",9561.242,2021
+"Coarse grains","May",9145.8717,2021
+"Coarse grains","June",6575.0203,2021
+"Coarse grains","July",5940.1309,2021
+"Coarse grains","August",3685.3209,2021
+"Coarse grains","September",2815.4482,2021
+"Corn","January",5806.219,2021
+"Corn","Feburary",6308.83,2021
+"Corn","March",9468.38,2021
+"Corn","April",8499.402,2021
+"Corn","May",8478.522,2021
+"Corn","June",6338.104,2021
+"Corn","July",5473.108,2021
+"Corn","August",3443.165,2021
+"Corn","September",2550.209,2021
+"Sorghum","January",876.538,2021
+"Sorghum","Feburary",573.516,2021
+"Sorghum","March",795.273,2021
+"Sorghum","April",1024.366,2021
+"Sorghum","May",630.646,2021
+"Sorghum","June",195.742,2021
+"Sorghum","July",429.499,2021
+"Sorghum","August",213.144,2021
+"Sorghum","September",242.802,2021
+"Soybeans","January",8829.2996,2021
+"Soybeans","Feburary",4558.7071,2021
+"Soybeans","March",2295.1218,2021
+"Soybeans","April",1384.9244,2021
+"Soybeans","May",1266.6851,2021
+"Soybeans","June",925.4976,2021
+"Soybeans","July",945.8045,2021
+"Soybeans","August",1308.6828,2021
+"Soybeans","September",2167.6408,2021
+"Oil meal","January",1329.1056,2021
+"Oil meal","Feburary",1204.2577,2021
+"Oil meal","March",1187.0928,2021
+"Oil meal","April",969.0458,2021
+"Oil meal","May",962.0785,2021
+"Oil meal","June",842.8914,2021
+"Oil meal","July",991.8881,2021
+"Oil meal","August",875.0827,2021
+"Oil meal","September",736.3307,2021
+"Vegetable oils 3/","January",282.5169,2021
+"Vegetable oils 3/","Feburary",237.8323,2021
+"Vegetable oils 3/","March",211.6445,2021
+"Vegetable oils 3/","April",190.8889,2021
+"Vegetable oils 3/","May",157.203,2021
+"Vegetable oils 3/","June",177.3225,2021
+"Vegetable oils 3/","July",174.106,2021
+"Vegetable oils 3/","August",173.3596,2021
+"Vegetable oils 3/","September",133.5787,2021
+"Fruits, fresh","January",172.8254,2021
+"Fruits, fresh","Feburary",192.5923,2021
+"Fruits, fresh","March",246.6067,2021
+"Fruits, fresh","April",192.4587,2021
+"Fruits, fresh","May",227.4612,2021
+"Fruits, fresh","June",241.4477,2021
+"Fruits, fresh","July",244.5102,2021
+"Fruits, fresh","August",210.1996,2021
+"Fruits, fresh","September",183.895,2021
+"Fruits, prepared or preserved","January",40.9313,2021
+"Fruits, prepared or preserved","Feburary",40.7684,2021
+"Fruits, prepared or preserved","March",51.2189,2021
+"Fruits, prepared or preserved","April",49.4708,2021
+"Fruits, prepared or preserved","May",49.5159,2021
+"Fruits, prepared or preserved","June",49.9755,2021
+"Fruits, prepared or preserved","July",51.3791,2021
+"Fruits, prepared or preserved","August",52.4698,2021
+"Fruits, prepared or preserved","September",51.7118,2021
+"Fruit juices 3/","January",43.852,2021
+"Fruit juices 3/","Feburary",40.2517,2021
+"Fruit juices 3/","March",47.2309,2021
+"Fruit juices 3/","April",46.2381,2021
+"Fruit juices 3/","May",44.6959,2021
+"Fruit juices 3/","June",44.2252,2021
+"Fruit juices 3/","July",41.3178,2021
+"Fruit juices 3/","August",41.5736,2021
+"Fruit juices 3/","September",38.4496,2021
+"Vegetables, fresh","January",191.6013,2021
+"Vegetables, fresh","Feburary",180.2024,2021
+"Vegetables, fresh","March",226.063,2021
+"Vegetables, fresh","April",230.3684,2021
+"Vegetables, fresh","May",252.3667,2021
+"Vegetables, fresh","June",244.3284,2021
+"Vegetables, fresh","July",231.3751,2021
+"Vegetables, fresh","August",173.9726,2021
+"Vegetables, fresh","September",162.1048,2021
+"Vegetables, prepared or preserved","January",245.347,2021
+"Vegetables, prepared or preserved","Feburary",217.6449,2021
+"Vegetables, prepared or preserved","March",281.1171,2021
+"Vegetables, prepared or preserved","April",295.9457,2021
+"Vegetables, prepared or preserved","May",260.8924,2021
+"Vegetables, prepared or preserved","June",224.1971,2021
+"Vegetables, prepared or preserved","July",229.1407,2021
+"Vegetables, prepared or preserved","August",201.1085,2021
+"Vegetables, prepared or preserved","September",206.9729,2021
+"Nuts and preparations","January",149.3582,2021
+"Nuts and preparations","Feburary",175.6762,2021
+"Nuts and preparations","March",184.8328,2021
+"Nuts and preparations","April",172.0859,2021
+"Nuts and preparations","May",156.9922,2021
+"Nuts and preparations","June",138.5221,2021
+"Nuts and preparations","July",143.8163,2021
+"Nuts and preparations","August",132.2722,2021
+"Nuts and preparations","September",142.4117,2021
+"Cotton and linters","January",352.6592,2021
+"Cotton and linters","Feburary",343.2004,2021
+"Cotton and linters","March",358.3883,2021
+"Cotton and linters","April",346.6065,2021
+"Cotton and linters","May",357.5914,2021
+"Cotton and linters","June",264.3801,2021
+"Cotton and linters","July",241.1835,2021
+"Cotton and linters","August",210.8877,2021
+"Cotton and linters","September",123.1394,2021
+"Major bulk","January",18115.6479,2021
+"Major bulk","Feburary",13955.8333,2021
+"Major bulk","March",15401.192,2021
+"Major bulk","April",14295.5679,2021
+"Major bulk","May",13493.5873,2021
+"Major bulk","June",10062.466,2021
+"Major bulk","July",9435.5669,2021
+"Major bulk","August",8191.0453,2021
+"Major bulk","September",7615.393,2021
+"Red meats and products","December",484.6536,2020
+"Poultry meats","December",301.7908,2020
+"Nonfat dry milk","December",61.8612,2020
+"Wheat","December",1945.896,2020
+"Rice","December",449.7411,2020
+"Coarse grains","December",5499.938,2020
+"Corn","December",4617.542,2020
+"Sorghum","December",854.186,2020
+"Soybeans","December",10817.6915,2020
+"Oil meal","December",1316.9073,2020
+"Vegetable oils 3/","December",232.348,2020
+"Fruits, fresh","December",190.4311,2020
+"Fruits, prepared or preserved","December",43.2086,2020
+"Fruit juices 3/","December",41.034,2020
+"Vegetables, fresh","December",183.9058,2020
+"Vegetables, prepared or preserved","December",261.9839,2020
+"Nuts and preparations","December",219.8232,2020
+"Cotton and linters","December",311.6047,2020
+"Major bulk","December",19029.2338,2020

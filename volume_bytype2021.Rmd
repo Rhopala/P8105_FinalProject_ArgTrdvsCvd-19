@@ -70,11 +70,20 @@ product_types <- data2021April <-
                    sheet = 12,
                    range = "A44:A62",
                    col_names = "product_types")
+export2020_12 <-
+  readxl::read_xls("./rawdata/monthly_exports_bytypes_2021.xls", 
+                   sheet = 3,
+                   range = "C44:C62",
+                   col_names = "export_volume")%>%
+  mutate(month = "December", product_types = pull(product_types, product_types), year = 2020)%>%
+  select(product_types, month, export_volume, year)
+  
 
 export_volume_2021 <-
   bind_cols(product_types, export1, export2, export3, export4, export5, export6, export7, export8, export9)%>%
   pivot_longer(January:September, names_to = "month", values_to = "export_volume")%>%
-  mutate(year = "2021")%>%
+  mutate(year = 2021)%>%
+  bind_rows(export2020_12)%>%
   write.csv("./data/export_volumes_2021.csv", row.names = FALSE)
 ```
 
@@ -139,9 +148,18 @@ types_import <-
                    range = "A43:A55",
                    col_names = "product_types")
 
+import2020_12 <-
+  readxl::read_xls("./rawdata/monthly_exports_bytypes_2021.xls", 
+                   sheet = 3,
+                   range = "C43:C55",
+                   col_names = "import_volume")%>%
+  mutate(month = "December", product_types = pull(types_import, product_types), year = 2020)%>%
+  select(product_types, month, import_volume, year)
+
 import_volumes_2021 <-
   bind_cols(types_import, import1, import2, import3, import4, import5, import6, import7, import8, import9)%>%
-  pivot_longer(January:September, names_to = "month", values_to = "import_value")%>%
-  mutate(year = "2021")%>%
+  pivot_longer(January:September, names_to = "month", values_to = "import_volume")%>%
+  mutate(year = 2021)%>%
+  bind_rows(import2020_12)%>%
   write.csv("./data/import_volumes_2021.csv", row.names = FALSE)
 ```
