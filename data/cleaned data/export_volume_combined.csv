@@ -1,0 +1,856 @@
+product_type,year,month,export_volume
+Red meats & products,2018,January,375.4404
+Red meats & products,2018,February,362.0759
+Red meats & products,2018,March,390.6767
+Red meats & products,2018,April,398.2819
+Red meats & products,2018,May,384.0097
+Red meats & products,2018,June,362.8576
+Red meats & products,2018,July,356.4711
+Red meats & products,2018,August,365.3417
+Red meats & products,2018,September,345.0546
+Red meats & products,2018,October,391.198
+Red meats & products,2018,November,389.1827
+Red meats & products,2018,December,391.6292
+Poultry meats,2018,January,285.4537
+Poultry meats,2018,February,286.6564
+Poultry meats,2018,March,310.8032
+Poultry meats,2018,April,302.3527
+Poultry meats,2018,May,282.6066
+Poultry meats,2018,June,293.6011
+Poultry meats,2018,July,300.9603
+Poultry meats,2018,August,319.9753
+Poultry meats,2018,September,297.5752
+Poultry meats,2018,October,348.1514
+Poultry meats,2018,November,316.7931
+Poultry meats,2018,December,291.2102
+Nonfat dry milk,2018,January,50.358
+Nonfat dry milk,2018,February,67.6593
+Nonfat dry milk,2018,March,72.2129
+Nonfat dry milk,2018,April,80.397
+Nonfat dry milk,2018,May,73.9789
+Nonfat dry milk,2018,June,60.2226
+Nonfat dry milk,2018,July,58.3925
+Nonfat dry milk,2018,August,65.0282
+Nonfat dry milk,2018,September,59.1391
+Nonfat dry milk,2018,October,64.7281
+Nonfat dry milk,2018,November,51.6424
+Nonfat dry milk,2018,December,52.3688
+Wheat,2018,January,1788.915
+Wheat,2018,February,1396.568
+Wheat,2018,March,2120.193
+Wheat,2018,April,1935.992
+Wheat,2018,May,1805.076
+Wheat,2018,June,1530.211
+Wheat,2018,July,1765.978
+Wheat,2018,August,2089.083
+Wheat,2018,September,1820.53
+Wheat,2018,October,1904.262
+Wheat,2018,November,1719.826
+Wheat,2018,December,2237.159
+Rice,2018,January,234.2386
+Rice,2018,February,320.0716
+Rice,2018,March,347.0741
+Rice,2018,April,215.2111
+Rice,2018,May,325.7497
+Rice,2018,June,184.5629
+Rice,2018,July,212.7475
+Rice,2018,August,223.7076
+Rice,2018,September,181.5476
+Rice,2018,October,200.9077
+Rice,2018,November,373.8209
+Rice,2018,December,340.3292
+Coarse grains,2018,January,4478.3881
+Coarse grains,2018,February,4498.375
+Coarse grains,2018,March,7484.5924
+Coarse grains,2018,April,8505.956
+Coarse grains,2018,May,7967.152
+Coarse grains,2018,June,7170.8263
+Coarse grains,2018,July,6874.7403
+Coarse grains,2018,August,6080.4263
+Coarse grains,2018,September,5342.4329
+Coarse grains,2018,October,5805.8024
+Coarse grains,2018,November,5343.244
+Coarse grains,2018,December,4504.082
+Corn,2018,January,3839.485
+Corn,2018,February,3768.72
+Corn,2018,March,6489.559
+Corn,2018,April,7712.105
+Corn,2018,May,7868.861
+Corn,2018,June,7117.203
+Corn,2018,July,6766.268
+Corn,2018,August,5842.626
+Corn,2018,September,5255.527
+Corn,2018,October,5694.572
+Corn,2018,November,5104.694
+Corn,2018,December,4345.014
+Sorghum,2018,January,630.737
+Sorghum,2018,February,718.448
+Sorghum,2018,March,985.577
+Sorghum,2018,April,787.437
+Sorghum,2018,May,91.361
+Sorghum,2018,June,42.928
+Sorghum,2018,July,95.608
+Sorghum,2018,August,226.811
+Sorghum,2018,September,73.155
+Sorghum,2018,October,103.669
+Sorghum,2018,November,227.512
+Sorghum,2018,December,149.277
+Soybeans,2018,January,5762.8568
+Soybeans,2018,February,4212.825
+Soybeans,2018,March,3238.5679
+Soybeans,2018,April,2167.366
+Soybeans,2018,May,2990.7948
+Soybeans,2018,June,3255.7831
+Soybeans,2018,July,3426.6052
+Soybeans,2018,August,3367.5099
+Soybeans,2018,September,3237.3094
+Soybeans,2018,October,5580.1459
+Soybeans,2018,November,5066.9199
+Soybeans,2018,December,4105.8215
+Oil meal,2018,January,1086.4213
+Oil meal,2018,February,1138.9349
+Oil meal,2018,March,1296.5357
+Oil meal,2018,April,1217.3502
+Oil meal,2018,May,1221.9519
+Oil meal,2018,June,1358.2531
+Oil meal,2018,July,1148.5107
+Oil meal,2018,August,1235.569
+Oil meal,2018,September,1064.9152
+Oil meal,2018,October,1015.1639
+Oil meal,2018,November,1061.6941
+Oil meal,2018,December,1095.879
+Vegetable oils,2018,January,206.8375
+Vegetable oils,2018,February,208.234
+Vegetable oils,2018,March,221.2779
+Vegetable oils,2018,April,212.8028
+Vegetable oils,2018,May,343.6462
+Vegetable oils,2018,June,220.9923
+Vegetable oils,2018,July,206.3144
+Vegetable oils,2018,August,201.0162
+Vegetable oils,2018,September,161.2383
+Vegetable oils,2018,October,161.143
+Vegetable oils,2018,November,224.3412
+Vegetable oils,2018,December,167.2205
+"Fruits, fresh",2018,January,228.764
+"Fruits, fresh",2018,February,254.7862
+"Fruits, fresh",2018,March,279.2427
+"Fruits, fresh",2018,April,234.919
+"Fruits, fresh",2018,May,238.2087
+"Fruits, fresh",2018,June,246.1028
+"Fruits, fresh",2018,July,248.0778
+"Fruits, fresh",2018,August,217.0808
+"Fruits, fresh",2018,September,215.8668
+"Fruits, fresh",2018,October,225.1164
+"Fruits, fresh",2018,November,252.6079
+"Fruits, fresh",2018,December,193.1962
+"Fruits, prepared or preserved",2018,January,47.7264
+"Fruits, prepared or preserved",2018,February,48.733
+"Fruits, prepared or preserved",2018,March,56.0987
+"Fruits, prepared or preserved",2018,April,52.6104
+"Fruits, prepared or preserved",2018,May,52.2951
+"Fruits, prepared or preserved",2018,June,51.9355
+"Fruits, prepared or preserved",2018,July,47.9556
+"Fruits, prepared or preserved",2018,August,48.7038
+"Fruits, prepared or preserved",2018,September,47.1334
+"Fruits, prepared or preserved",2018,October,48.9287
+"Fruits, prepared or preserved",2018,November,46.2793
+"Fruits, prepared or preserved",2018,December,43.6247
+Fruit juices,2018,January,47.5646
+Fruit juices,2018,February,45.2457
+Fruit juices,2018,March,58.2504
+Fruit juices,2018,April,51.5485
+Fruit juices,2018,May,51.1371
+Fruit juices,2018,June,55.1373
+Fruit juices,2018,July,48.0213
+Fruit juices,2018,August,44.4243
+Fruit juices,2018,September,47.4055
+Fruit juices,2018,October,44.6031
+Fruit juices,2018,November,45.8458
+Fruit juices,2018,December,42.461
+"Vegetables, fresh",2018,January,190.649
+"Vegetables, fresh",2018,February,184.1345
+"Vegetables, fresh",2018,March,210.2964
+"Vegetables, fresh",2018,April,208.3506
+"Vegetables, fresh",2018,May,239.7919
+"Vegetables, fresh",2018,June,233.003
+"Vegetables, fresh",2018,July,196.7951
+"Vegetables, fresh",2018,August,177.887
+"Vegetables, fresh",2018,September,174.3935
+"Vegetables, fresh",2018,October,189.793
+"Vegetables, fresh",2018,November,207.0475
+"Vegetables, fresh",2018,December,213.7621
+"Vegetables, prepared or preserved",2018,January,190.1895
+"Vegetables, prepared or preserved",2018,February,196.5591
+"Vegetables, prepared or preserved",2018,March,229.5036
+"Vegetables, prepared or preserved",2018,April,234.2628
+"Vegetables, prepared or preserved",2018,May,237.8007
+"Vegetables, prepared or preserved",2018,June,216.2109
+"Vegetables, prepared or preserved",2018,July,200.0684
+"Vegetables, prepared or preserved",2018,August,200.9533
+"Vegetables, prepared or preserved",2018,September,207.7332
+"Vegetables, prepared or preserved",2018,October,215.1764
+"Vegetables, prepared or preserved",2018,November,230.6654
+"Vegetables, prepared or preserved",2018,December,242.0963
+Nuts & preparations,2018,January,137.2996
+Nuts & preparations,2018,February,154.6352
+Nuts & preparations,2018,March,166.8057
+Nuts & preparations,2018,April,136.9894
+Nuts & preparations,2018,May,122.7452
+Nuts & preparations,2018,June,111.5922
+Nuts & preparations,2018,July,106.5863
+Nuts & preparations,2018,August,103.5289
+Nuts & preparations,2018,September,126.814
+Nuts & preparations,2018,October,206.0846
+Nuts & preparations,2018,November,247.8701
+Nuts & preparations,2018,December,192.8902
+Cotton & linters,2018,January,359.6655
+Cotton & linters,2018,February,433.1098
+Cotton & linters,2018,March,509.4476
+Cotton & linters,2018,April,480.3702
+Cotton & linters,2018,May,434.7297
+Cotton & linters,2018,June,311.307
+Cotton & linters,2018,July,237.3773
+Cotton & linters,2018,August,178.6088
+Cotton & linters,2018,September,156.1482
+Cotton & linters,2018,October,133.2588
+Cotton & linters,2018,November,149.8868
+Cotton & linters,2018,December,213.1728
+Major bulk,2018,January,12631.6212
+Major bulk,2018,February,10876.4547
+Major bulk,2018,March,13728.389
+Major bulk,2018,April,13320.7305
+Major bulk,2018,May,13531.9827
+Major bulk,2018,June,12469.4493
+Major bulk,2018,July,12529.5931
+Major bulk,2018,August,11953.5031
+Major bulk,2018,September,10746.711
+Major bulk,2018,October,13633.4878
+Major bulk,2018,November,12658.7224
+Major bulk,2018,December,11408.2733
+Red meats & products,2019,January,384.9647
+Red meats & products,2019,February,343.5179
+Red meats & products,2019,March,387.7747
+Red meats & products,2019,April,397.4429
+Red meats & products,2019,May,428.7468
+Red meats & products,2019,June,406.5619
+Red meats & products,2019,July,431.0225
+Red meats & products,2019,August,431.0806
+Red meats & products,2019,September,394.6562
+Red meats & products,2019,October,424.7785
+Red meats & products,2019,November,388.7765
+Red meats & products,2019,December,487.9421
+Poultry meats,2019,January,288.8425
+Poultry meats,2019,February,275.7914
+Poultry meats,2019,March,300.4096
+Poultry meats,2019,April,276.4592
+Poultry meats,2019,May,314.0234
+Poultry meats,2019,June,282.3427
+Poultry meats,2019,July,302.5219
+Poultry meats,2019,August,304.1238
+Poultry meats,2019,September,290.8914
+Poultry meats,2019,October,328.4088
+Poultry meats,2019,November,317.0365
+Poultry meats,2019,December,290.3205
+Nonfat dry milk,2019,January,51.4879
+Nonfat dry milk,2019,February,58.003
+Nonfat dry milk,2019,March,61.4496
+Nonfat dry milk,2019,April,58.9129
+Nonfat dry milk,2019,May,66.0466
+Nonfat dry milk,2019,June,46.0239
+Nonfat dry milk,2019,July,52.4328
+Nonfat dry milk,2019,August,56.9909
+Nonfat dry milk,2019,September,68.6073
+Nonfat dry milk,2019,October,72.0202
+Nonfat dry milk,2019,November,51.4272
+Nonfat dry milk,2019,December,74.3325
+Wheat,2019,January,2002.693
+Wheat,2019,February,2262.082
+Wheat,2019,March,1958.853
+Wheat,2019,April,2829.745
+Wheat,2019,May,2758.724
+Wheat,2019,June,2155.962
+Wheat,2019,July,1940.48
+Wheat,2019,August,2570.81
+Wheat,2019,September,2291.406
+Wheat,2019,October,2142.902
+Wheat,2019,November,1632.009
+Wheat,2019,December,2147.611
+Rice,2019,January,245.8138
+Rice,2019,February,227.9386
+Rice,2019,March,296.0612
+Rice,2019,April,320.3804
+Rice,2019,May,382.8888
+Rice,2019,June,328.0364
+Rice,2019,July,292.2392
+Rice,2019,August,344.2475
+Rice,2019,September,232.5163
+Rice,2019,October,302.0227
+Rice,2019,November,392.2427
+Rice,2019,December,377.1575
+Coarse grains,2019,January,4794.793
+Coarse grains,2019,February,3932.37
+Coarse grains,2019,March,4937.245
+Coarse grains,2019,April,5607.405
+Coarse grains,2019,May,4969.868
+Coarse grains,2019,June,3394.9712
+Coarse grains,2019,July,3051.9621
+Coarse grains,2019,August,3147.7019
+Coarse grains,2019,September,2246.7211
+Coarse grains,2019,October,2453.5286
+Coarse grains,2019,November,5314.651
+Coarse grains,2019,December,2953.413
+Corn,2019,January,4665.8
+Corn,2019,February,3616.834
+Corn,2019,March,4770.645
+Corn,2019,April,5472.162
+Corn,2019,May,4689.794
+Corn,2019,June,3068.884
+Corn,2019,July,2882.181
+Corn,2019,August,2825.045
+Corn,2019,September,2028.214
+Corn,2019,October,2303.944
+Corn,2019,November,5076.177
+Corn,2019,December,2508.11
+Sorghum,2019,January,117.137
+Sorghum,2019,February,304.705
+Sorghum,2019,March,155.479
+Sorghum,2019,April,124.286
+Sorghum,2019,May,270.316
+Sorghum,2019,June,316.164
+Sorghum,2019,July,160.368
+Sorghum,2019,August,312.34
+Sorghum,2019,September,203.701
+Sorghum,2019,October,134.528
+Sorghum,2019,November,227.512
+Sorghum,2019,December,429.017
+Soybeans,2019,January,4828.2436
+Soybeans,2019,February,4577.3582
+Soybeans,2019,March,3706.5318
+Soybeans,2019,April,2399.2479
+Soybeans,2019,May,2560.4369
+Soybeans,2019,June,3193.5522
+Soybeans,2019,July,3680.4301
+Soybeans,2019,August,4931.1696
+Soybeans,2019,September,3889.9919
+Soybeans,2019,October,5944.5981
+Soybeans,2019,November,4879.3448
+Soybeans,2019,December,5570.2881
+Oil meal,2019,January,1397.5432
+Oil meal,2019,February,1010.9908
+Oil meal,2019,March,1080.3711
+Oil meal,2019,April,1285.1081
+Oil meal,2019,May,1026.901
+Oil meal,2019,June,829.6766
+Oil meal,2019,July,834.7014
+Oil meal,2019,August,955.2612
+Oil meal,2019,September,896.6328
+Oil meal,2019,October,1050.9303
+Oil meal,2019,November,1056.2566
+Oil meal,2019,December,1027.8498
+Vegetable oils,2019,January,207.8773
+Vegetable oils,2019,February,142.27
+Vegetable oils,2019,March,269.9626
+Vegetable oils,2019,April,171.2528
+Vegetable oils,2019,May,215.1109
+Vegetable oils,2019,June,155.0201
+Vegetable oils,2019,July,187.6443
+Vegetable oils,2019,August,176.7335
+Vegetable oils,2019,September,122.8194
+Vegetable oils,2019,October,242.2406
+Vegetable oils,2019,November,222.6968
+Vegetable oils,2019,December,186.7048
+"Fruits, fresh",2019,January,187.702
+"Fruits, fresh",2019,February,194.6823
+"Fruits, fresh",2019,March,250.1958
+"Fruits, fresh",2019,April,210.2513
+"Fruits, fresh",2019,May,194.9731
+"Fruits, fresh",2019,June,225.0821
+"Fruits, fresh",2019,July,256.7849
+"Fruits, fresh",2019,August,234.3888
+"Fruits, fresh",2019,September,210.8608
+"Fruits, fresh",2019,October,233.3874
+"Fruits, fresh",2019,November,252.2516
+"Fruits, fresh",2019,December,210.951
+"Fruits, prepared or preserved",2019,January,43.0092
+"Fruits, prepared or preserved",2019,February,46.5555
+"Fruits, prepared or preserved",2019,March,51.9179
+"Fruits, prepared or preserved",2019,April,45.3285
+"Fruits, prepared or preserved",2019,May,47.1602
+"Fruits, prepared or preserved",2019,June,45.7681
+"Fruits, prepared or preserved",2019,July,45.8015
+"Fruits, prepared or preserved",2019,August,51.7333
+"Fruits, prepared or preserved",2019,September,49.4395
+"Fruits, prepared or preserved",2019,October,52.4873
+"Fruits, prepared or preserved",2019,November,46.3219
+"Fruits, prepared or preserved",2019,December,41.7173
+Fruit juices,2019,January,49.7783
+Fruit juices,2019,February,42.5361
+Fruit juices,2019,March,53.9675
+Fruit juices,2019,April,48.0611
+Fruit juices,2019,May,48.9279
+Fruit juices,2019,June,45.4478
+Fruit juices,2019,July,43.4345
+Fruit juices,2019,August,43.868
+Fruit juices,2019,September,41.0702
+Fruit juices,2019,October,46.2474
+Fruit juices,2019,November,43.7408
+Fruit juices,2019,December,43.3219
+"Vegetables, fresh",2019,January,212.9446
+"Vegetables, fresh",2019,February,192.2982
+"Vegetables, fresh",2019,March,213.898
+"Vegetables, fresh",2019,April,227.4322
+"Vegetables, fresh",2019,May,238.2506
+"Vegetables, fresh",2019,June,236.648
+"Vegetables, fresh",2019,July,216.2811
+"Vegetables, fresh",2019,August,171.1889
+"Vegetables, fresh",2019,September,150.3459
+"Vegetables, fresh",2019,October,176.4563
+"Vegetables, fresh",2019,November,207.5012
+"Vegetables, fresh",2019,December,206.8592
+"Vegetables, prepared or preserved",2019,January,220.6918
+"Vegetables, prepared or preserved",2019,February,208.1938
+"Vegetables, prepared or preserved",2019,March,270.5879
+"Vegetables, prepared or preserved",2019,April,239.8548
+"Vegetables, prepared or preserved",2019,May,247.3092
+"Vegetables, prepared or preserved",2019,June,232.4978
+"Vegetables, prepared or preserved",2019,July,246.9784
+"Vegetables, prepared or preserved",2019,August,260.3566
+"Vegetables, prepared or preserved",2019,September,217.2322
+"Vegetables, prepared or preserved",2019,October,253.2625
+"Vegetables, prepared or preserved",2019,November,231.3198
+"Vegetables, prepared or preserved",2019,December,224.9965
+Nuts & preparations,2019,January,161.4557
+Nuts & preparations,2019,February,162.7189
+Nuts & preparations,2019,March,163.1491
+Nuts & preparations,2019,April,142.9441
+Nuts & preparations,2019,May,135.7509
+Nuts & preparations,2019,June,125.3686
+Nuts & preparations,2019,July,115.693
+Nuts & preparations,2019,August,112.3615
+Nuts & preparations,2019,September,138.1659
+Nuts & preparations,2019,October,223.6099
+Nuts & preparations,2019,November,248.0621
+Nuts & preparations,2019,December,172.1099
+Cotton & linters,2019,January,267.5924
+Cotton & linters,2019,February,323.6602
+Cotton & linters,2019,March,460.3132
+Cotton & linters,2019,April,383.7636
+Cotton & linters,2019,May,399.1884
+Cotton & linters,2019,June,367.595
+Cotton & linters,2019,July,311.6527
+Cotton & linters,2019,August,225.1971
+Cotton & linters,2019,September,198.6745
+Cotton & linters,2019,October,160.5106
+Cotton & linters,2019,November,148.2711
+Cotton & linters,2019,December,288.8758
+Major bulk,2019,January,12153.1906
+Major bulk,2019,February,11335.1742
+Major bulk,2019,March,11367.4692
+Major bulk,2019,April,11545.2468
+Major bulk,2019,May,11081.7085
+Major bulk,2019,June,9449.8186
+Major bulk,2019,July,9287.4364
+Major bulk,2019,August,11226.6156
+Major bulk,2019,September,8864.9147
+Major bulk,2019,October,11007.7664
+Major bulk,2019,November,12371.5434
+Major bulk,2019,December,11345.0768
+Red meats & products,2020,January,464.4444
+Poultry meats,2020,January,293.923
+Nonfat dry milk,2020,January,71.0901
+Wheat,2020,January,1872.033
+Rice,2020,January,212.4637
+Coarse grains,2020,January,2760.0589
+Corn,2020,January,2494.779
+Sorghum,2020,January,252.083
+Soybeans,2020,January,5319.2077
+Oil meal,2020,January,996.8622
+Vegetable oils,2020,January,167.5812
+"Fruits, fresh",2020,January,187.3012
+"Fruits, prepared or preserved",2020,January,42.3021
+Fruit juices,2020,January,38.7806
+"Vegetables, fresh",2020,January,197.0061
+"Vegetables, prepared or preserved",2020,January,218.042
+Nuts & preparations,2020,January,144.8254
+Cotton & linters,2020,January,371.338
+Major bulk,2020,January,10543.5392
+Red meats & products,2020,February,466.685
+Poultry meats,2020,February,289.3489
+Nonfat dry milk,2020,February,58.0687
+Wheat,2020,February,2184
+Rice,2020,February,328.8651
+Coarse grains,2020,February,4233.2522
+Corn,2020,February,3916.049
+Sorghum,2020,February,297.902
+Soybeans,2020,February,2758.858
+Oil meal,2020,February,1270.2516
+Vegetable oils,2020,February,295.7796
+"Fruits, fresh",2020,February,239.6409
+"Fruits, prepared or preserved",2020,February,46.0478
+Fruit juices,2020,February,42.6958
+"Vegetables, fresh",2020,February,189.1751
+"Vegetables, prepared or preserved",2020,February,222.283
+Nuts & preparations,2020,February,153.7566
+Cotton & linters,2020,February,429.8523
+Major bulk,2020,February,9942.3533
+Red meats & products,2020,March,498.7797
+Poultry meats,2020,March,337.0462
+Nonfat dry milk,2020,March,66.1826
+Wheat,2020,March,1825.786
+Rice,2020,March,285.9904
+Coarse grains,2020,March,5126.8703
+Corn,2020,March,4615.561
+Sorghum,2020,March,497.459
+Soybeans,2020,March,2570.8519
+Oil meal,2020,March,1220.2081
+Vegetable oils,2020,March,245.1876
+"Fruits, fresh",2020,March,276.5999
+"Fruits, prepared or preserved",2020,March,48.3024
+Fruit juices,2020,March,51.7762
+"Vegetables, fresh",2020,March,199.4474
+"Vegetables, prepared or preserved",2020,March,264.6134
+Nuts & preparations,2020,March,156.485
+Cotton & linters,2020,March,437.3013
+Major bulk,2020,March,10261.1895
+Red meats & products,2020,April,442.1091
+Poultry meats,2020,April,293.4696
+Nonfat dry milk,2020,April,70.5594
+Wheat,2020,April,2360.326
+Rice,2020,April,314.4631
+Coarse grains,2020,April,5866.257
+Corn,2020,April,5057.441
+Sorghum,2020,April,802.729
+Soybeans,2020,April,2163.1143
+Oil meal,2020,April,1115.2475
+Vegetable oils,2020,April,232.2006
+"Fruits, fresh",2020,April,198.2568
+"Fruits, prepared or preserved",2020,April,42.6563
+Fruit juices,2020,April,45.5097
+"Vegetables, fresh",2020,April,194.3101
+"Vegetables, prepared or preserved",2020,April,250.8632
+Nuts & preparations,2020,April,121.7448
+Cotton & linters,2020,April,274.376
+Major bulk,2020,April,10986.0199
+Red meats & products,2020,May,385.681
+Poultry meats,2020,May,290.9646
+Nonfat dry milk,2020,May,84.0308
+Wheat,2020,May,2347.31
+Rice,2020,May,343.0704
+Coarse grains,2020,May,6518.8648
+Corn,2020,May,5700.085
+Sorghum,2020,May,809.404
+Soybeans,2020,May,1965.4041
+Oil meal,2020,May,1003.5583
+Vegetable oils,2020,May,265.8525
+"Fruits, fresh",2020,May,206.0129
+"Fruits, prepared or preserved",2020,May,43.4358
+Fruit juices,2020,May,44.3939
+"Vegetables, fresh",2020,May,218.9421
+"Vegetables, prepared or preserved",2020,May,247.6744
+Nuts & preparations,2020,May,115.1249
+Cotton & linters,2020,May,270.6432
+Major bulk,2020,May,11456.1062
+Red meats & products,2020,June,369.5298
+Poultry meats,2020,June,271.1564
+Nonfat dry milk,2020,June,79.1777
+Wheat,2020,June,2282.799
+Rice,2020,June,230.0937
+Coarse grains,2020,June,5623.0726
+Corn,2020,June,5035.249
+Sorghum,2020,June,576.822
+Soybeans,2020,June,1799.1959
+Oil meal,2020,June,1083.6812
+Vegetable oils,2020,June,191.04
+"Fruits, fresh",2020,June,216.2185
+"Fruits, prepared or preserved",2020,June,42.0377
+Fruit juices,2020,June,44.5316
+"Vegetables, fresh",2020,June,211.2719
+"Vegetables, prepared or preserved",2020,June,219.509
+Nuts & preparations,2020,June,116.0371
+Cotton & linters,2020,June,320.2835
+Major bulk,2020,June,10261.2672
+Red meats & products,2020,July,428.5265
+Poultry meats,2020,July,292.4812
+Nonfat dry milk,2020,July,78.3736
+Wheat,2020,July,2363.32
+Rice,2020,July,179.3944
+Coarse grains,2020,July,4728.9948
+Corn,2020,July,4343.678
+Sorghum,2020,July,361.56
+Soybeans,2020,July,2216.1911
+Oil meal,2020,July,1048.8108
+Vegetable oils,2020,July,170.0694
+"Fruits, fresh",2020,July,238.5533
+"Fruits, prepared or preserved",2020,July,45.6062
+Fruit juices,2020,July,41.9469
+"Vegetables, fresh",2020,July,208.3768
+"Vegetables, prepared or preserved",2020,July,200.7193
+Nuts & preparations,2020,July,118.404
+Cotton & linters,2020,July,355.6501
+Major bulk,2020,July,9853.6248
+Red meats & products,2020,August,426.3612
+Poultry meats,2020,August,304.8929
+Nonfat dry milk,2020,August,70.908
+Wheat,2020,August,2555.038
+Rice,2020,August,128.0156
+Coarse grains,2020,August,5089.4377
+Corn,2020,August,4539.135
+Sorghum,2020,August,525.291
+Soybeans,2020,August,4550.7601
+Oil meal,2020,August,1003.1651
+Vegetable oils,2020,August,249.0439
+"Fruits, fresh",2020,August,206.5969
+"Fruits, prepared or preserved",2020,August,44.2276
+Fruit juices,2020,August,40.7638
+"Vegetables, fresh",2020,August,178.6175
+"Vegetables, prepared or preserved",2020,August,247.5664
+Nuts & preparations,2020,August,117.6625
+Cotton & linters,2020,August,312.0686
+Major bulk,2020,August,12644.8392
+Red meats & products,2020,September,414.8052
+Poultry meats,2020,September,306.1519
+Nonfat dry milk,2020,September,64.2247
+Wheat,2020,September,2684.792
+Rice,2020,September,137.815
+Coarse grains,2020,September,4285.0256
+Corn,2020,September,3803.046
+Sorghum,2020,September,465.998
+Soybeans,2020,September,7780.2424
+Oil meal,2020,September,972.3089
+Vegetable oils,2020,September,217.2691
+"Fruits, fresh",2020,September,182.3451
+"Fruits, prepared or preserved",2020,September,47.657
+Fruit juices,2020,September,42.0585
+"Vegetables, fresh",2020,September,160.2418
+"Vegetables, prepared or preserved",2020,September,252.5185
+Nuts & preparations,2020,September,159.6157
+Cotton & linters,2020,September,202.4992
+Major bulk,2020,September,15095.8006
+Red meats & products,2020,October,445.4169
+Poultry meats,2020,October,349.8576
+Nonfat dry milk,2020,October,79.8292
+Wheat,2020,October,1740.694
+Rice,2020,October,275.5928
+Coarse grains,2020,October,3952.6634
+Corn,2020,October,3683.901
+Sorghum,2020,October,247.041
+Soybeans,2020,October,11439.7754
+Oil meal,2020,October,1004.787
+Vegetable oils,2020,October,211.7872
+"Fruits, fresh",2020,October,197.8336
+"Fruits, prepared or preserved",2020,October,51.4098
+Fruit juices,2020,October,40.9959
+"Vegetables, fresh",2020,October,200.0662
+"Vegetables, prepared or preserved",2020,October,278.6398
+Nuts & preparations,2020,October,244.37
+Cotton & linters,2020,October,260.976
+Major bulk,2020,October,17674.1951
+Red meats & products,2020,November,472.6811
+Poultry meats,2020,November,323.5367
+Nonfat dry milk,2020,November,65.8175
+Wheat,2020,November,1892.51
+Rice,2020,November,401.8499
+Coarse grains,2020,November,4728.9623
+Corn,2020,November,3822.421
+Sorghum,2020,November,877.546
+Soybeans,2020,November,11096.4516
+Oil meal,2020,November,1178.7736
+Vegetable oils,2020,November,238.5049
+"Fruits, fresh",2020,November,225.761
+"Fruits, prepared or preserved",2020,November,48.1803
+Fruit juices,2020,November,40.5151
+"Vegetables, fresh",2020,November,188.3964
+"Vegetables, prepared or preserved",2020,November,255.4539
+Nuts & preparations,2020,November,246.9643
+Cotton & linters,2020,November,291.1806
+Major bulk,2020,November,18415.5931
+Red meats & products,2020,December,484.6536
+Poultry meats,2020,December,301.7908
+Nonfat dry milk,2020,December,61.8612
+Wheat,2020,December,1945.896
+Rice,2020,December,449.7411
+Coarse grains,2020,December,5499.938
+Corn,2020,December,4617.542
+Sorghum,2020,December,854.186
+Soybeans,2020,December,10817.6915
+Oil meal,2020,December,1316.9073
+Vegetable oils,2020,December,232.348
+"Fruits, fresh",2020,December,190.4311
+"Fruits, prepared or preserved",2020,December,43.2086
+Fruit juices,2020,December,41.034
+"Vegetables, fresh",2020,December,183.9058
+"Vegetables, prepared or preserved",2020,December,261.9839
+Nuts & preparations,2020,December,219.8232
+Cotton & linters,2020,December,311.6047
+Major bulk,2020,December,19029.2338
+Red meats & products,2021,January,440.6482
+Red meats & products,2021,Feburary,422.6852
+Red meats & products,2021,March,517.6562
+Red meats & products,2021,April,483.645
+Red meats & products,2021,May,512.9943
+Red meats & products,2021,June,445.9525
+Red meats & products,2021,July,432.137
+Red meats & products,2021,August,440.2801
+Red meats & products,2021,September,419.8179
+Poultry meats,2021,January,301.72
+Poultry meats,2021,Feburary,282.162
+Poultry meats,2021,March,327.7469
+Poultry meats,2021,April,303.1319
+Poultry meats,2021,May,336.3566
+Poultry meats,2021,June,319.667
+Poultry meats,2021,July,294.8689
+Poultry meats,2021,August,319.0241
+Poultry meats,2021,September,295.2459
+Nonfat dry milk,2021,January,65.0963
+Nonfat dry milk,2021,Feburary,75.2118
+Nonfat dry milk,2021,March,90.8359
+Nonfat dry milk,2021,April,83.2344
+Nonfat dry milk,2021,May,93.0096
+Nonfat dry milk,2021,June,83.449
+Nonfat dry milk,2021,July,76.9559
+Nonfat dry milk,2021,August,81.6283
+Nonfat dry milk,2021,September,72.8738
+Wheat,2021,January,1977.052
+Wheat,2021,Feburary,1826.314
+Wheat,2021,March,2146.625
+Wheat,2021,April,2603.284
+Wheat,2021,May,2390.909
+Wheat,2021,June,2000.691
+Wheat,2021,July,2051.179
+Wheat,2021,August,2625.632
+Wheat,2021,September,2309.514
+Rice,2021,January,234.3666
+Rice,2021,Feburary,293.6153
+Rice,2021,March,282.8612
+Rice,2021,April,389.1263
+Rice,2021,May,321.6856
+Rice,2021,June,286.9423
+Rice,2021,July,244.8788
+Rice,2021,August,349.2678
+Rice,2021,September,190.0918
+Coarse grains,2021,January,6712.63
+Coarse grains,2021,Feburary,6920.6848
+Coarse grains,2021,March,10307.3997
+Coarse grains,2021,April,9561.242
+Coarse grains,2021,May,9145.8717
+Coarse grains,2021,June,6575.0203
+Coarse grains,2021,July,5940.1309
+Coarse grains,2021,August,3685.3209
+Coarse grains,2021,September,2815.4482
+Corn,2021,January,5806.219
+Corn,2021,Feburary,6308.83
+Corn,2021,March,9468.38
+Corn,2021,April,8499.402
+Corn,2021,May,8478.522
+Corn,2021,June,6338.104
+Corn,2021,July,5473.108
+Corn,2021,August,3443.165
+Corn,2021,September,2550.209
+Sorghum,2021,January,876.538
+Sorghum,2021,Feburary,573.516
+Sorghum,2021,March,795.273
+Sorghum,2021,April,1024.366
+Sorghum,2021,May,630.646
+Sorghum,2021,June,195.742
+Sorghum,2021,July,429.499
+Sorghum,2021,August,213.144
+Sorghum,2021,September,242.802
+Soybeans,2021,January,8829.2996
+Soybeans,2021,Feburary,4558.7071
+Soybeans,2021,March,2295.1218
+Soybeans,2021,April,1384.9244
+Soybeans,2021,May,1266.6851
+Soybeans,2021,June,925.4976
+Soybeans,2021,July,945.8045
+Soybeans,2021,August,1308.6828
+Soybeans,2021,September,2167.6408
+Oil meal,2021,January,1329.1056
+Oil meal,2021,Feburary,1204.2577
+Oil meal,2021,March,1187.0928
+Oil meal,2021,April,969.0458
+Oil meal,2021,May,962.0785
+Oil meal,2021,June,842.8914
+Oil meal,2021,July,991.8881
+Oil meal,2021,August,875.0827
+Oil meal,2021,September,736.3307
+Vegetable oils,2021,January,282.5169
+Vegetable oils,2021,Feburary,237.8323
+Vegetable oils,2021,March,211.6445
+Vegetable oils,2021,April,190.8889
+Vegetable oils,2021,May,157.203
+Vegetable oils,2021,June,177.3225
+Vegetable oils,2021,July,174.106
+Vegetable oils,2021,August,173.3596
+Vegetable oils,2021,September,133.5787
+"Fruits, fresh",2021,January,172.8254
+"Fruits, fresh",2021,Feburary,192.5923
+"Fruits, fresh",2021,March,246.6067
+"Fruits, fresh",2021,April,192.4587
+"Fruits, fresh",2021,May,227.4612
+"Fruits, fresh",2021,June,241.4477
+"Fruits, fresh",2021,July,244.5102
+"Fruits, fresh",2021,August,210.1996
+"Fruits, fresh",2021,September,183.895
+"Fruits, prepared or preserved",2021,January,40.9313
+"Fruits, prepared or preserved",2021,Feburary,40.7684
+"Fruits, prepared or preserved",2021,March,51.2189
+"Fruits, prepared or preserved",2021,April,49.4708
+"Fruits, prepared or preserved",2021,May,49.5159
+"Fruits, prepared or preserved",2021,June,49.9755
+"Fruits, prepared or preserved",2021,July,51.3791
+"Fruits, prepared or preserved",2021,August,52.4698
+"Fruits, prepared or preserved",2021,September,51.7118
+Fruit juices,2021,January,43.852
+Fruit juices,2021,Feburary,40.2517
+Fruit juices,2021,March,47.2309
+Fruit juices,2021,April,46.2381
+Fruit juices,2021,May,44.6959
+Fruit juices,2021,June,44.2252
+Fruit juices,2021,July,41.3178
+Fruit juices,2021,August,41.5736
+Fruit juices,2021,September,38.4496
+"Vegetables, fresh",2021,January,191.6013
+"Vegetables, fresh",2021,Feburary,180.2024
+"Vegetables, fresh",2021,March,226.063
+"Vegetables, fresh",2021,April,230.3684
+"Vegetables, fresh",2021,May,252.3667
+"Vegetables, fresh",2021,June,244.3284
+"Vegetables, fresh",2021,July,231.3751
+"Vegetables, fresh",2021,August,173.9726
+"Vegetables, fresh",2021,September,162.1048
+"Vegetables, prepared or preserved",2021,January,245.347
+"Vegetables, prepared or preserved",2021,Feburary,217.6449
+"Vegetables, prepared or preserved",2021,March,281.1171
+"Vegetables, prepared or preserved",2021,April,295.9457
+"Vegetables, prepared or preserved",2021,May,260.8924
+"Vegetables, prepared or preserved",2021,June,224.1971
+"Vegetables, prepared or preserved",2021,July,229.1407
+"Vegetables, prepared or preserved",2021,August,201.1085
+"Vegetables, prepared or preserved",2021,September,206.9729
+Nuts & preparations,2021,January,149.3582
+Nuts & preparations,2021,Feburary,175.6762
+Nuts & preparations,2021,March,184.8328
+Nuts & preparations,2021,April,172.0859
+Nuts & preparations,2021,May,156.9922
+Nuts & preparations,2021,June,138.5221
+Nuts & preparations,2021,July,143.8163
+Nuts & preparations,2021,August,132.2722
+Nuts & preparations,2021,September,142.4117
+Cotton & linters,2021,January,352.6592
+Cotton & linters,2021,Feburary,343.2004
+Cotton & linters,2021,March,358.3883
+Cotton & linters,2021,April,346.6065
+Cotton & linters,2021,May,357.5914
+Cotton & linters,2021,June,264.3801
+Cotton & linters,2021,July,241.1835
+Cotton & linters,2021,August,210.8877
+Cotton & linters,2021,September,123.1394
+Major bulk,2021,January,18115.6479
+Major bulk,2021,Feburary,13955.8333
+Major bulk,2021,March,15401.192
+Major bulk,2021,April,14295.5679
+Major bulk,2021,May,13493.5873
+Major bulk,2021,June,10062.466
+Major bulk,2021,July,9435.5669
+Major bulk,2021,August,8191.0453
+Major bulk,2021,September,7615.393
