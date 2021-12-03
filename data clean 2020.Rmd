@@ -27,7 +27,7 @@ scale_fill_discrete = scale_fill_viridis_d
 ```
 
 
-## Export 
+## Export Volume
 ```{r}
 data = read_excel(".\\data/Export_2020.xls") %>% 
   janitor::clean_names()
@@ -64,12 +64,55 @@ Export_df =
   rename("Item" = "x1",
          "Export Volume" = "Volumes")  
 
-write.csv(Export_df, file = ".\\data\\Export Clean 2020.csv", row.names = F)
+write.csv(Export_df, file = ".\\data\\Export Clean Volume 2020.csv", row.names = F)
 
 ```
 
 
-## Import
+## Export Value
+```{r}
+data = read_excel(".\\data/Export_2020.xls") %>% 
+  janitor::clean_names()
+
+data1 = 
+  excel_sheets(".\\data/Export_2020.xls")
+
+all_Sheets = lapply(data1, function(x) {          
+  as.data.frame(read_excel(".\\data/Export_2020.xls", sheet = x))}) 
+
+resultv = lapply(all_Sheets,`[`, c(8:34),)
+resultsv = lapply(resultv, function(x) {x <- x %>% select(1,2)})
+resultsv1 = lapply(resultsv, function(x) na.omit(x)) %>% 
+  set_names()
+
+
+Export_Value_df = 
+  tibble(
+    sheets = c("September 2019", "October 2019", "November 2019", "December 2019", "January 2020", "February 2020", "March 2020", "April 2020", "May 2020", "June 2020", "July 2020", "August 2020", "September 2020", "October 2020", "November 2020"),
+    norms = resultsv1
+  ) %>% 
+  unnest(norms) %>% 
+  janitor::clean_names() %>% 
+  pivot_longer(
+    sep:aug,
+    names_to = "month",
+    values_to = "Values"
+  ) %>% 
+  na.omit() %>% 
+  filter(x1 != "Item") %>% 
+  separate(sheets, c("Month", "Year")) %>% 
+  select(-month) %>% 
+  mutate(Values = as.numeric(Values)) %>% 
+  rename("Item" = "x1",
+         "Export Value" = "Values")  
+
+write.csv(Export_Value_df, file = ".\\data\\Export Clean Value 2020.csv", row.names = F)
+
+```
+
+
+
+## Import Volume
 
 ```{r}
 data_import = 
@@ -105,6 +148,44 @@ Import_df =
          "Export Volume" = "Volumes")  
 
 write.csv(Import_df, file = ".\\data\\Import Clean 2020.csv", row.names = F)
+```
+
+## Import Value
+
+```{r}
+data_import = 
+  excel_sheets(".\\data/Import_2020.xls")
+
+import_all = lapply(data_import, function(x) {          
+  as.data.frame(read_excel(".\\data/Import_2020.xls", sheet = x))}) 
+
+imv_1 = lapply(import_all,`[`, c(8:36),)
+imv_2 = lapply(imv_1, function(x) {x <- x %>% select(1,2)})
+imv_result = lapply(imv_2, function(x) na.omit(x)) %>% 
+  set_names()
+
+
+Import_Value_df = 
+  tibble(
+    sheets = c("September 2019", "October 2019", "November 2019", "December 2019", "January 2020", "February 2020", "March 2020", "April 2020", "May 2020", "June 2020", "July 2020", "August 2020", "September 2020", "October 2020", "November 2020"),
+    norms = imv_result
+  ) %>% 
+  unnest(norms) %>% 
+  janitor::clean_names() %>% 
+  pivot_longer(
+    sep:aug,
+    names_to = "month",
+    values_to = "Value"
+  ) %>% 
+  na.omit() %>% 
+  filter(x1 != "Item") %>% 
+  separate(sheets, c("Month", "Year")) %>% 
+  select(-month) %>% 
+  mutate(Value = as.numeric(Value)) %>% 
+  rename("Item" = "x1",
+         "Export Value" = "Value")  
+
+write.csv(Import_Value_df, file = ".\\data\\Import Clean Value 2020.csv", row.names = F)
 ```
 
 ## Top 10 Exports
