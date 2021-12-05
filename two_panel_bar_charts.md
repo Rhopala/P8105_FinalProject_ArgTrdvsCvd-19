@@ -23,8 +23,9 @@ library(ggpubr)
 
 knitr::opts_chunk$set(
   fig.width = 7,
-  fig.asp = .6,
-  out.width = "90%"
+  fig.asp = .8,
+  out.width = "110%",
+  dpi = 600
 )
 
 theme_set(theme_minimal())
@@ -208,7 +209,7 @@ covid_export_value_plot =
 ggarrange(covid_import_value_plot, covid_export_value_plot, ncol = 1)
 ```
 
-<img src="two_panel_bar_charts_files/figure-gfm/unnamed-chunk-4-1.png" width="90%" />
+<img src="two_panel_bar_charts_files/figure-gfm/unnamed-chunk-4-1.png" width="110%" />
 
 ## two-panel (export volume/import volume ) bar chart
 
@@ -315,4 +316,4 @@ covid_export_volume_plot =
 ggarrange(covid_import_volume_plot, covid_export_volume_plot, ncol = 1)
 ```
 
-<img src="two_panel_bar_charts_files/figure-gfm/unnamed-chunk-6-1.png" width="90%" />
+<img src="two_panel_bar_charts_files/figure-gfm/unnamed-chunk-6-1.png" width="110%" />
