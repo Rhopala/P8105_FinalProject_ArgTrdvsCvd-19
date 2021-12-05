@@ -1,0 +1,169 @@
+---
+title: "Covid Cases vs. Export/Import Volume"
+author: "Lynn Chen"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(dplyr)
+
+library(plotly)
+
+knitr::opts_chunk$set(
+  echo = TRUE,
+  warning = FALSE,
+  fig.width = 8,
+  fig.height = 6,
+  out.width = "90%"
+)
+```
+
+
+```{r}
+## Import data 
+covid = 
+  read_csv("./data/covid_data_monthly.csv") %>% 
+  mutate(month = month.name[as.numeric(month)],
+         month = as.factor(month),
+         month = ordered(month, levels = c("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")),
+         year = as.character(year),
+         Confirmed_of_Month = as.numeric(Confirmed_of_Month))
+
+## take a look at covid plot 
+covid %>% 
+  ggplot(aes(x = month, y = Confirmed_of_Month, color = year)) + 
+  geom_line(aes(group = year)) +
+  geom_point(size = 1.5)
+
+export_volume_df = 
+  read_csv("./data/cleaned data/export_volume_combined.csv") %>% 
+  mutate(month = as.factor(month),
+         month = ordered(month, levels = c("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")),
+         year = as.character(year))
+
+export_volume_df %>% 
+  group_by(month,year) %>% 
+  summarize(sum_of_export = sum(export_volume)) %>% 
+  ggplot(aes(x = month, y = sum_of_export, color = year)) + 
+  geom_line(aes(group = year)) +
+  geom_point(size = 1.5)
+
+import_volume_df = 
+  read_csv("./data/cleaned data/import_volume_combined.csv") %>% 
+  mutate(month = as.factor(month),
+         month = ordered(month, levels = c("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")),
+         year = as.character(year))
+
+combined_df = list(covid, export_volume_df, import_volume_df) %>% 
+  reduce(left_join, by = c("year", "month"), all = TRUE) %>%
+  janitor::clean_names() %>% 
+  rename("export_product_type" = "product_type_x",
+         "import_product_type" = "product_type_y") 
+
+
+```
+
+
+## export vs. covid case 
+
+```{r}
+export_fit = lm(export_volume ~ confirmed_of_month, data = combined_df)
+summary(export_fit)
+
+export_df = 
+  combined_df %>% 
+  na.omit() %>% 
+  nest(data = confirmed_of_month:export_volume) %>% 
+  mutate(
+    lm_fits = map(.x = data, ~ lm(export_volume ~ confirmed_of_month, data = .x), na.action = na.omit()),
+    lm_results = map(lm_fits, broom::tidy)) %>% 
+  select(month, year, lm_results) %>% 
+  unnest(lm_results) 
+  
+export_df %>% 
+  na.omit() %>% 
+  ggplot(aes(x = estimate)) +
+  geom_density()
+
+export_df %>%  
+  ggplot(aes(x = month, y = estimate)) + 
+  geom_point() + 
+  facet_grid(~term) + 
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))
+
+export_plot = combined_df %>% 
+  group_by(month, year, confirmed_of_month) %>% 
+  summarize(export_sum = sum(export_volume)) %>% 
+ggplot(aes(x = confirmed_of_month, y = export_sum)) +
+  geom_point(alpha = 0.5) +
+  scale_y_continuous() +
+  geom_smooth(se = F, color = "red", method = "lm", size = 1, linetype = 2) +
+  labs(title = "Covid Cases vs. Export Volume", 
+       x = "Covid Cases", 
+       y = "Export Volume")
+
+combined_df %>% 
+  mutate(
+    text_label = str_c("Confirmed Cases: $", confirmed_of_month, "\nExport Volume: ", export_volume)) %>% 
+  plot_ly(
+    x = ~ confirmed_of_month, y = ~ export_volume, type = "scatter", mode = "markers", color = ~month, text = ~text_label, alpha = 0.5)
+
+
+```
+
+
+## import vs. covid case 
+
+```{r}
+import_fit = lm(import_volume ~ confirmed_of_month, data = combined_df)
+summary(import_fit)
+
+import_df = 
+  combined_df %>% 
+  na.omit() %>% 
+  nest(data = confirmed_of_month:import_volume) %>% 
+  mutate(
+    lm_fits = map(.x = data, ~ lm(import_volume ~ confirmed_of_month, data = .x), na.action = na.omit()),
+    lm_results = map(lm_fits, broom::tidy)) %>% 
+  select(month, year, lm_results) %>% 
+  unnest(lm_results) 
+  
+import_df %>% 
+  ggplot(aes(x = estimate)) +
+  geom_density()
+
+import_df %>% 
+  ggplot(aes(x = month, y = estimate)) + 
+  geom_point() + 
+  facet_grid(~term) + 
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))
+
+import_plot = combined_df %>% 
+  group_by(month, year, confirmed_of_month) %>% 
+  summarize(import_sum = sum(import_volume)) %>% 
+  ggplot(aes(x = confirmed_of_month, y = import_sum)) +
+  geom_point(alpha = 0.5) +
+  scale_y_continuous() +
+  geom_smooth(se = F, color = "red", method = "lm", size = 1, linetype = 2) +
+  labs(title = "Covid Cases vs. Import Volume", 
+       x = "Covid Cases", 
+       y = "Import Volume")
+  
+
+combined_df %>% 
+  group_by(month, year, confirmed_of_month) %>% 
+  summarize(import_sum = sum(import_volume)) %>% 
+  mutate(
+    text_label = str_c("Confirmed Cases: $", confirmed_of_month, "\nImport Volume: ", import_sum)) %>% 
+  plot_ly(
+    x = ~ confirmed_of_month, y = ~ import_sum, type = "scatter", mode = "markers", color = ~month, text = ~text_label, alpha = 0.5)
+```
+
+```{r}
+ggpubr::ggarrange(import_plot, export_plot)
+```
+
