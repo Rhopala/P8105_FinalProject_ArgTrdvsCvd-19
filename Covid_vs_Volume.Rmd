@@ -42,6 +42,7 @@ covid %>%
 export_volume_df = 
   read_csv("./data/cleaned data/export_volume_combined.csv") %>% 
   mutate(month = as.factor(month),
+         month = recode(month, "Feburary" = "February"),
          month = ordered(month, levels = c("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")),
          year = as.character(year))
 
@@ -50,19 +51,32 @@ export_volume_df %>%
   summarize(sum_of_export = sum(export_volume)) %>% 
   ggplot(aes(x = month, y = sum_of_export, color = year)) + 
   geom_line(aes(group = year)) +
-  geom_point(size = 1.5)
+  geom_point(size = 1.5) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))
+
 
 import_volume_df = 
   read_csv("./data/cleaned data/import_volume_combined.csv") %>% 
   mutate(month = as.factor(month),
+         month = recode(month, "Feburary" = "February"),
          month = ordered(month, levels = c("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")),
          year = as.character(year))
+
+import_volume_df %>% 
+  group_by(month,year) %>% 
+  summarize(sum_of_import = sum(import_volume)) %>% 
+  ggplot(aes(x = month, y = sum_of_import, color = year)) + 
+  geom_line(aes(group = year)) +
+  geom_point(size = 1.5) + 
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))
+
 
 combined_df = list(covid, export_volume_df, import_volume_df) %>% 
   reduce(left_join, by = c("year", "month"), all = TRUE) %>%
   janitor::clean_names() %>% 
   rename("export_product_type" = "product_type_x",
          "import_product_type" = "product_type_y") 
+
 
 
 ```
