@@ -454,21 +454,8 @@ Vegetable oils,2020,November,441.1361
 Sugar & related products,2020,November,349.5503
 Cocoa & products,2020,November,95.6995
 Coffee & products,2020,November,119.4484
-Wine,2020,December,0
-Malt beverages,2020,December,484.6536
-Cattle & calves,2020,December,301.7908
-Beef & veal,2020,December,61.8612
-Dairy products,2020,December,1945.896
-"Processed grains, ex. feed",2020,December,449.7411
-"Fruits, fresh or frozen",2020,December,5499.938
-"Fruits, prepared or preserved",2020,December,4617.542
-"Vegetables, fresh or frozen",2020,December,854.186
-Vegetable oils,2020,December,10817.6915
-Sugar & related products,2020,December,1316.9073
-Cocoa & products,2020,December,232.348
-Coffee & products,2020,December,190.4311
 Wine,2021,January,105.704
-Wine,2021,Feburary,97.5185
+Wine,2021,February,97.5185
 Wine,2021,March,112.2382
 Wine,2021,April,119.2578
 Wine,2021,May,125.8477
@@ -476,35 +463,35 @@ Wine,2021,June,152.4979
 Wine,2021,July,150.6463
 Wine,2021,August,134.3064
 Wine,2021,September,119.3746
-Malt beverages,2021,January,372.3473
-Malt beverages,2021,Feburary,295.9845
-Malt beverages,2021,March,358.9328
-Malt beverages,2021,April,404.2397
-Malt beverages,2021,May,418.5514
-Malt beverages,2021,June,445.1464
-Malt beverages,2021,July,421.5631
-Malt beverages,2021,August,426.6098
-Malt beverages,2021,September,387.8096
-Cattle & calves,2021,January,133.149
-Cattle & calves,2021,Feburary,155.017
-Cattle & calves,2021,March,190.636
-Cattle & calves,2021,April,179.484
-Cattle & calves,2021,May,121.792
-Cattle & calves,2021,June,122.06
-Cattle & calves,2021,July,113.284
-Cattle & calves,2021,August,121.055
-Cattle & calves,2021,September,121.512
-Beef & veal,2021,January,76.0164
-Beef & veal,2021,Feburary,67.6654
-Beef & veal,2021,March,92.8546
-Beef & veal,2021,April,92.2824
-Beef & veal,2021,May,91.4182
-Beef & veal,2021,June,107.9463
-Beef & veal,2021,July,102.8657
-Beef & veal,2021,August,111.8999
-Beef & veal,2021,September,96.0658
+Malt beverages ,2021,January,372.3473
+Malt beverages ,2021,February,295.9845
+Malt beverages ,2021,March,358.9328
+Malt beverages ,2021,April,404.2397
+Malt beverages ,2021,May,418.5514
+Malt beverages ,2021,June,445.1464
+Malt beverages ,2021,July,421.5631
+Malt beverages ,2021,August,426.6098
+Malt beverages ,2021,September,387.8096
+Cattle and calves,2021,January,133.149
+Cattle and calves,2021,February,155.017
+Cattle and calves,2021,March,190.636
+Cattle and calves,2021,April,179.484
+Cattle and calves,2021,May,121.792
+Cattle and calves,2021,June,122.06
+Cattle and calves,2021,July,113.284
+Cattle and calves,2021,August,121.055
+Cattle and calves,2021,September,121.512
+Beef and veal,2021,January,76.0164
+Beef and veal,2021,February,67.6654
+Beef and veal,2021,March,92.8546
+Beef and veal,2021,April,92.2824
+Beef and veal,2021,May,91.4182
+Beef and veal,2021,June,107.9463
+Beef and veal,2021,July,102.8657
+Beef and veal,2021,August,111.8999
+Beef and veal,2021,September,96.0658
 Dairy products,2021,January,22.348727
-Dairy products,2021,Feburary,18.095969
+Dairy products,2021,February,18.095969
 Dairy products,2021,March,28.667337
 Dairy products,2021,April,24.732739
 Dairy products,2021,May,25.803502
@@ -513,7 +500,7 @@ Dairy products,2021,July,30.855006
 Dairy products,2021,August,27.415565
 Dairy products,2021,September,30.708473
 "Processed grains, ex. feed",2021,January,239.6311
-"Processed grains, ex. feed",2021,Feburary,283.3863
+"Processed grains, ex. feed",2021,February,283.3863
 "Processed grains, ex. feed",2021,March,272.0397
 "Processed grains, ex. feed",2021,April,534.2713
 "Processed grains, ex. feed",2021,May,391.6843
@@ -522,7 +509,7 @@ Dairy products,2021,September,30.708473
 "Processed grains, ex. feed",2021,August,294.4137
 "Processed grains, ex. feed",2021,September,357.3521
 "Fruits, fresh or frozen",2021,January,1097.0289
-"Fruits, fresh or frozen",2021,Feburary,1139.0744
+"Fruits, fresh or frozen",2021,February,1139.0744
 "Fruits, fresh or frozen",2021,March,1342.8671
 "Fruits, fresh or frozen",2021,April,1284.4184
 "Fruits, fresh or frozen",2021,May,1264.4389
@@ -531,7 +518,7 @@ Dairy products,2021,September,30.708473
 "Fruits, fresh or frozen",2021,August,1057.1806
 "Fruits, fresh or frozen",2021,September,1025.5118
 "Fruits, prepared or preserved",2021,January,140.2682
-"Fruits, prepared or preserved",2021,Feburary,115.584
+"Fruits, prepared or preserved",2021,February,115.584
 "Fruits, prepared or preserved",2021,March,138.1142
 "Fruits, prepared or preserved",2021,April,140.7163
 "Fruits, prepared or preserved",2021,May,144.6875
@@ -540,7 +527,7 @@ Dairy products,2021,September,30.708473
 "Fruits, prepared or preserved",2021,August,140.2268
 "Fruits, prepared or preserved",2021,September,136.5403
 "Vegetables, fresh or frozen",2021,January,1090.3451
-"Vegetables, fresh or frozen",2021,Feburary,1017.8812
+"Vegetables, fresh or frozen",2021,February,1017.8812
 "Vegetables, fresh or frozen",2021,March,1167.3732
 "Vegetables, fresh or frozen",2021,April,1019.7099
 "Vegetables, fresh or frozen",2021,May,944.5123
@@ -549,7 +536,7 @@ Dairy products,2021,September,30.708473
 "Vegetables, fresh or frozen",2021,August,767.9179
 "Vegetables, fresh or frozen",2021,September,791.4167
 Vegetable oils,2021,January,477.2823
-Vegetable oils,2021,Feburary,428.6853
+Vegetable oils,2021,February,428.6853
 Vegetable oils,2021,March,458.8071
 Vegetable oils,2021,April,536.0733
 Vegetable oils,2021,May,496.5966
@@ -557,30 +544,43 @@ Vegetable oils,2021,June,516.5621
 Vegetable oils,2021,July,665.7043
 Vegetable oils,2021,August,493.0776
 Vegetable oils,2021,September,697.3466
-Sugar & related products,2021,January,249.6693
-Sugar & related products,2021,Feburary,228.2595
-Sugar & related products,2021,March,316.1437
-Sugar & related products,2021,April,284.4711
-Sugar & related products,2021,May,269.9811
-Sugar & related products,2021,June,275.0459
-Sugar & related products,2021,July,249.2428
-Sugar & related products,2021,August,272.3781
-Sugar & related products,2021,September,259.9399
-Cocoa & products,2021,January,120.4441
-Cocoa & products,2021,Feburary,125.7949
-Cocoa & products,2021,March,135.18
-Cocoa & products,2021,April,136.1623
-Cocoa & products,2021,May,156.685
-Cocoa & products,2021,June,147.798
-Cocoa & products,2021,July,149.5607
-Cocoa & products,2021,August,159.7166
-Cocoa & products,2021,September,121.2152
-Coffee & products,2021,January,15.1171
-Coffee & products,2021,Feburary,14.9227
-Coffee & products,2021,March,16.3402
-Coffee & products,2021,April,16.1725
-Coffee & products,2021,May,20.6229
-Coffee & products,2021,June,16.3463
-Coffee & products,2021,July,19.321
-Coffee & products,2021,August,18.6681
-Coffee & products,2021,September,17.0799
+Sugar and related products,2021,January,249.6693
+Sugar and related products,2021,February,228.2595
+Sugar and related products,2021,March,316.1437
+Sugar and related products,2021,April,284.4711
+Sugar and related products,2021,May,269.9811
+Sugar and related products,2021,June,275.0459
+Sugar and related products,2021,July,249.2428
+Sugar and related products,2021,August,272.3781
+Sugar and related products,2021,September,259.9399
+Cocoa and products,2021,January,120.4441
+Cocoa and products,2021,February,125.7949
+Cocoa and products,2021,March,135.18
+Cocoa and products,2021,April,136.1623
+Cocoa and products,2021,May,156.685
+Cocoa and products,2021,June,147.798
+Cocoa and products,2021,July,149.5607
+Cocoa and products,2021,August,159.7166
+Cocoa and products,2021,September,121.2152
+Coffee and products,2021,January,15.1171
+Coffee and products,2021,February,14.9227
+Coffee and products,2021,March,16.3402
+Coffee and products,2021,April,16.1725
+Coffee and products,2021,May,20.6229
+Coffee and products,2021,June,16.3463
+Coffee and products,2021,July,19.321
+Coffee and products,2021,August,18.6681
+Coffee and products,2021,September,17.0799
+Wine,2020,December,102.1942
+Malt beverages,2020,December,345.2618
+Cattle and calves,2020,December,197.9
+Beef and veal,2020,December,70.799
+Dairy products,2020,December,29.25503
+"Processed grains, ex. feed",2020,December,267.4015
+"Fruits, fresh or frozen",2020,December,1025.1601
+"Fruits, prepared or preserved",2020,December,127.4969
+"Vegetables, fresh or frozen",2020,December,954.0789
+Vegetable oils,2020,December,475.2403
+Sugar and related products,2020,December,298.4427
+Cocoa and products,2020,December,109.5596
+Coffee and products,2020,December,135.6814
