@@ -1,0 +1,105 @@
+---
+title: "US to China Export"
+author: "Zoey Zhao"
+date: "12/7/2021"
+output: html_document
+---
+
+```{r echo=FALSE, message=FALSE}
+library(tidyverse)
+library(readxl)
+library(plotly)
+```
+
+# Combine data
+```{r}
+export2018 <-
+  read_csv("./data/top10_export_volume_2018.csv")%>%
+  janitor::clean_names()%>%
+  filter(country == "China")%>%
+  mutate(export_volume = volume,
+         commodity = product)%>%
+  select(year, month, commodity, export_volume)
+
+export2019 <-
+  read_csv("./data/Top 10 Export Clean 2019.csv")%>%
+  janitor::clean_names()%>%
+  filter(export_country == "China")%>%
+  mutate(month = plu::capitalize(month),
+         year = 2019)%>%
+  select(year, month, commodity, export_volume)%>%
+  mutate(commodity = case_when(
+    commodity == "soybean" ~"Soybeans",
+    commodity == "Cotton,ex linters" ~ "Cotton"
+  ))
+
+export2020 <- 
+  read_csv("./data/Top 10 Export Clean 2020.csv")%>%
+  janitor::clean_names()%>%
+  filter(export_country == "China", year == 2020)%>%
+  mutate(export_volume = export_values)%>%
+  select(year, month, commodity, export_volume)%>%
+  mutate(commodity = case_when(
+    commodity == "Cotton, Ex Linters" ~"Cotton",
+    commodity == "Wheat, Unmilled" ~ "Wheat",
+    TRUE ~ commodity
+  ))
+
+export2021 <-
+  read_xlsx("./data/Top10_export2021.xlsx")%>%
+  select(year, month, commodity, export_volume)%>%
+  mutate(commodity = case_when(
+    commodity == "Cotton, ex linters" ~"Cotton",
+    commodity == "Wheat, unmilled" ~ "Wheat",
+    TRUE ~ commodity
+  ))
+
+beforeCOVID <-
+  bind_rows(export2018, export2019)
+
+write_csv(beforeCOVID, "./data/cleaned data/Export to China beforeCOVID.csv")
+
+afterCOVID <-
+  bind_rows(export2020, export2021)
+
+write_csv(afterCOVID, "./data/cleaned data/Export to China afterCOVID.csv")
+```
+
+# Plot
+
+```{r}
+plot_before <- 
+  read_csv("./data/cleaned data/Export to China beforeCOVID.csv")%>%
+  group_by(commodity)%>%
+  plot_ly(x = ~month, 
+          y = ~export_volume, 
+          color = ~commodity, 
+          legendgroup = ~commodity,
+          type = "bar", 
+          colors = "viridis",
+          showlegend = F)%>% 
+  layout(xaxis = list(title = 'Month 2018-2019',
+                      categoryorder = "array",
+                      categoryarray = ~ month),
+         yaxis = list(title = 'Sum of monthly volumes (Metric tons)'))
+plot_after <-
+  read_csv("./data/cleaned data/Export to China afterCOVID.csv")%>%
+  group_by(commodity)%>%
+  plot_ly(x = ~month, 
+          y = ~export_volume, 
+          color = ~commodity, 
+          legendgroup = ~commodity, 
+          type = "bar", 
+          colors = "viridis")%>% 
+  layout(xaxis = list(title = 'Month (2020-2021)',
+                      categoryorder = "array",
+                      categoryarray = ~ month),
+         yaxis = list(title = 'Sum of monthly volumes (Metric tons)'),
+         legend = list(title=list(text='<b> Commodity </b>')))
+
+subplot(plot_before, plot_after, nrows = 2, shareX = TRUE, titleY = FALSE)%>%
+  layout(title = 'Total Volume of Monthly Export to China Before and After COVID',
+         yaxis = list(title = 'Volumes (Metric tons) //////'))
+
+```
+

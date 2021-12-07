@@ -1,0 +1,101 @@
+---
+title: "Import from China"
+author: "Zoey Zhao"
+date: "12/7/2021"
+output: html_document
+---
+
+```{r echo=FALSE, message=FALSE}
+library(tidyverse)
+library(readxl)
+library(plotly)
+```
+
+# Combine data
+```{r}
+import2018 <-
+  read_csv("./data/top10_import_value_2018.csv")%>%
+  janitor::clean_names()%>%
+  filter(country == "China")%>%
+  mutate(commodity = product)%>%
+  select(year, month, commodity, value)
+
+import2019 <-
+  read_csv("./data/Top 10 Import Clean 2019.csv")%>%
+  janitor::clean_names()%>%
+  filter(import_country == "China")%>%
+  mutate(month = plu::capitalize(month),
+         value = import_value,
+         year = 2019)%>%
+  select(year, month, commodity, value)
+
+import2020 <-
+  read_csv("./data/Top 10 Import Clean 2020.csv")%>%
+  janitor::clean_names()%>%
+  filter(import_country == "China", year ==2020)%>%
+  mutate(value = import_values)%>%
+  select(year, month, commodity, value)
+
+import2021 <-
+  read_xlsx("./data/Top10_import2021.xlsx")%>%
+  mutate(value = import_value)%>%
+  select(year, month, commodity, value)
+
+import_beforeCOVID <-
+  bind_rows(import2018, import2019)%>%
+  mutate(month = match(month, month.name))%>%
+  mutate(month = month.abb[month])
+
+write_csv(import_beforeCOVID, "./data/cleaned data/Import from China beforeCOVID.csv")
+
+import_afterCOVID <-
+  bind_rows(import2020, import2021)%>%
+  mutate(month = match(month, month.name))%>%
+  mutate(month = month.abb[month])
+
+write_csv(import_afterCOVID, "./data/cleaned data/Import from China afterCOVID.csv")
+```
+
+# Plot
+```{r}
+plot2_before <- 
+  read_csv("./data/cleaned data/Import from China beforeCOVID.csv")%>%
+  group_by(commodity)%>%
+  plot_ly(x = ~month, 
+          y = ~value, 
+          color = ~commodity, 
+          legendgroup = ~commodity,
+          type = "bar", 
+          colors = "viridis",
+          showlegend = F)%>% 
+  layout(xaxis = list(title = 'Month (2018-2019)',
+                      categoryorder = "array",
+                      categoryarray = ~ month))
+plot2_after <-
+  read_csv("./data/cleaned data/Import from China afterCOVID.csv")%>%
+  group_by(commodity)%>%
+  plot_ly(x = ~month, 
+          y = ~value, 
+          color = ~commodity, 
+          legendgroup = ~commodity, 
+          type = "bar", 
+          colors = "viridis")%>% 
+  layout(xaxis = list(title = 'Month (2020-2021)',
+                      categoryorder = "array",
+                      categoryarray = ~ month),
+         legend = list(title = list(text='<b> Commodity </b>'),
+                       font = list(size = 8)))
+
+subplot(plot2_before, plot2_after, shareX = TRUE, shareY = TRUE)%>%
+  layout(title = 'Total Values of Monthly Import from China Before and After COVID',
+         yaxis = list(title = 'Values (Million dollars)'))
+
+```
+
+
+
+
+
+
+
+
